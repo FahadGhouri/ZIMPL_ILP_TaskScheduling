@@ -1,0 +1,2751 @@
+zimpl	v       0	ts#0            	"ts#0"
+zimpl	v       1	ts#1            	"ts#1"
+zimpl	v       2	ts#2            	"ts#2"
+zimpl	v       3	ts#3            	"ts#3"
+zimpl	v       4	ts#4            	"ts#4"
+zimpl	v       5	ts#5            	"ts#5"
+zimpl	v       6	ts#6            	"ts#6"
+zimpl	v       7	ts#7            	"ts#7"
+zimpl	v       8	ts#8            	"ts#8"
+zimpl	v       9	ts#9            	"ts#9"
+zimpl	v      10	te#0            	"te#0"
+zimpl	v      11	te#1            	"te#1"
+zimpl	v      12	te#2            	"te#2"
+zimpl	v      13	te#3            	"te#3"
+zimpl	v      14	te#4            	"te#4"
+zimpl	v      15	te#5            	"te#5"
+zimpl	v      16	te#6            	"te#6"
+zimpl	v      17	te#7            	"te#7"
+zimpl	v      18	te#8            	"te#8"
+zimpl	v      19	te#9            	"te#9"
+zimpl	v      20	__ObjOffset@14  	"@@ObjOffset"	1.0000000000000000e+00
+zimpl	v      21	__C_4_1_xp_0@15 	"@@C_4_1_xp_0"
+zimpl	v      22	__C_4_1_xm_1@16 	"@@C_4_1_xm_1"
+zimpl	v      23	__C_4_1_bp_2@17 	"@@C_4_1_bp_2"
+zimpl	v      24	__C_4_1_bm_3@18 	"@@C_4_1_bm_3"
+zimpl	v      25	__C_4_1_re_4@19 	"@@C_4_1_re_4"
+zimpl	v      26	__C_4_1_xp_5@1a 	"@@C_4_1_xp_5"
+zimpl	v      27	__C_4_1_xm_6@1b 	"@@C_4_1_xm_6"
+zimpl	v      28	__C_4_1_bp_7@1c 	"@@C_4_1_bp_7"
+zimpl	v      29	__C_4_1_bm_8@1d 	"@@C_4_1_bm_8"
+zimpl	v      30	__C_4_1_re_9@1e 	"@@C_4_1_re_9"
+zimpl	v      31	__C_4_1_re_10@1f	"@@C_4_1_re_10"
+zimpl	v      32	__C_4_2_xp_11@20	"@@C_4_2_xp_11"
+zimpl	v      33	__C_4_2_xm_12@21	"@@C_4_2_xm_12"
+zimpl	v      34	__C_4_2_bp_13@22	"@@C_4_2_bp_13"
+zimpl	v      35	__C_4_2_bm_14@23	"@@C_4_2_bm_14"
+zimpl	v      36	__C_4_2_re_15@24	"@@C_4_2_re_15"
+zimpl	v      37	__C_4_2_xp_16@25	"@@C_4_2_xp_16"
+zimpl	v      38	__C_4_2_xm_17@26	"@@C_4_2_xm_17"
+zimpl	v      39	__C_4_2_bp_18@27	"@@C_4_2_bp_18"
+zimpl	v      40	__C_4_2_bm_19@28	"@@C_4_2_bm_19"
+zimpl	v      41	__C_4_2_re_20@29	"@@C_4_2_re_20"
+zimpl	v      42	__C_4_2_re_21@2a	"@@C_4_2_re_21"
+zimpl	v      43	__C_4_3_xp_22@2b	"@@C_4_3_xp_22"
+zimpl	v      44	__C_4_3_xm_23@2c	"@@C_4_3_xm_23"
+zimpl	v      45	__C_4_3_bp_24@2d	"@@C_4_3_bp_24"
+zimpl	v      46	__C_4_3_bm_25@2e	"@@C_4_3_bm_25"
+zimpl	v      47	__C_4_3_re_26@2f	"@@C_4_3_re_26"
+zimpl	v      48	__C_4_3_xp_27@30	"@@C_4_3_xp_27"
+zimpl	v      49	__C_4_3_xm_28@31	"@@C_4_3_xm_28"
+zimpl	v      50	__C_4_3_bp_29@32	"@@C_4_3_bp_29"
+zimpl	v      51	__C_4_3_bm_30@33	"@@C_4_3_bm_30"
+zimpl	v      52	__C_4_3_re_31@34	"@@C_4_3_re_31"
+zimpl	v      53	__C_4_3_re_32@35	"@@C_4_3_re_32"
+zimpl	v      54	__C_4_4_xp_33@36	"@@C_4_4_xp_33"
+zimpl	v      55	__C_4_4_xm_34@37	"@@C_4_4_xm_34"
+zimpl	v      56	__C_4_4_bp_35@38	"@@C_4_4_bp_35"
+zimpl	v      57	__C_4_4_bm_36@39	"@@C_4_4_bm_36"
+zimpl	v      58	__C_4_4_re_37@3a	"@@C_4_4_re_37"
+zimpl	v      59	__C_4_4_xp_38@3b	"@@C_4_4_xp_38"
+zimpl	v      60	__C_4_4_xm_39@3c	"@@C_4_4_xm_39"
+zimpl	v      61	__C_4_4_bp_40@3d	"@@C_4_4_bp_40"
+zimpl	v      62	__C_4_4_bm_41@3e	"@@C_4_4_bm_41"
+zimpl	v      63	__C_4_4_re_42@3f	"@@C_4_4_re_42"
+zimpl	v      64	__C_4_4_re_43@40	"@@C_4_4_re_43"
+zimpl	v      65	__C_4_5_xp_44@41	"@@C_4_5_xp_44"
+zimpl	v      66	__C_4_5_xm_45@42	"@@C_4_5_xm_45"
+zimpl	v      67	__C_4_5_bp_46@43	"@@C_4_5_bp_46"
+zimpl	v      68	__C_4_5_bm_47@44	"@@C_4_5_bm_47"
+zimpl	v      69	__C_4_5_re_48@45	"@@C_4_5_re_48"
+zimpl	v      70	__C_4_5_xp_49@46	"@@C_4_5_xp_49"
+zimpl	v      71	__C_4_5_xm_50@47	"@@C_4_5_xm_50"
+zimpl	v      72	__C_4_5_bp_51@48	"@@C_4_5_bp_51"
+zimpl	v      73	__C_4_5_bm_52@49	"@@C_4_5_bm_52"
+zimpl	v      74	__C_4_5_re_53@4a	"@@C_4_5_re_53"
+zimpl	v      75	__C_4_5_re_54@4b	"@@C_4_5_re_54"
+zimpl	v      76	__C_4_6_xp_55@4c	"@@C_4_6_xp_55"
+zimpl	v      77	__C_4_6_xm_56@4d	"@@C_4_6_xm_56"
+zimpl	v      78	__C_4_6_bp_57@4e	"@@C_4_6_bp_57"
+zimpl	v      79	__C_4_6_bm_58@4f	"@@C_4_6_bm_58"
+zimpl	v      80	__C_4_6_re_59@50	"@@C_4_6_re_59"
+zimpl	v      81	__C_4_6_xp_60@51	"@@C_4_6_xp_60"
+zimpl	v      82	__C_4_6_xm_61@52	"@@C_4_6_xm_61"
+zimpl	v      83	__C_4_6_bp_62@53	"@@C_4_6_bp_62"
+zimpl	v      84	__C_4_6_bm_63@54	"@@C_4_6_bm_63"
+zimpl	v      85	__C_4_6_re_64@55	"@@C_4_6_re_64"
+zimpl	v      86	__C_4_6_re_65@56	"@@C_4_6_re_65"
+zimpl	v      87	__C_4_7_xp_66@57	"@@C_4_7_xp_66"
+zimpl	v      88	__C_4_7_xm_67@58	"@@C_4_7_xm_67"
+zimpl	v      89	__C_4_7_bp_68@59	"@@C_4_7_bp_68"
+zimpl	v      90	__C_4_7_bm_69@5a	"@@C_4_7_bm_69"
+zimpl	v      91	__C_4_7_re_70@5b	"@@C_4_7_re_70"
+zimpl	v      92	__C_4_7_xp_71@5c	"@@C_4_7_xp_71"
+zimpl	v      93	__C_4_7_xm_72@5d	"@@C_4_7_xm_72"
+zimpl	v      94	__C_4_7_bp_73@5e	"@@C_4_7_bp_73"
+zimpl	v      95	__C_4_7_bm_74@5f	"@@C_4_7_bm_74"
+zimpl	v      96	__C_4_7_re_75@60	"@@C_4_7_re_75"
+zimpl	v      97	__C_4_7_re_76@61	"@@C_4_7_re_76"
+zimpl	v      98	__C_4_8_xp_77@62	"@@C_4_8_xp_77"
+zimpl	v      99	__C_4_8_xm_78@63	"@@C_4_8_xm_78"
+zimpl	v     100	__C_4_8_bp_79@64	"@@C_4_8_bp_79"
+zimpl	v     101	__C_4_8_bm_80@65	"@@C_4_8_bm_80"
+zimpl	v     102	__C_4_8_re_81@66	"@@C_4_8_re_81"
+zimpl	v     103	__C_4_8_xp_82@67	"@@C_4_8_xp_82"
+zimpl	v     104	__C_4_8_xm_83@68	"@@C_4_8_xm_83"
+zimpl	v     105	__C_4_8_bp_84@69	"@@C_4_8_bp_84"
+zimpl	v     106	__C_4_8_bm_85@6a	"@@C_4_8_bm_85"
+zimpl	v     107	__C_4_8_re_86@6b	"@@C_4_8_re_86"
+zimpl	v     108	__C_4_8_re_87@6c	"@@C_4_8_re_87"
+zimpl	v     109	__C_4_9_xp_88@6d	"@@C_4_9_xp_88"
+zimpl	v     110	__C_4_9_xm_89@6e	"@@C_4_9_xm_89"
+zimpl	v     111	__C_4_9_bp_90@6f	"@@C_4_9_bp_90"
+zimpl	v     112	__C_4_9_bm_91@70	"@@C_4_9_bm_91"
+zimpl	v     113	__C_4_9_re_92@71	"@@C_4_9_re_92"
+zimpl	v     114	__C_4_9_xp_93@72	"@@C_4_9_xp_93"
+zimpl	v     115	__C_4_9_xm_94@73	"@@C_4_9_xm_94"
+zimpl	v     116	__C_4_9_bp_95@74	"@@C_4_9_bp_95"
+zimpl	v     117	__C_4_9_bm_96@75	"@@C_4_9_bm_96"
+zimpl	v     118	__C_4_9_re_97@76	"@@C_4_9_re_97"
+zimpl	v     119	__C_4_9_re_98@77	"@@C_4_9_re_98"
+zimpl	v     120	__C_4_10_xp_9@78	"@@C_4_10_xp_99"
+zimpl	v     121	__C_4_10_xm_1@79	"@@C_4_10_xm_100"
+zimpl	v     122	__C_4_10_bp_1@7a	"@@C_4_10_bp_101"
+zimpl	v     123	__C_4_10_bm_1@7b	"@@C_4_10_bm_102"
+zimpl	v     124	__C_4_10_re_1@7c	"@@C_4_10_re_103"
+zimpl	v     125	__C_4_10_xp_1@7d	"@@C_4_10_xp_104"
+zimpl	v     126	__C_4_10_xm_1@7e	"@@C_4_10_xm_105"
+zimpl	v     127	__C_4_10_bp_1@7f	"@@C_4_10_bp_106"
+zimpl	v     128	__C_4_10_bm_1@80	"@@C_4_10_bm_107"
+zimpl	v     129	__C_4_10_re_1@81	"@@C_4_10_re_108"
+zimpl	v     130	__C_4_10_re_1@82	"@@C_4_10_re_109"
+zimpl	v     131	__C_4_11_xp_1@83	"@@C_4_11_xp_110"
+zimpl	v     132	__C_4_11_xm_1@84	"@@C_4_11_xm_111"
+zimpl	v     133	__C_4_11_bp_1@85	"@@C_4_11_bp_112"
+zimpl	v     134	__C_4_11_bm_1@86	"@@C_4_11_bm_113"
+zimpl	v     135	__C_4_11_re_1@87	"@@C_4_11_re_114"
+zimpl	v     136	__C_4_11_xp_1@88	"@@C_4_11_xp_115"
+zimpl	v     137	__C_4_11_xm_1@89	"@@C_4_11_xm_116"
+zimpl	v     138	__C_4_11_bp_1@8a	"@@C_4_11_bp_117"
+zimpl	v     139	__C_4_11_bm_1@8b	"@@C_4_11_bm_118"
+zimpl	v     140	__C_4_11_re_1@8c	"@@C_4_11_re_119"
+zimpl	v     141	__C_4_11_re_1@8d	"@@C_4_11_re_120"
+zimpl	v     142	__C_4_12_xp_1@8e	"@@C_4_12_xp_121"
+zimpl	v     143	__C_4_12_xm_1@8f	"@@C_4_12_xm_122"
+zimpl	v     144	__C_4_12_bp_1@90	"@@C_4_12_bp_123"
+zimpl	v     145	__C_4_12_bm_1@91	"@@C_4_12_bm_124"
+zimpl	v     146	__C_4_12_re_1@92	"@@C_4_12_re_125"
+zimpl	v     147	__C_4_12_xp_1@93	"@@C_4_12_xp_126"
+zimpl	v     148	__C_4_12_xm_1@94	"@@C_4_12_xm_127"
+zimpl	v     149	__C_4_12_bp_1@95	"@@C_4_12_bp_128"
+zimpl	v     150	__C_4_12_bm_1@96	"@@C_4_12_bm_129"
+zimpl	v     151	__C_4_12_re_1@97	"@@C_4_12_re_130"
+zimpl	v     152	__C_4_12_re_1@98	"@@C_4_12_re_131"
+zimpl	v     153	__C_4_13_xp_1@99	"@@C_4_13_xp_132"
+zimpl	v     154	__C_4_13_xm_1@9a	"@@C_4_13_xm_133"
+zimpl	v     155	__C_4_13_bp_1@9b	"@@C_4_13_bp_134"
+zimpl	v     156	__C_4_13_bm_1@9c	"@@C_4_13_bm_135"
+zimpl	v     157	__C_4_13_re_1@9d	"@@C_4_13_re_136"
+zimpl	v     158	__C_4_13_xp_1@9e	"@@C_4_13_xp_137"
+zimpl	v     159	__C_4_13_xm_1@9f	"@@C_4_13_xm_138"
+zimpl	v     160	__C_4_13_bp_1@a0	"@@C_4_13_bp_139"
+zimpl	v     161	__C_4_13_bm_1@a1	"@@C_4_13_bm_140"
+zimpl	v     162	__C_4_13_re_1@a2	"@@C_4_13_re_141"
+zimpl	v     163	__C_4_13_re_1@a3	"@@C_4_13_re_142"
+zimpl	v     164	__C_4_14_xp_1@a4	"@@C_4_14_xp_143"
+zimpl	v     165	__C_4_14_xm_1@a5	"@@C_4_14_xm_144"
+zimpl	v     166	__C_4_14_bp_1@a6	"@@C_4_14_bp_145"
+zimpl	v     167	__C_4_14_bm_1@a7	"@@C_4_14_bm_146"
+zimpl	v     168	__C_4_14_re_1@a8	"@@C_4_14_re_147"
+zimpl	v     169	__C_4_14_xp_1@a9	"@@C_4_14_xp_148"
+zimpl	v     170	__C_4_14_xm_1@aa	"@@C_4_14_xm_149"
+zimpl	v     171	__C_4_14_bp_1@ab	"@@C_4_14_bp_150"
+zimpl	v     172	__C_4_14_bm_1@ac	"@@C_4_14_bm_151"
+zimpl	v     173	__C_4_14_re_1@ad	"@@C_4_14_re_152"
+zimpl	v     174	__C_4_14_re_1@ae	"@@C_4_14_re_153"
+zimpl	v     175	__C_4_15_xp_1@af	"@@C_4_15_xp_154"
+zimpl	v     176	__C_4_15_xm_1@b0	"@@C_4_15_xm_155"
+zimpl	v     177	__C_4_15_bp_1@b1	"@@C_4_15_bp_156"
+zimpl	v     178	__C_4_15_bm_1@b2	"@@C_4_15_bm_157"
+zimpl	v     179	__C_4_15_re_1@b3	"@@C_4_15_re_158"
+zimpl	v     180	__C_4_15_xp_1@b4	"@@C_4_15_xp_159"
+zimpl	v     181	__C_4_15_xm_1@b5	"@@C_4_15_xm_160"
+zimpl	v     182	__C_4_15_bp_1@b6	"@@C_4_15_bp_161"
+zimpl	v     183	__C_4_15_bm_1@b7	"@@C_4_15_bm_162"
+zimpl	v     184	__C_4_15_re_1@b8	"@@C_4_15_re_163"
+zimpl	v     185	__C_4_15_re_1@b9	"@@C_4_15_re_164"
+zimpl	v     186	__C_4_16_xp_1@ba	"@@C_4_16_xp_165"
+zimpl	v     187	__C_4_16_xm_1@bb	"@@C_4_16_xm_166"
+zimpl	v     188	__C_4_16_bp_1@bc	"@@C_4_16_bp_167"
+zimpl	v     189	__C_4_16_bm_1@bd	"@@C_4_16_bm_168"
+zimpl	v     190	__C_4_16_re_1@be	"@@C_4_16_re_169"
+zimpl	v     191	__C_4_16_xp_1@bf	"@@C_4_16_xp_170"
+zimpl	v     192	__C_4_16_xm_1@c0	"@@C_4_16_xm_171"
+zimpl	v     193	__C_4_16_bp_1@c1	"@@C_4_16_bp_172"
+zimpl	v     194	__C_4_16_bm_1@c2	"@@C_4_16_bm_173"
+zimpl	v     195	__C_4_16_re_1@c3	"@@C_4_16_re_174"
+zimpl	v     196	__C_4_16_re_1@c4	"@@C_4_16_re_175"
+zimpl	v     197	__C_4_17_xp_1@c5	"@@C_4_17_xp_176"
+zimpl	v     198	__C_4_17_xm_1@c6	"@@C_4_17_xm_177"
+zimpl	v     199	__C_4_17_bp_1@c7	"@@C_4_17_bp_178"
+zimpl	v     200	__C_4_17_bm_1@c8	"@@C_4_17_bm_179"
+zimpl	v     201	__C_4_17_re_1@c9	"@@C_4_17_re_180"
+zimpl	v     202	__C_4_17_xp_1@ca	"@@C_4_17_xp_181"
+zimpl	v     203	__C_4_17_xm_1@cb	"@@C_4_17_xm_182"
+zimpl	v     204	__C_4_17_bp_1@cc	"@@C_4_17_bp_183"
+zimpl	v     205	__C_4_17_bm_1@cd	"@@C_4_17_bm_184"
+zimpl	v     206	__C_4_17_re_1@ce	"@@C_4_17_re_185"
+zimpl	v     207	__C_4_17_re_1@cf	"@@C_4_17_re_186"
+zimpl	v     208	__C_4_18_xp_1@d0	"@@C_4_18_xp_187"
+zimpl	v     209	__C_4_18_xm_1@d1	"@@C_4_18_xm_188"
+zimpl	v     210	__C_4_18_bp_1@d2	"@@C_4_18_bp_189"
+zimpl	v     211	__C_4_18_bm_1@d3	"@@C_4_18_bm_190"
+zimpl	v     212	__C_4_18_re_1@d4	"@@C_4_18_re_191"
+zimpl	v     213	__C_4_18_xp_1@d5	"@@C_4_18_xp_192"
+zimpl	v     214	__C_4_18_xm_1@d6	"@@C_4_18_xm_193"
+zimpl	v     215	__C_4_18_bp_1@d7	"@@C_4_18_bp_194"
+zimpl	v     216	__C_4_18_bm_1@d8	"@@C_4_18_bm_195"
+zimpl	v     217	__C_4_18_re_1@d9	"@@C_4_18_re_196"
+zimpl	v     218	__C_4_18_re_1@da	"@@C_4_18_re_197"
+zimpl	v     219	__C_4_19_xp_1@db	"@@C_4_19_xp_198"
+zimpl	v     220	__C_4_19_xm_1@dc	"@@C_4_19_xm_199"
+zimpl	v     221	__C_4_19_bp_2@dd	"@@C_4_19_bp_200"
+zimpl	v     222	__C_4_19_bm_2@de	"@@C_4_19_bm_201"
+zimpl	v     223	__C_4_19_re_2@df	"@@C_4_19_re_202"
+zimpl	v     224	__C_4_19_xp_2@e0	"@@C_4_19_xp_203"
+zimpl	v     225	__C_4_19_xm_2@e1	"@@C_4_19_xm_204"
+zimpl	v     226	__C_4_19_bp_2@e2	"@@C_4_19_bp_205"
+zimpl	v     227	__C_4_19_bm_2@e3	"@@C_4_19_bm_206"
+zimpl	v     228	__C_4_19_re_2@e4	"@@C_4_19_re_207"
+zimpl	v     229	__C_4_19_re_2@e5	"@@C_4_19_re_208"
+zimpl	v     230	__C_4_20_xp_2@e6	"@@C_4_20_xp_209"
+zimpl	v     231	__C_4_20_xm_2@e7	"@@C_4_20_xm_210"
+zimpl	v     232	__C_4_20_bp_2@e8	"@@C_4_20_bp_211"
+zimpl	v     233	__C_4_20_bm_2@e9	"@@C_4_20_bm_212"
+zimpl	v     234	__C_4_20_re_2@ea	"@@C_4_20_re_213"
+zimpl	v     235	__C_4_20_xp_2@eb	"@@C_4_20_xp_214"
+zimpl	v     236	__C_4_20_xm_2@ec	"@@C_4_20_xm_215"
+zimpl	v     237	__C_4_20_bp_2@ed	"@@C_4_20_bp_216"
+zimpl	v     238	__C_4_20_bm_2@ee	"@@C_4_20_bm_217"
+zimpl	v     239	__C_4_20_re_2@ef	"@@C_4_20_re_218"
+zimpl	v     240	__C_4_20_re_2@f0	"@@C_4_20_re_219"
+zimpl	v     241	__C_4_21_xp_2@f1	"@@C_4_21_xp_220"
+zimpl	v     242	__C_4_21_xm_2@f2	"@@C_4_21_xm_221"
+zimpl	v     243	__C_4_21_bp_2@f3	"@@C_4_21_bp_222"
+zimpl	v     244	__C_4_21_bm_2@f4	"@@C_4_21_bm_223"
+zimpl	v     245	__C_4_21_re_2@f5	"@@C_4_21_re_224"
+zimpl	v     246	__C_4_21_xp_2@f6	"@@C_4_21_xp_225"
+zimpl	v     247	__C_4_21_xm_2@f7	"@@C_4_21_xm_226"
+zimpl	v     248	__C_4_21_bp_2@f8	"@@C_4_21_bp_227"
+zimpl	v     249	__C_4_21_bm_2@f9	"@@C_4_21_bm_228"
+zimpl	v     250	__C_4_21_re_2@fa	"@@C_4_21_re_229"
+zimpl	v     251	__C_4_21_re_2@fb	"@@C_4_21_re_230"
+zimpl	v     252	__C_4_22_xp_2@fc	"@@C_4_22_xp_231"
+zimpl	v     253	__C_4_22_xm_2@fd	"@@C_4_22_xm_232"
+zimpl	v     254	__C_4_22_bp_2@fe	"@@C_4_22_bp_233"
+zimpl	v     255	__C_4_22_bm_2@ff	"@@C_4_22_bm_234"
+zimpl	v     256	__C_4_22_re_@100	"@@C_4_22_re_235"
+zimpl	v     257	__C_4_22_xp_@101	"@@C_4_22_xp_236"
+zimpl	v     258	__C_4_22_xm_@102	"@@C_4_22_xm_237"
+zimpl	v     259	__C_4_22_bp_@103	"@@C_4_22_bp_238"
+zimpl	v     260	__C_4_22_bm_@104	"@@C_4_22_bm_239"
+zimpl	v     261	__C_4_22_re_@105	"@@C_4_22_re_240"
+zimpl	v     262	__C_4_22_re_@106	"@@C_4_22_re_241"
+zimpl	v     263	__C_4_23_xp_@107	"@@C_4_23_xp_242"
+zimpl	v     264	__C_4_23_xm_@108	"@@C_4_23_xm_243"
+zimpl	v     265	__C_4_23_bp_@109	"@@C_4_23_bp_244"
+zimpl	v     266	__C_4_23_bm_@10a	"@@C_4_23_bm_245"
+zimpl	v     267	__C_4_23_re_@10b	"@@C_4_23_re_246"
+zimpl	v     268	__C_4_23_xp_@10c	"@@C_4_23_xp_247"
+zimpl	v     269	__C_4_23_xm_@10d	"@@C_4_23_xm_248"
+zimpl	v     270	__C_4_23_bp_@10e	"@@C_4_23_bp_249"
+zimpl	v     271	__C_4_23_bm_@10f	"@@C_4_23_bm_250"
+zimpl	v     272	__C_4_23_re_@110	"@@C_4_23_re_251"
+zimpl	v     273	__C_4_23_re_@111	"@@C_4_23_re_252"
+zimpl	v     274	__C_4_24_xp_@112	"@@C_4_24_xp_253"
+zimpl	v     275	__C_4_24_xm_@113	"@@C_4_24_xm_254"
+zimpl	v     276	__C_4_24_bp_@114	"@@C_4_24_bp_255"
+zimpl	v     277	__C_4_24_bm_@115	"@@C_4_24_bm_256"
+zimpl	v     278	__C_4_24_re_@116	"@@C_4_24_re_257"
+zimpl	v     279	__C_4_24_xp_@117	"@@C_4_24_xp_258"
+zimpl	v     280	__C_4_24_xm_@118	"@@C_4_24_xm_259"
+zimpl	v     281	__C_4_24_bp_@119	"@@C_4_24_bp_260"
+zimpl	v     282	__C_4_24_bm_@11a	"@@C_4_24_bm_261"
+zimpl	v     283	__C_4_24_re_@11b	"@@C_4_24_re_262"
+zimpl	v     284	__C_4_24_re_@11c	"@@C_4_24_re_263"
+zimpl	v     285	__C_4_25_xp_@11d	"@@C_4_25_xp_264"
+zimpl	v     286	__C_4_25_xm_@11e	"@@C_4_25_xm_265"
+zimpl	v     287	__C_4_25_bp_@11f	"@@C_4_25_bp_266"
+zimpl	v     288	__C_4_25_bm_@120	"@@C_4_25_bm_267"
+zimpl	v     289	__C_4_25_re_@121	"@@C_4_25_re_268"
+zimpl	v     290	__C_4_25_xp_@122	"@@C_4_25_xp_269"
+zimpl	v     291	__C_4_25_xm_@123	"@@C_4_25_xm_270"
+zimpl	v     292	__C_4_25_bp_@124	"@@C_4_25_bp_271"
+zimpl	v     293	__C_4_25_bm_@125	"@@C_4_25_bm_272"
+zimpl	v     294	__C_4_25_re_@126	"@@C_4_25_re_273"
+zimpl	v     295	__C_4_25_re_@127	"@@C_4_25_re_274"
+zimpl	v     296	__C_4_26_xp_@128	"@@C_4_26_xp_275"
+zimpl	v     297	__C_4_26_xm_@129	"@@C_4_26_xm_276"
+zimpl	v     298	__C_4_26_bp_@12a	"@@C_4_26_bp_277"
+zimpl	v     299	__C_4_26_bm_@12b	"@@C_4_26_bm_278"
+zimpl	v     300	__C_4_26_re_@12c	"@@C_4_26_re_279"
+zimpl	v     301	__C_4_26_xp_@12d	"@@C_4_26_xp_280"
+zimpl	v     302	__C_4_26_xm_@12e	"@@C_4_26_xm_281"
+zimpl	v     303	__C_4_26_bp_@12f	"@@C_4_26_bp_282"
+zimpl	v     304	__C_4_26_bm_@130	"@@C_4_26_bm_283"
+zimpl	v     305	__C_4_26_re_@131	"@@C_4_26_re_284"
+zimpl	v     306	__C_4_26_re_@132	"@@C_4_26_re_285"
+zimpl	v     307	__C_4_27_xp_@133	"@@C_4_27_xp_286"
+zimpl	v     308	__C_4_27_xm_@134	"@@C_4_27_xm_287"
+zimpl	v     309	__C_4_27_bp_@135	"@@C_4_27_bp_288"
+zimpl	v     310	__C_4_27_bm_@136	"@@C_4_27_bm_289"
+zimpl	v     311	__C_4_27_re_@137	"@@C_4_27_re_290"
+zimpl	v     312	__C_4_27_xp_@138	"@@C_4_27_xp_291"
+zimpl	v     313	__C_4_27_xm_@139	"@@C_4_27_xm_292"
+zimpl	v     314	__C_4_27_bp_@13a	"@@C_4_27_bp_293"
+zimpl	v     315	__C_4_27_bm_@13b	"@@C_4_27_bm_294"
+zimpl	v     316	__C_4_27_re_@13c	"@@C_4_27_re_295"
+zimpl	v     317	__C_4_27_re_@13d	"@@C_4_27_re_296"
+zimpl	v     318	__C_4_28_xp_@13e	"@@C_4_28_xp_297"
+zimpl	v     319	__C_4_28_xm_@13f	"@@C_4_28_xm_298"
+zimpl	v     320	__C_4_28_bp_@140	"@@C_4_28_bp_299"
+zimpl	v     321	__C_4_28_bm_@141	"@@C_4_28_bm_300"
+zimpl	v     322	__C_4_28_re_@142	"@@C_4_28_re_301"
+zimpl	v     323	__C_4_28_xp_@143	"@@C_4_28_xp_302"
+zimpl	v     324	__C_4_28_xm_@144	"@@C_4_28_xm_303"
+zimpl	v     325	__C_4_28_bp_@145	"@@C_4_28_bp_304"
+zimpl	v     326	__C_4_28_bm_@146	"@@C_4_28_bm_305"
+zimpl	v     327	__C_4_28_re_@147	"@@C_4_28_re_306"
+zimpl	v     328	__C_4_28_re_@148	"@@C_4_28_re_307"
+zimpl	v     329	__C_4_29_xp_@149	"@@C_4_29_xp_308"
+zimpl	v     330	__C_4_29_xm_@14a	"@@C_4_29_xm_309"
+zimpl	v     331	__C_4_29_bp_@14b	"@@C_4_29_bp_310"
+zimpl	v     332	__C_4_29_bm_@14c	"@@C_4_29_bm_311"
+zimpl	v     333	__C_4_29_re_@14d	"@@C_4_29_re_312"
+zimpl	v     334	__C_4_29_xp_@14e	"@@C_4_29_xp_313"
+zimpl	v     335	__C_4_29_xm_@14f	"@@C_4_29_xm_314"
+zimpl	v     336	__C_4_29_bp_@150	"@@C_4_29_bp_315"
+zimpl	v     337	__C_4_29_bm_@151	"@@C_4_29_bm_316"
+zimpl	v     338	__C_4_29_re_@152	"@@C_4_29_re_317"
+zimpl	v     339	__C_4_29_re_@153	"@@C_4_29_re_318"
+zimpl	v     340	__C_4_30_xp_@154	"@@C_4_30_xp_319"
+zimpl	v     341	__C_4_30_xm_@155	"@@C_4_30_xm_320"
+zimpl	v     342	__C_4_30_bp_@156	"@@C_4_30_bp_321"
+zimpl	v     343	__C_4_30_bm_@157	"@@C_4_30_bm_322"
+zimpl	v     344	__C_4_30_re_@158	"@@C_4_30_re_323"
+zimpl	v     345	__C_4_30_xp_@159	"@@C_4_30_xp_324"
+zimpl	v     346	__C_4_30_xm_@15a	"@@C_4_30_xm_325"
+zimpl	v     347	__C_4_30_bp_@15b	"@@C_4_30_bp_326"
+zimpl	v     348	__C_4_30_bm_@15c	"@@C_4_30_bm_327"
+zimpl	v     349	__C_4_30_re_@15d	"@@C_4_30_re_328"
+zimpl	v     350	__C_4_30_re_@15e	"@@C_4_30_re_329"
+zimpl	v     351	__C_4_31_xp_@15f	"@@C_4_31_xp_330"
+zimpl	v     352	__C_4_31_xm_@160	"@@C_4_31_xm_331"
+zimpl	v     353	__C_4_31_bp_@161	"@@C_4_31_bp_332"
+zimpl	v     354	__C_4_31_bm_@162	"@@C_4_31_bm_333"
+zimpl	v     355	__C_4_31_re_@163	"@@C_4_31_re_334"
+zimpl	v     356	__C_4_31_xp_@164	"@@C_4_31_xp_335"
+zimpl	v     357	__C_4_31_xm_@165	"@@C_4_31_xm_336"
+zimpl	v     358	__C_4_31_bp_@166	"@@C_4_31_bp_337"
+zimpl	v     359	__C_4_31_bm_@167	"@@C_4_31_bm_338"
+zimpl	v     360	__C_4_31_re_@168	"@@C_4_31_re_339"
+zimpl	v     361	__C_4_31_re_@169	"@@C_4_31_re_340"
+zimpl	v     362	__C_4_32_xp_@16a	"@@C_4_32_xp_341"
+zimpl	v     363	__C_4_32_xm_@16b	"@@C_4_32_xm_342"
+zimpl	v     364	__C_4_32_bp_@16c	"@@C_4_32_bp_343"
+zimpl	v     365	__C_4_32_bm_@16d	"@@C_4_32_bm_344"
+zimpl	v     366	__C_4_32_re_@16e	"@@C_4_32_re_345"
+zimpl	v     367	__C_4_32_xp_@16f	"@@C_4_32_xp_346"
+zimpl	v     368	__C_4_32_xm_@170	"@@C_4_32_xm_347"
+zimpl	v     369	__C_4_32_bp_@171	"@@C_4_32_bp_348"
+zimpl	v     370	__C_4_32_bm_@172	"@@C_4_32_bm_349"
+zimpl	v     371	__C_4_32_re_@173	"@@C_4_32_re_350"
+zimpl	v     372	__C_4_32_re_@174	"@@C_4_32_re_351"
+zimpl	v     373	__C_4_33_xp_@175	"@@C_4_33_xp_352"
+zimpl	v     374	__C_4_33_xm_@176	"@@C_4_33_xm_353"
+zimpl	v     375	__C_4_33_bp_@177	"@@C_4_33_bp_354"
+zimpl	v     376	__C_4_33_bm_@178	"@@C_4_33_bm_355"
+zimpl	v     377	__C_4_33_re_@179	"@@C_4_33_re_356"
+zimpl	v     378	__C_4_33_xp_@17a	"@@C_4_33_xp_357"
+zimpl	v     379	__C_4_33_xm_@17b	"@@C_4_33_xm_358"
+zimpl	v     380	__C_4_33_bp_@17c	"@@C_4_33_bp_359"
+zimpl	v     381	__C_4_33_bm_@17d	"@@C_4_33_bm_360"
+zimpl	v     382	__C_4_33_re_@17e	"@@C_4_33_re_361"
+zimpl	v     383	__C_4_33_re_@17f	"@@C_4_33_re_362"
+zimpl	v     384	__C_4_34_xp_@180	"@@C_4_34_xp_363"
+zimpl	v     385	__C_4_34_xm_@181	"@@C_4_34_xm_364"
+zimpl	v     386	__C_4_34_bp_@182	"@@C_4_34_bp_365"
+zimpl	v     387	__C_4_34_bm_@183	"@@C_4_34_bm_366"
+zimpl	v     388	__C_4_34_re_@184	"@@C_4_34_re_367"
+zimpl	v     389	__C_4_34_xp_@185	"@@C_4_34_xp_368"
+zimpl	v     390	__C_4_34_xm_@186	"@@C_4_34_xm_369"
+zimpl	v     391	__C_4_34_bp_@187	"@@C_4_34_bp_370"
+zimpl	v     392	__C_4_34_bm_@188	"@@C_4_34_bm_371"
+zimpl	v     393	__C_4_34_re_@189	"@@C_4_34_re_372"
+zimpl	v     394	__C_4_34_re_@18a	"@@C_4_34_re_373"
+zimpl	v     395	__C_4_35_xp_@18b	"@@C_4_35_xp_374"
+zimpl	v     396	__C_4_35_xm_@18c	"@@C_4_35_xm_375"
+zimpl	v     397	__C_4_35_bp_@18d	"@@C_4_35_bp_376"
+zimpl	v     398	__C_4_35_bm_@18e	"@@C_4_35_bm_377"
+zimpl	v     399	__C_4_35_re_@18f	"@@C_4_35_re_378"
+zimpl	v     400	__C_4_35_xp_@190	"@@C_4_35_xp_379"
+zimpl	v     401	__C_4_35_xm_@191	"@@C_4_35_xm_380"
+zimpl	v     402	__C_4_35_bp_@192	"@@C_4_35_bp_381"
+zimpl	v     403	__C_4_35_bm_@193	"@@C_4_35_bm_382"
+zimpl	v     404	__C_4_35_re_@194	"@@C_4_35_re_383"
+zimpl	v     405	__C_4_35_re_@195	"@@C_4_35_re_384"
+zimpl	v     406	__C_4_36_xp_@196	"@@C_4_36_xp_385"
+zimpl	v     407	__C_4_36_xm_@197	"@@C_4_36_xm_386"
+zimpl	v     408	__C_4_36_bp_@198	"@@C_4_36_bp_387"
+zimpl	v     409	__C_4_36_bm_@199	"@@C_4_36_bm_388"
+zimpl	v     410	__C_4_36_re_@19a	"@@C_4_36_re_389"
+zimpl	v     411	__C_4_36_xp_@19b	"@@C_4_36_xp_390"
+zimpl	v     412	__C_4_36_xm_@19c	"@@C_4_36_xm_391"
+zimpl	v     413	__C_4_36_bp_@19d	"@@C_4_36_bp_392"
+zimpl	v     414	__C_4_36_bm_@19e	"@@C_4_36_bm_393"
+zimpl	v     415	__C_4_36_re_@19f	"@@C_4_36_re_394"
+zimpl	v     416	__C_4_36_re_@1a0	"@@C_4_36_re_395"
+zimpl	v     417	__C_4_37_xp_@1a1	"@@C_4_37_xp_396"
+zimpl	v     418	__C_4_37_xm_@1a2	"@@C_4_37_xm_397"
+zimpl	v     419	__C_4_37_bp_@1a3	"@@C_4_37_bp_398"
+zimpl	v     420	__C_4_37_bm_@1a4	"@@C_4_37_bm_399"
+zimpl	v     421	__C_4_37_re_@1a5	"@@C_4_37_re_400"
+zimpl	v     422	__C_4_37_xp_@1a6	"@@C_4_37_xp_401"
+zimpl	v     423	__C_4_37_xm_@1a7	"@@C_4_37_xm_402"
+zimpl	v     424	__C_4_37_bp_@1a8	"@@C_4_37_bp_403"
+zimpl	v     425	__C_4_37_bm_@1a9	"@@C_4_37_bm_404"
+zimpl	v     426	__C_4_37_re_@1aa	"@@C_4_37_re_405"
+zimpl	v     427	__C_4_37_re_@1ab	"@@C_4_37_re_406"
+zimpl	v     428	__C_4_38_xp_@1ac	"@@C_4_38_xp_407"
+zimpl	v     429	__C_4_38_xm_@1ad	"@@C_4_38_xm_408"
+zimpl	v     430	__C_4_38_bp_@1ae	"@@C_4_38_bp_409"
+zimpl	v     431	__C_4_38_bm_@1af	"@@C_4_38_bm_410"
+zimpl	v     432	__C_4_38_re_@1b0	"@@C_4_38_re_411"
+zimpl	v     433	__C_4_38_xp_@1b1	"@@C_4_38_xp_412"
+zimpl	v     434	__C_4_38_xm_@1b2	"@@C_4_38_xm_413"
+zimpl	v     435	__C_4_38_bp_@1b3	"@@C_4_38_bp_414"
+zimpl	v     436	__C_4_38_bm_@1b4	"@@C_4_38_bm_415"
+zimpl	v     437	__C_4_38_re_@1b5	"@@C_4_38_re_416"
+zimpl	v     438	__C_4_38_re_@1b6	"@@C_4_38_re_417"
+zimpl	v     439	__C_4_39_xp_@1b7	"@@C_4_39_xp_418"
+zimpl	v     440	__C_4_39_xm_@1b8	"@@C_4_39_xm_419"
+zimpl	v     441	__C_4_39_bp_@1b9	"@@C_4_39_bp_420"
+zimpl	v     442	__C_4_39_bm_@1ba	"@@C_4_39_bm_421"
+zimpl	v     443	__C_4_39_re_@1bb	"@@C_4_39_re_422"
+zimpl	v     444	__C_4_39_xp_@1bc	"@@C_4_39_xp_423"
+zimpl	v     445	__C_4_39_xm_@1bd	"@@C_4_39_xm_424"
+zimpl	v     446	__C_4_39_bp_@1be	"@@C_4_39_bp_425"
+zimpl	v     447	__C_4_39_bm_@1bf	"@@C_4_39_bm_426"
+zimpl	v     448	__C_4_39_re_@1c0	"@@C_4_39_re_427"
+zimpl	v     449	__C_4_39_re_@1c1	"@@C_4_39_re_428"
+zimpl	v     450	__C_4_40_xp_@1c2	"@@C_4_40_xp_429"
+zimpl	v     451	__C_4_40_xm_@1c3	"@@C_4_40_xm_430"
+zimpl	v     452	__C_4_40_bp_@1c4	"@@C_4_40_bp_431"
+zimpl	v     453	__C_4_40_bm_@1c5	"@@C_4_40_bm_432"
+zimpl	v     454	__C_4_40_re_@1c6	"@@C_4_40_re_433"
+zimpl	v     455	__C_4_40_xp_@1c7	"@@C_4_40_xp_434"
+zimpl	v     456	__C_4_40_xm_@1c8	"@@C_4_40_xm_435"
+zimpl	v     457	__C_4_40_bp_@1c9	"@@C_4_40_bp_436"
+zimpl	v     458	__C_4_40_bm_@1ca	"@@C_4_40_bm_437"
+zimpl	v     459	__C_4_40_re_@1cb	"@@C_4_40_re_438"
+zimpl	v     460	__C_4_40_re_@1cc	"@@C_4_40_re_439"
+zimpl	v     461	__C_4_41_xp_@1cd	"@@C_4_41_xp_440"
+zimpl	v     462	__C_4_41_xm_@1ce	"@@C_4_41_xm_441"
+zimpl	v     463	__C_4_41_bp_@1cf	"@@C_4_41_bp_442"
+zimpl	v     464	__C_4_41_bm_@1d0	"@@C_4_41_bm_443"
+zimpl	v     465	__C_4_41_re_@1d1	"@@C_4_41_re_444"
+zimpl	v     466	__C_4_41_xp_@1d2	"@@C_4_41_xp_445"
+zimpl	v     467	__C_4_41_xm_@1d3	"@@C_4_41_xm_446"
+zimpl	v     468	__C_4_41_bp_@1d4	"@@C_4_41_bp_447"
+zimpl	v     469	__C_4_41_bm_@1d5	"@@C_4_41_bm_448"
+zimpl	v     470	__C_4_41_re_@1d6	"@@C_4_41_re_449"
+zimpl	v     471	__C_4_41_re_@1d7	"@@C_4_41_re_450"
+zimpl	v     472	__C_4_42_xp_@1d8	"@@C_4_42_xp_451"
+zimpl	v     473	__C_4_42_xm_@1d9	"@@C_4_42_xm_452"
+zimpl	v     474	__C_4_42_bp_@1da	"@@C_4_42_bp_453"
+zimpl	v     475	__C_4_42_bm_@1db	"@@C_4_42_bm_454"
+zimpl	v     476	__C_4_42_re_@1dc	"@@C_4_42_re_455"
+zimpl	v     477	__C_4_42_xp_@1dd	"@@C_4_42_xp_456"
+zimpl	v     478	__C_4_42_xm_@1de	"@@C_4_42_xm_457"
+zimpl	v     479	__C_4_42_bp_@1df	"@@C_4_42_bp_458"
+zimpl	v     480	__C_4_42_bm_@1e0	"@@C_4_42_bm_459"
+zimpl	v     481	__C_4_42_re_@1e1	"@@C_4_42_re_460"
+zimpl	v     482	__C_4_42_re_@1e2	"@@C_4_42_re_461"
+zimpl	v     483	__C_4_43_xp_@1e3	"@@C_4_43_xp_462"
+zimpl	v     484	__C_4_43_xm_@1e4	"@@C_4_43_xm_463"
+zimpl	v     485	__C_4_43_bp_@1e5	"@@C_4_43_bp_464"
+zimpl	v     486	__C_4_43_bm_@1e6	"@@C_4_43_bm_465"
+zimpl	v     487	__C_4_43_re_@1e7	"@@C_4_43_re_466"
+zimpl	v     488	__C_4_43_xp_@1e8	"@@C_4_43_xp_467"
+zimpl	v     489	__C_4_43_xm_@1e9	"@@C_4_43_xm_468"
+zimpl	v     490	__C_4_43_bp_@1ea	"@@C_4_43_bp_469"
+zimpl	v     491	__C_4_43_bm_@1eb	"@@C_4_43_bm_470"
+zimpl	v     492	__C_4_43_re_@1ec	"@@C_4_43_re_471"
+zimpl	v     493	__C_4_43_re_@1ed	"@@C_4_43_re_472"
+zimpl	v     494	__C_4_44_xp_@1ee	"@@C_4_44_xp_473"
+zimpl	v     495	__C_4_44_xm_@1ef	"@@C_4_44_xm_474"
+zimpl	v     496	__C_4_44_bp_@1f0	"@@C_4_44_bp_475"
+zimpl	v     497	__C_4_44_bm_@1f1	"@@C_4_44_bm_476"
+zimpl	v     498	__C_4_44_re_@1f2	"@@C_4_44_re_477"
+zimpl	v     499	__C_4_44_xp_@1f3	"@@C_4_44_xp_478"
+zimpl	v     500	__C_4_44_xm_@1f4	"@@C_4_44_xm_479"
+zimpl	v     501	__C_4_44_bp_@1f5	"@@C_4_44_bp_480"
+zimpl	v     502	__C_4_44_bm_@1f6	"@@C_4_44_bm_481"
+zimpl	v     503	__C_4_44_re_@1f7	"@@C_4_44_re_482"
+zimpl	v     504	__C_4_44_re_@1f8	"@@C_4_44_re_483"
+zimpl	v     505	__C_4_45_xp_@1f9	"@@C_4_45_xp_484"
+zimpl	v     506	__C_4_45_xm_@1fa	"@@C_4_45_xm_485"
+zimpl	v     507	__C_4_45_bp_@1fb	"@@C_4_45_bp_486"
+zimpl	v     508	__C_4_45_bm_@1fc	"@@C_4_45_bm_487"
+zimpl	v     509	__C_4_45_re_@1fd	"@@C_4_45_re_488"
+zimpl	v     510	__C_4_45_xp_@1fe	"@@C_4_45_xp_489"
+zimpl	v     511	__C_4_45_xm_@1ff	"@@C_4_45_xm_490"
+zimpl	v     512	__C_4_45_bp_@200	"@@C_4_45_bp_491"
+zimpl	v     513	__C_4_45_bm_@201	"@@C_4_45_bm_492"
+zimpl	v     514	__C_4_45_re_@202	"@@C_4_45_re_493"
+zimpl	v     515	__C_4_45_re_@203	"@@C_4_45_re_494"
+zimpl	v     516	__C_4_46_xp_@204	"@@C_4_46_xp_495"
+zimpl	v     517	__C_4_46_xm_@205	"@@C_4_46_xm_496"
+zimpl	v     518	__C_4_46_bp_@206	"@@C_4_46_bp_497"
+zimpl	v     519	__C_4_46_bm_@207	"@@C_4_46_bm_498"
+zimpl	v     520	__C_4_46_re_@208	"@@C_4_46_re_499"
+zimpl	v     521	__C_4_46_xp_@209	"@@C_4_46_xp_500"
+zimpl	v     522	__C_4_46_xm_@20a	"@@C_4_46_xm_501"
+zimpl	v     523	__C_4_46_bp_@20b	"@@C_4_46_bp_502"
+zimpl	v     524	__C_4_46_bm_@20c	"@@C_4_46_bm_503"
+zimpl	v     525	__C_4_46_re_@20d	"@@C_4_46_re_504"
+zimpl	v     526	__C_4_46_re_@20e	"@@C_4_46_re_505"
+zimpl	v     527	__C_4_47_xp_@20f	"@@C_4_47_xp_506"
+zimpl	v     528	__C_4_47_xm_@210	"@@C_4_47_xm_507"
+zimpl	v     529	__C_4_47_bp_@211	"@@C_4_47_bp_508"
+zimpl	v     530	__C_4_47_bm_@212	"@@C_4_47_bm_509"
+zimpl	v     531	__C_4_47_re_@213	"@@C_4_47_re_510"
+zimpl	v     532	__C_4_47_xp_@214	"@@C_4_47_xp_511"
+zimpl	v     533	__C_4_47_xm_@215	"@@C_4_47_xm_512"
+zimpl	v     534	__C_4_47_bp_@216	"@@C_4_47_bp_513"
+zimpl	v     535	__C_4_47_bm_@217	"@@C_4_47_bm_514"
+zimpl	v     536	__C_4_47_re_@218	"@@C_4_47_re_515"
+zimpl	v     537	__C_4_47_re_@219	"@@C_4_47_re_516"
+zimpl	v     538	__C_4_48_xp_@21a	"@@C_4_48_xp_517"
+zimpl	v     539	__C_4_48_xm_@21b	"@@C_4_48_xm_518"
+zimpl	v     540	__C_4_48_bp_@21c	"@@C_4_48_bp_519"
+zimpl	v     541	__C_4_48_bm_@21d	"@@C_4_48_bm_520"
+zimpl	v     542	__C_4_48_re_@21e	"@@C_4_48_re_521"
+zimpl	v     543	__C_4_48_xp_@21f	"@@C_4_48_xp_522"
+zimpl	v     544	__C_4_48_xm_@220	"@@C_4_48_xm_523"
+zimpl	v     545	__C_4_48_bp_@221	"@@C_4_48_bp_524"
+zimpl	v     546	__C_4_48_bm_@222	"@@C_4_48_bm_525"
+zimpl	v     547	__C_4_48_re_@223	"@@C_4_48_re_526"
+zimpl	v     548	__C_4_48_re_@224	"@@C_4_48_re_527"
+zimpl	v     549	__C_4_49_xp_@225	"@@C_4_49_xp_528"
+zimpl	v     550	__C_4_49_xm_@226	"@@C_4_49_xm_529"
+zimpl	v     551	__C_4_49_bp_@227	"@@C_4_49_bp_530"
+zimpl	v     552	__C_4_49_bm_@228	"@@C_4_49_bm_531"
+zimpl	v     553	__C_4_49_re_@229	"@@C_4_49_re_532"
+zimpl	v     554	__C_4_49_xp_@22a	"@@C_4_49_xp_533"
+zimpl	v     555	__C_4_49_xm_@22b	"@@C_4_49_xm_534"
+zimpl	v     556	__C_4_49_bp_@22c	"@@C_4_49_bp_535"
+zimpl	v     557	__C_4_49_bm_@22d	"@@C_4_49_bm_536"
+zimpl	v     558	__C_4_49_re_@22e	"@@C_4_49_re_537"
+zimpl	v     559	__C_4_49_re_@22f	"@@C_4_49_re_538"
+zimpl	v     560	__C_4_50_xp_@230	"@@C_4_50_xp_539"
+zimpl	v     561	__C_4_50_xm_@231	"@@C_4_50_xm_540"
+zimpl	v     562	__C_4_50_bp_@232	"@@C_4_50_bp_541"
+zimpl	v     563	__C_4_50_bm_@233	"@@C_4_50_bm_542"
+zimpl	v     564	__C_4_50_re_@234	"@@C_4_50_re_543"
+zimpl	v     565	__C_4_50_xp_@235	"@@C_4_50_xp_544"
+zimpl	v     566	__C_4_50_xm_@236	"@@C_4_50_xm_545"
+zimpl	v     567	__C_4_50_bp_@237	"@@C_4_50_bp_546"
+zimpl	v     568	__C_4_50_bm_@238	"@@C_4_50_bm_547"
+zimpl	v     569	__C_4_50_re_@239	"@@C_4_50_re_548"
+zimpl	v     570	__C_4_50_re_@23a	"@@C_4_50_re_549"
+zimpl	v     571	__C_4_51_xp_@23b	"@@C_4_51_xp_550"
+zimpl	v     572	__C_4_51_xm_@23c	"@@C_4_51_xm_551"
+zimpl	v     573	__C_4_51_bp_@23d	"@@C_4_51_bp_552"
+zimpl	v     574	__C_4_51_bm_@23e	"@@C_4_51_bm_553"
+zimpl	v     575	__C_4_51_re_@23f	"@@C_4_51_re_554"
+zimpl	v     576	__C_4_51_xp_@240	"@@C_4_51_xp_555"
+zimpl	v     577	__C_4_51_xm_@241	"@@C_4_51_xm_556"
+zimpl	v     578	__C_4_51_bp_@242	"@@C_4_51_bp_557"
+zimpl	v     579	__C_4_51_bm_@243	"@@C_4_51_bm_558"
+zimpl	v     580	__C_4_51_re_@244	"@@C_4_51_re_559"
+zimpl	v     581	__C_4_51_re_@245	"@@C_4_51_re_560"
+zimpl	v     582	__C_4_52_xp_@246	"@@C_4_52_xp_561"
+zimpl	v     583	__C_4_52_xm_@247	"@@C_4_52_xm_562"
+zimpl	v     584	__C_4_52_bp_@248	"@@C_4_52_bp_563"
+zimpl	v     585	__C_4_52_bm_@249	"@@C_4_52_bm_564"
+zimpl	v     586	__C_4_52_re_@24a	"@@C_4_52_re_565"
+zimpl	v     587	__C_4_52_xp_@24b	"@@C_4_52_xp_566"
+zimpl	v     588	__C_4_52_xm_@24c	"@@C_4_52_xm_567"
+zimpl	v     589	__C_4_52_bp_@24d	"@@C_4_52_bp_568"
+zimpl	v     590	__C_4_52_bm_@24e	"@@C_4_52_bm_569"
+zimpl	v     591	__C_4_52_re_@24f	"@@C_4_52_re_570"
+zimpl	v     592	__C_4_52_re_@250	"@@C_4_52_re_571"
+zimpl	v     593	__C_4_53_xp_@251	"@@C_4_53_xp_572"
+zimpl	v     594	__C_4_53_xm_@252	"@@C_4_53_xm_573"
+zimpl	v     595	__C_4_53_bp_@253	"@@C_4_53_bp_574"
+zimpl	v     596	__C_4_53_bm_@254	"@@C_4_53_bm_575"
+zimpl	v     597	__C_4_53_re_@255	"@@C_4_53_re_576"
+zimpl	v     598	__C_4_53_xp_@256	"@@C_4_53_xp_577"
+zimpl	v     599	__C_4_53_xm_@257	"@@C_4_53_xm_578"
+zimpl	v     600	__C_4_53_bp_@258	"@@C_4_53_bp_579"
+zimpl	v     601	__C_4_53_bm_@259	"@@C_4_53_bm_580"
+zimpl	v     602	__C_4_53_re_@25a	"@@C_4_53_re_581"
+zimpl	v     603	__C_4_53_re_@25b	"@@C_4_53_re_582"
+zimpl	v     604	__C_4_54_xp_@25c	"@@C_4_54_xp_583"
+zimpl	v     605	__C_4_54_xm_@25d	"@@C_4_54_xm_584"
+zimpl	v     606	__C_4_54_bp_@25e	"@@C_4_54_bp_585"
+zimpl	v     607	__C_4_54_bm_@25f	"@@C_4_54_bm_586"
+zimpl	v     608	__C_4_54_re_@260	"@@C_4_54_re_587"
+zimpl	v     609	__C_4_54_xp_@261	"@@C_4_54_xp_588"
+zimpl	v     610	__C_4_54_xm_@262	"@@C_4_54_xm_589"
+zimpl	v     611	__C_4_54_bp_@263	"@@C_4_54_bp_590"
+zimpl	v     612	__C_4_54_bm_@264	"@@C_4_54_bm_591"
+zimpl	v     613	__C_4_54_re_@265	"@@C_4_54_re_592"
+zimpl	v     614	__C_4_54_re_@266	"@@C_4_54_re_593"
+zimpl	v     615	__C_4_55_xp_@267	"@@C_4_55_xp_594"
+zimpl	v     616	__C_4_55_xm_@268	"@@C_4_55_xm_595"
+zimpl	v     617	__C_4_55_bp_@269	"@@C_4_55_bp_596"
+zimpl	v     618	__C_4_55_bm_@26a	"@@C_4_55_bm_597"
+zimpl	v     619	__C_4_55_re_@26b	"@@C_4_55_re_598"
+zimpl	v     620	__C_4_55_xp_@26c	"@@C_4_55_xp_599"
+zimpl	v     621	__C_4_55_xm_@26d	"@@C_4_55_xm_600"
+zimpl	v     622	__C_4_55_bp_@26e	"@@C_4_55_bp_601"
+zimpl	v     623	__C_4_55_bm_@26f	"@@C_4_55_bm_602"
+zimpl	v     624	__C_4_55_re_@270	"@@C_4_55_re_603"
+zimpl	v     625	__C_4_55_re_@271	"@@C_4_55_re_604"
+zimpl	v     626	__C_4_56_xp_@272	"@@C_4_56_xp_605"
+zimpl	v     627	__C_4_56_xm_@273	"@@C_4_56_xm_606"
+zimpl	v     628	__C_4_56_bp_@274	"@@C_4_56_bp_607"
+zimpl	v     629	__C_4_56_bm_@275	"@@C_4_56_bm_608"
+zimpl	v     630	__C_4_56_re_@276	"@@C_4_56_re_609"
+zimpl	v     631	__C_4_56_xp_@277	"@@C_4_56_xp_610"
+zimpl	v     632	__C_4_56_xm_@278	"@@C_4_56_xm_611"
+zimpl	v     633	__C_4_56_bp_@279	"@@C_4_56_bp_612"
+zimpl	v     634	__C_4_56_bm_@27a	"@@C_4_56_bm_613"
+zimpl	v     635	__C_4_56_re_@27b	"@@C_4_56_re_614"
+zimpl	v     636	__C_4_56_re_@27c	"@@C_4_56_re_615"
+zimpl	v     637	__C_4_57_xp_@27d	"@@C_4_57_xp_616"
+zimpl	v     638	__C_4_57_xm_@27e	"@@C_4_57_xm_617"
+zimpl	v     639	__C_4_57_bp_@27f	"@@C_4_57_bp_618"
+zimpl	v     640	__C_4_57_bm_@280	"@@C_4_57_bm_619"
+zimpl	v     641	__C_4_57_re_@281	"@@C_4_57_re_620"
+zimpl	v     642	__C_4_57_xp_@282	"@@C_4_57_xp_621"
+zimpl	v     643	__C_4_57_xm_@283	"@@C_4_57_xm_622"
+zimpl	v     644	__C_4_57_bp_@284	"@@C_4_57_bp_623"
+zimpl	v     645	__C_4_57_bm_@285	"@@C_4_57_bm_624"
+zimpl	v     646	__C_4_57_re_@286	"@@C_4_57_re_625"
+zimpl	v     647	__C_4_57_re_@287	"@@C_4_57_re_626"
+zimpl	v     648	__C_4_58_xp_@288	"@@C_4_58_xp_627"
+zimpl	v     649	__C_4_58_xm_@289	"@@C_4_58_xm_628"
+zimpl	v     650	__C_4_58_bp_@28a	"@@C_4_58_bp_629"
+zimpl	v     651	__C_4_58_bm_@28b	"@@C_4_58_bm_630"
+zimpl	v     652	__C_4_58_re_@28c	"@@C_4_58_re_631"
+zimpl	v     653	__C_4_58_xp_@28d	"@@C_4_58_xp_632"
+zimpl	v     654	__C_4_58_xm_@28e	"@@C_4_58_xm_633"
+zimpl	v     655	__C_4_58_bp_@28f	"@@C_4_58_bp_634"
+zimpl	v     656	__C_4_58_bm_@290	"@@C_4_58_bm_635"
+zimpl	v     657	__C_4_58_re_@291	"@@C_4_58_re_636"
+zimpl	v     658	__C_4_58_re_@292	"@@C_4_58_re_637"
+zimpl	v     659	__C_4_59_xp_@293	"@@C_4_59_xp_638"
+zimpl	v     660	__C_4_59_xm_@294	"@@C_4_59_xm_639"
+zimpl	v     661	__C_4_59_bp_@295	"@@C_4_59_bp_640"
+zimpl	v     662	__C_4_59_bm_@296	"@@C_4_59_bm_641"
+zimpl	v     663	__C_4_59_re_@297	"@@C_4_59_re_642"
+zimpl	v     664	__C_4_59_xp_@298	"@@C_4_59_xp_643"
+zimpl	v     665	__C_4_59_xm_@299	"@@C_4_59_xm_644"
+zimpl	v     666	__C_4_59_bp_@29a	"@@C_4_59_bp_645"
+zimpl	v     667	__C_4_59_bm_@29b	"@@C_4_59_bm_646"
+zimpl	v     668	__C_4_59_re_@29c	"@@C_4_59_re_647"
+zimpl	v     669	__C_4_59_re_@29d	"@@C_4_59_re_648"
+zimpl	v     670	__C_4_60_xp_@29e	"@@C_4_60_xp_649"
+zimpl	v     671	__C_4_60_xm_@29f	"@@C_4_60_xm_650"
+zimpl	v     672	__C_4_60_bp_@2a0	"@@C_4_60_bp_651"
+zimpl	v     673	__C_4_60_bm_@2a1	"@@C_4_60_bm_652"
+zimpl	v     674	__C_4_60_re_@2a2	"@@C_4_60_re_653"
+zimpl	v     675	__C_4_60_xp_@2a3	"@@C_4_60_xp_654"
+zimpl	v     676	__C_4_60_xm_@2a4	"@@C_4_60_xm_655"
+zimpl	v     677	__C_4_60_bp_@2a5	"@@C_4_60_bp_656"
+zimpl	v     678	__C_4_60_bm_@2a6	"@@C_4_60_bm_657"
+zimpl	v     679	__C_4_60_re_@2a7	"@@C_4_60_re_658"
+zimpl	v     680	__C_4_60_re_@2a8	"@@C_4_60_re_659"
+zimpl	v     681	__C_4_61_xp_@2a9	"@@C_4_61_xp_660"
+zimpl	v     682	__C_4_61_xm_@2aa	"@@C_4_61_xm_661"
+zimpl	v     683	__C_4_61_bp_@2ab	"@@C_4_61_bp_662"
+zimpl	v     684	__C_4_61_bm_@2ac	"@@C_4_61_bm_663"
+zimpl	v     685	__C_4_61_re_@2ad	"@@C_4_61_re_664"
+zimpl	v     686	__C_4_61_xp_@2ae	"@@C_4_61_xp_665"
+zimpl	v     687	__C_4_61_xm_@2af	"@@C_4_61_xm_666"
+zimpl	v     688	__C_4_61_bp_@2b0	"@@C_4_61_bp_667"
+zimpl	v     689	__C_4_61_bm_@2b1	"@@C_4_61_bm_668"
+zimpl	v     690	__C_4_61_re_@2b2	"@@C_4_61_re_669"
+zimpl	v     691	__C_4_61_re_@2b3	"@@C_4_61_re_670"
+zimpl	v     692	__C_4_62_xp_@2b4	"@@C_4_62_xp_671"
+zimpl	v     693	__C_4_62_xm_@2b5	"@@C_4_62_xm_672"
+zimpl	v     694	__C_4_62_bp_@2b6	"@@C_4_62_bp_673"
+zimpl	v     695	__C_4_62_bm_@2b7	"@@C_4_62_bm_674"
+zimpl	v     696	__C_4_62_re_@2b8	"@@C_4_62_re_675"
+zimpl	v     697	__C_4_62_xp_@2b9	"@@C_4_62_xp_676"
+zimpl	v     698	__C_4_62_xm_@2ba	"@@C_4_62_xm_677"
+zimpl	v     699	__C_4_62_bp_@2bb	"@@C_4_62_bp_678"
+zimpl	v     700	__C_4_62_bm_@2bc	"@@C_4_62_bm_679"
+zimpl	v     701	__C_4_62_re_@2bd	"@@C_4_62_re_680"
+zimpl	v     702	__C_4_62_re_@2be	"@@C_4_62_re_681"
+zimpl	v     703	__C_4_63_xp_@2bf	"@@C_4_63_xp_682"
+zimpl	v     704	__C_4_63_xm_@2c0	"@@C_4_63_xm_683"
+zimpl	v     705	__C_4_63_bp_@2c1	"@@C_4_63_bp_684"
+zimpl	v     706	__C_4_63_bm_@2c2	"@@C_4_63_bm_685"
+zimpl	v     707	__C_4_63_re_@2c3	"@@C_4_63_re_686"
+zimpl	v     708	__C_4_63_xp_@2c4	"@@C_4_63_xp_687"
+zimpl	v     709	__C_4_63_xm_@2c5	"@@C_4_63_xm_688"
+zimpl	v     710	__C_4_63_bp_@2c6	"@@C_4_63_bp_689"
+zimpl	v     711	__C_4_63_bm_@2c7	"@@C_4_63_bm_690"
+zimpl	v     712	__C_4_63_re_@2c8	"@@C_4_63_re_691"
+zimpl	v     713	__C_4_63_re_@2c9	"@@C_4_63_re_692"
+zimpl	v     714	__C_4_64_xp_@2ca	"@@C_4_64_xp_693"
+zimpl	v     715	__C_4_64_xm_@2cb	"@@C_4_64_xm_694"
+zimpl	v     716	__C_4_64_bp_@2cc	"@@C_4_64_bp_695"
+zimpl	v     717	__C_4_64_bm_@2cd	"@@C_4_64_bm_696"
+zimpl	v     718	__C_4_64_re_@2ce	"@@C_4_64_re_697"
+zimpl	v     719	__C_4_64_xp_@2cf	"@@C_4_64_xp_698"
+zimpl	v     720	__C_4_64_xm_@2d0	"@@C_4_64_xm_699"
+zimpl	v     721	__C_4_64_bp_@2d1	"@@C_4_64_bp_700"
+zimpl	v     722	__C_4_64_bm_@2d2	"@@C_4_64_bm_701"
+zimpl	v     723	__C_4_64_re_@2d3	"@@C_4_64_re_702"
+zimpl	v     724	__C_4_64_re_@2d4	"@@C_4_64_re_703"
+zimpl	v     725	__C_4_65_xp_@2d5	"@@C_4_65_xp_704"
+zimpl	v     726	__C_4_65_xm_@2d6	"@@C_4_65_xm_705"
+zimpl	v     727	__C_4_65_bp_@2d7	"@@C_4_65_bp_706"
+zimpl	v     728	__C_4_65_bm_@2d8	"@@C_4_65_bm_707"
+zimpl	v     729	__C_4_65_re_@2d9	"@@C_4_65_re_708"
+zimpl	v     730	__C_4_65_xp_@2da	"@@C_4_65_xp_709"
+zimpl	v     731	__C_4_65_xm_@2db	"@@C_4_65_xm_710"
+zimpl	v     732	__C_4_65_bp_@2dc	"@@C_4_65_bp_711"
+zimpl	v     733	__C_4_65_bm_@2dd	"@@C_4_65_bm_712"
+zimpl	v     734	__C_4_65_re_@2de	"@@C_4_65_re_713"
+zimpl	v     735	__C_4_65_re_@2df	"@@C_4_65_re_714"
+zimpl	v     736	__C_4_66_xp_@2e0	"@@C_4_66_xp_715"
+zimpl	v     737	__C_4_66_xm_@2e1	"@@C_4_66_xm_716"
+zimpl	v     738	__C_4_66_bp_@2e2	"@@C_4_66_bp_717"
+zimpl	v     739	__C_4_66_bm_@2e3	"@@C_4_66_bm_718"
+zimpl	v     740	__C_4_66_re_@2e4	"@@C_4_66_re_719"
+zimpl	v     741	__C_4_66_xp_@2e5	"@@C_4_66_xp_720"
+zimpl	v     742	__C_4_66_xm_@2e6	"@@C_4_66_xm_721"
+zimpl	v     743	__C_4_66_bp_@2e7	"@@C_4_66_bp_722"
+zimpl	v     744	__C_4_66_bm_@2e8	"@@C_4_66_bm_723"
+zimpl	v     745	__C_4_66_re_@2e9	"@@C_4_66_re_724"
+zimpl	v     746	__C_4_66_re_@2ea	"@@C_4_66_re_725"
+zimpl	v     747	__C_4_67_xp_@2eb	"@@C_4_67_xp_726"
+zimpl	v     748	__C_4_67_xm_@2ec	"@@C_4_67_xm_727"
+zimpl	v     749	__C_4_67_bp_@2ed	"@@C_4_67_bp_728"
+zimpl	v     750	__C_4_67_bm_@2ee	"@@C_4_67_bm_729"
+zimpl	v     751	__C_4_67_re_@2ef	"@@C_4_67_re_730"
+zimpl	v     752	__C_4_67_xp_@2f0	"@@C_4_67_xp_731"
+zimpl	v     753	__C_4_67_xm_@2f1	"@@C_4_67_xm_732"
+zimpl	v     754	__C_4_67_bp_@2f2	"@@C_4_67_bp_733"
+zimpl	v     755	__C_4_67_bm_@2f3	"@@C_4_67_bm_734"
+zimpl	v     756	__C_4_67_re_@2f4	"@@C_4_67_re_735"
+zimpl	v     757	__C_4_67_re_@2f5	"@@C_4_67_re_736"
+zimpl	v     758	__C_4_68_xp_@2f6	"@@C_4_68_xp_737"
+zimpl	v     759	__C_4_68_xm_@2f7	"@@C_4_68_xm_738"
+zimpl	v     760	__C_4_68_bp_@2f8	"@@C_4_68_bp_739"
+zimpl	v     761	__C_4_68_bm_@2f9	"@@C_4_68_bm_740"
+zimpl	v     762	__C_4_68_re_@2fa	"@@C_4_68_re_741"
+zimpl	v     763	__C_4_68_xp_@2fb	"@@C_4_68_xp_742"
+zimpl	v     764	__C_4_68_xm_@2fc	"@@C_4_68_xm_743"
+zimpl	v     765	__C_4_68_bp_@2fd	"@@C_4_68_bp_744"
+zimpl	v     766	__C_4_68_bm_@2fe	"@@C_4_68_bm_745"
+zimpl	v     767	__C_4_68_re_@2ff	"@@C_4_68_re_746"
+zimpl	v     768	__C_4_68_re_@300	"@@C_4_68_re_747"
+zimpl	v     769	__C_4_69_xp_@301	"@@C_4_69_xp_748"
+zimpl	v     770	__C_4_69_xm_@302	"@@C_4_69_xm_749"
+zimpl	v     771	__C_4_69_bp_@303	"@@C_4_69_bp_750"
+zimpl	v     772	__C_4_69_bm_@304	"@@C_4_69_bm_751"
+zimpl	v     773	__C_4_69_re_@305	"@@C_4_69_re_752"
+zimpl	v     774	__C_4_69_xp_@306	"@@C_4_69_xp_753"
+zimpl	v     775	__C_4_69_xm_@307	"@@C_4_69_xm_754"
+zimpl	v     776	__C_4_69_bp_@308	"@@C_4_69_bp_755"
+zimpl	v     777	__C_4_69_bm_@309	"@@C_4_69_bm_756"
+zimpl	v     778	__C_4_69_re_@30a	"@@C_4_69_re_757"
+zimpl	v     779	__C_4_69_re_@30b	"@@C_4_69_re_758"
+zimpl	v     780	__C_4_70_xp_@30c	"@@C_4_70_xp_759"
+zimpl	v     781	__C_4_70_xm_@30d	"@@C_4_70_xm_760"
+zimpl	v     782	__C_4_70_bp_@30e	"@@C_4_70_bp_761"
+zimpl	v     783	__C_4_70_bm_@30f	"@@C_4_70_bm_762"
+zimpl	v     784	__C_4_70_re_@310	"@@C_4_70_re_763"
+zimpl	v     785	__C_4_70_xp_@311	"@@C_4_70_xp_764"
+zimpl	v     786	__C_4_70_xm_@312	"@@C_4_70_xm_765"
+zimpl	v     787	__C_4_70_bp_@313	"@@C_4_70_bp_766"
+zimpl	v     788	__C_4_70_bm_@314	"@@C_4_70_bm_767"
+zimpl	v     789	__C_4_70_re_@315	"@@C_4_70_re_768"
+zimpl	v     790	__C_4_70_re_@316	"@@C_4_70_re_769"
+zimpl	v     791	__C_4_71_xp_@317	"@@C_4_71_xp_770"
+zimpl	v     792	__C_4_71_xm_@318	"@@C_4_71_xm_771"
+zimpl	v     793	__C_4_71_bp_@319	"@@C_4_71_bp_772"
+zimpl	v     794	__C_4_71_bm_@31a	"@@C_4_71_bm_773"
+zimpl	v     795	__C_4_71_re_@31b	"@@C_4_71_re_774"
+zimpl	v     796	__C_4_71_xp_@31c	"@@C_4_71_xp_775"
+zimpl	v     797	__C_4_71_xm_@31d	"@@C_4_71_xm_776"
+zimpl	v     798	__C_4_71_bp_@31e	"@@C_4_71_bp_777"
+zimpl	v     799	__C_4_71_bm_@31f	"@@C_4_71_bm_778"
+zimpl	v     800	__C_4_71_re_@320	"@@C_4_71_re_779"
+zimpl	v     801	__C_4_71_re_@321	"@@C_4_71_re_780"
+zimpl	v     802	__C_4_72_xp_@322	"@@C_4_72_xp_781"
+zimpl	v     803	__C_4_72_xm_@323	"@@C_4_72_xm_782"
+zimpl	v     804	__C_4_72_bp_@324	"@@C_4_72_bp_783"
+zimpl	v     805	__C_4_72_bm_@325	"@@C_4_72_bm_784"
+zimpl	v     806	__C_4_72_re_@326	"@@C_4_72_re_785"
+zimpl	v     807	__C_4_72_xp_@327	"@@C_4_72_xp_786"
+zimpl	v     808	__C_4_72_xm_@328	"@@C_4_72_xm_787"
+zimpl	v     809	__C_4_72_bp_@329	"@@C_4_72_bp_788"
+zimpl	v     810	__C_4_72_bm_@32a	"@@C_4_72_bm_789"
+zimpl	v     811	__C_4_72_re_@32b	"@@C_4_72_re_790"
+zimpl	v     812	__C_4_72_re_@32c	"@@C_4_72_re_791"
+zimpl	v     813	__C_4_73_xp_@32d	"@@C_4_73_xp_792"
+zimpl	v     814	__C_4_73_xm_@32e	"@@C_4_73_xm_793"
+zimpl	v     815	__C_4_73_bp_@32f	"@@C_4_73_bp_794"
+zimpl	v     816	__C_4_73_bm_@330	"@@C_4_73_bm_795"
+zimpl	v     817	__C_4_73_re_@331	"@@C_4_73_re_796"
+zimpl	v     818	__C_4_73_xp_@332	"@@C_4_73_xp_797"
+zimpl	v     819	__C_4_73_xm_@333	"@@C_4_73_xm_798"
+zimpl	v     820	__C_4_73_bp_@334	"@@C_4_73_bp_799"
+zimpl	v     821	__C_4_73_bm_@335	"@@C_4_73_bm_800"
+zimpl	v     822	__C_4_73_re_@336	"@@C_4_73_re_801"
+zimpl	v     823	__C_4_73_re_@337	"@@C_4_73_re_802"
+zimpl	v     824	__C_4_74_xp_@338	"@@C_4_74_xp_803"
+zimpl	v     825	__C_4_74_xm_@339	"@@C_4_74_xm_804"
+zimpl	v     826	__C_4_74_bp_@33a	"@@C_4_74_bp_805"
+zimpl	v     827	__C_4_74_bm_@33b	"@@C_4_74_bm_806"
+zimpl	v     828	__C_4_74_re_@33c	"@@C_4_74_re_807"
+zimpl	v     829	__C_4_74_xp_@33d	"@@C_4_74_xp_808"
+zimpl	v     830	__C_4_74_xm_@33e	"@@C_4_74_xm_809"
+zimpl	v     831	__C_4_74_bp_@33f	"@@C_4_74_bp_810"
+zimpl	v     832	__C_4_74_bm_@340	"@@C_4_74_bm_811"
+zimpl	v     833	__C_4_74_re_@341	"@@C_4_74_re_812"
+zimpl	v     834	__C_4_74_re_@342	"@@C_4_74_re_813"
+zimpl	v     835	__C_4_75_xp_@343	"@@C_4_75_xp_814"
+zimpl	v     836	__C_4_75_xm_@344	"@@C_4_75_xm_815"
+zimpl	v     837	__C_4_75_bp_@345	"@@C_4_75_bp_816"
+zimpl	v     838	__C_4_75_bm_@346	"@@C_4_75_bm_817"
+zimpl	v     839	__C_4_75_re_@347	"@@C_4_75_re_818"
+zimpl	v     840	__C_4_75_xp_@348	"@@C_4_75_xp_819"
+zimpl	v     841	__C_4_75_xm_@349	"@@C_4_75_xm_820"
+zimpl	v     842	__C_4_75_bp_@34a	"@@C_4_75_bp_821"
+zimpl	v     843	__C_4_75_bm_@34b	"@@C_4_75_bm_822"
+zimpl	v     844	__C_4_75_re_@34c	"@@C_4_75_re_823"
+zimpl	v     845	__C_4_75_re_@34d	"@@C_4_75_re_824"
+zimpl	v     846	__C_4_76_xp_@34e	"@@C_4_76_xp_825"
+zimpl	v     847	__C_4_76_xm_@34f	"@@C_4_76_xm_826"
+zimpl	v     848	__C_4_76_bp_@350	"@@C_4_76_bp_827"
+zimpl	v     849	__C_4_76_bm_@351	"@@C_4_76_bm_828"
+zimpl	v     850	__C_4_76_re_@352	"@@C_4_76_re_829"
+zimpl	v     851	__C_4_76_xp_@353	"@@C_4_76_xp_830"
+zimpl	v     852	__C_4_76_xm_@354	"@@C_4_76_xm_831"
+zimpl	v     853	__C_4_76_bp_@355	"@@C_4_76_bp_832"
+zimpl	v     854	__C_4_76_bm_@356	"@@C_4_76_bm_833"
+zimpl	v     855	__C_4_76_re_@357	"@@C_4_76_re_834"
+zimpl	v     856	__C_4_76_re_@358	"@@C_4_76_re_835"
+zimpl	v     857	__C_4_77_xp_@359	"@@C_4_77_xp_836"
+zimpl	v     858	__C_4_77_xm_@35a	"@@C_4_77_xm_837"
+zimpl	v     859	__C_4_77_bp_@35b	"@@C_4_77_bp_838"
+zimpl	v     860	__C_4_77_bm_@35c	"@@C_4_77_bm_839"
+zimpl	v     861	__C_4_77_re_@35d	"@@C_4_77_re_840"
+zimpl	v     862	__C_4_77_xp_@35e	"@@C_4_77_xp_841"
+zimpl	v     863	__C_4_77_xm_@35f	"@@C_4_77_xm_842"
+zimpl	v     864	__C_4_77_bp_@360	"@@C_4_77_bp_843"
+zimpl	v     865	__C_4_77_bm_@361	"@@C_4_77_bm_844"
+zimpl	v     866	__C_4_77_re_@362	"@@C_4_77_re_845"
+zimpl	v     867	__C_4_77_re_@363	"@@C_4_77_re_846"
+zimpl	v     868	__C_4_78_xp_@364	"@@C_4_78_xp_847"
+zimpl	v     869	__C_4_78_xm_@365	"@@C_4_78_xm_848"
+zimpl	v     870	__C_4_78_bp_@366	"@@C_4_78_bp_849"
+zimpl	v     871	__C_4_78_bm_@367	"@@C_4_78_bm_850"
+zimpl	v     872	__C_4_78_re_@368	"@@C_4_78_re_851"
+zimpl	v     873	__C_4_78_xp_@369	"@@C_4_78_xp_852"
+zimpl	v     874	__C_4_78_xm_@36a	"@@C_4_78_xm_853"
+zimpl	v     875	__C_4_78_bp_@36b	"@@C_4_78_bp_854"
+zimpl	v     876	__C_4_78_bm_@36c	"@@C_4_78_bm_855"
+zimpl	v     877	__C_4_78_re_@36d	"@@C_4_78_re_856"
+zimpl	v     878	__C_4_78_re_@36e	"@@C_4_78_re_857"
+zimpl	v     879	__C_4_79_xp_@36f	"@@C_4_79_xp_858"
+zimpl	v     880	__C_4_79_xm_@370	"@@C_4_79_xm_859"
+zimpl	v     881	__C_4_79_bp_@371	"@@C_4_79_bp_860"
+zimpl	v     882	__C_4_79_bm_@372	"@@C_4_79_bm_861"
+zimpl	v     883	__C_4_79_re_@373	"@@C_4_79_re_862"
+zimpl	v     884	__C_4_79_xp_@374	"@@C_4_79_xp_863"
+zimpl	v     885	__C_4_79_xm_@375	"@@C_4_79_xm_864"
+zimpl	v     886	__C_4_79_bp_@376	"@@C_4_79_bp_865"
+zimpl	v     887	__C_4_79_bm_@377	"@@C_4_79_bm_866"
+zimpl	v     888	__C_4_79_re_@378	"@@C_4_79_re_867"
+zimpl	v     889	__C_4_79_re_@379	"@@C_4_79_re_868"
+zimpl	v     890	__C_4_80_xp_@37a	"@@C_4_80_xp_869"
+zimpl	v     891	__C_4_80_xm_@37b	"@@C_4_80_xm_870"
+zimpl	v     892	__C_4_80_bp_@37c	"@@C_4_80_bp_871"
+zimpl	v     893	__C_4_80_bm_@37d	"@@C_4_80_bm_872"
+zimpl	v     894	__C_4_80_re_@37e	"@@C_4_80_re_873"
+zimpl	v     895	__C_4_80_xp_@37f	"@@C_4_80_xp_874"
+zimpl	v     896	__C_4_80_xm_@380	"@@C_4_80_xm_875"
+zimpl	v     897	__C_4_80_bp_@381	"@@C_4_80_bp_876"
+zimpl	v     898	__C_4_80_bm_@382	"@@C_4_80_bm_877"
+zimpl	v     899	__C_4_80_re_@383	"@@C_4_80_re_878"
+zimpl	v     900	__C_4_80_re_@384	"@@C_4_80_re_879"
+zimpl	v     901	__C_4_81_xp_@385	"@@C_4_81_xp_880"
+zimpl	v     902	__C_4_81_xm_@386	"@@C_4_81_xm_881"
+zimpl	v     903	__C_4_81_bp_@387	"@@C_4_81_bp_882"
+zimpl	v     904	__C_4_81_bm_@388	"@@C_4_81_bm_883"
+zimpl	v     905	__C_4_81_re_@389	"@@C_4_81_re_884"
+zimpl	v     906	__C_4_81_xp_@38a	"@@C_4_81_xp_885"
+zimpl	v     907	__C_4_81_xm_@38b	"@@C_4_81_xm_886"
+zimpl	v     908	__C_4_81_bp_@38c	"@@C_4_81_bp_887"
+zimpl	v     909	__C_4_81_bm_@38d	"@@C_4_81_bm_888"
+zimpl	v     910	__C_4_81_re_@38e	"@@C_4_81_re_889"
+zimpl	v     911	__C_4_81_re_@38f	"@@C_4_81_re_890"
+zimpl	v     912	__C_4_82_xp_@390	"@@C_4_82_xp_891"
+zimpl	v     913	__C_4_82_xm_@391	"@@C_4_82_xm_892"
+zimpl	v     914	__C_4_82_bp_@392	"@@C_4_82_bp_893"
+zimpl	v     915	__C_4_82_bm_@393	"@@C_4_82_bm_894"
+zimpl	v     916	__C_4_82_re_@394	"@@C_4_82_re_895"
+zimpl	v     917	__C_4_82_xp_@395	"@@C_4_82_xp_896"
+zimpl	v     918	__C_4_82_xm_@396	"@@C_4_82_xm_897"
+zimpl	v     919	__C_4_82_bp_@397	"@@C_4_82_bp_898"
+zimpl	v     920	__C_4_82_bm_@398	"@@C_4_82_bm_899"
+zimpl	v     921	__C_4_82_re_@399	"@@C_4_82_re_900"
+zimpl	v     922	__C_4_82_re_@39a	"@@C_4_82_re_901"
+zimpl	v     923	__C_4_83_xp_@39b	"@@C_4_83_xp_902"
+zimpl	v     924	__C_4_83_xm_@39c	"@@C_4_83_xm_903"
+zimpl	v     925	__C_4_83_bp_@39d	"@@C_4_83_bp_904"
+zimpl	v     926	__C_4_83_bm_@39e	"@@C_4_83_bm_905"
+zimpl	v     927	__C_4_83_re_@39f	"@@C_4_83_re_906"
+zimpl	v     928	__C_4_83_xp_@3a0	"@@C_4_83_xp_907"
+zimpl	v     929	__C_4_83_xm_@3a1	"@@C_4_83_xm_908"
+zimpl	v     930	__C_4_83_bp_@3a2	"@@C_4_83_bp_909"
+zimpl	v     931	__C_4_83_bm_@3a3	"@@C_4_83_bm_910"
+zimpl	v     932	__C_4_83_re_@3a4	"@@C_4_83_re_911"
+zimpl	v     933	__C_4_83_re_@3a5	"@@C_4_83_re_912"
+zimpl	v     934	__C_4_84_xp_@3a6	"@@C_4_84_xp_913"
+zimpl	v     935	__C_4_84_xm_@3a7	"@@C_4_84_xm_914"
+zimpl	v     936	__C_4_84_bp_@3a8	"@@C_4_84_bp_915"
+zimpl	v     937	__C_4_84_bm_@3a9	"@@C_4_84_bm_916"
+zimpl	v     938	__C_4_84_re_@3aa	"@@C_4_84_re_917"
+zimpl	v     939	__C_4_84_xp_@3ab	"@@C_4_84_xp_918"
+zimpl	v     940	__C_4_84_xm_@3ac	"@@C_4_84_xm_919"
+zimpl	v     941	__C_4_84_bp_@3ad	"@@C_4_84_bp_920"
+zimpl	v     942	__C_4_84_bm_@3ae	"@@C_4_84_bm_921"
+zimpl	v     943	__C_4_84_re_@3af	"@@C_4_84_re_922"
+zimpl	v     944	__C_4_84_re_@3b0	"@@C_4_84_re_923"
+zimpl	v     945	__C_4_85_xp_@3b1	"@@C_4_85_xp_924"
+zimpl	v     946	__C_4_85_xm_@3b2	"@@C_4_85_xm_925"
+zimpl	v     947	__C_4_85_bp_@3b3	"@@C_4_85_bp_926"
+zimpl	v     948	__C_4_85_bm_@3b4	"@@C_4_85_bm_927"
+zimpl	v     949	__C_4_85_re_@3b5	"@@C_4_85_re_928"
+zimpl	v     950	__C_4_85_xp_@3b6	"@@C_4_85_xp_929"
+zimpl	v     951	__C_4_85_xm_@3b7	"@@C_4_85_xm_930"
+zimpl	v     952	__C_4_85_bp_@3b8	"@@C_4_85_bp_931"
+zimpl	v     953	__C_4_85_bm_@3b9	"@@C_4_85_bm_932"
+zimpl	v     954	__C_4_85_re_@3ba	"@@C_4_85_re_933"
+zimpl	v     955	__C_4_85_re_@3bb	"@@C_4_85_re_934"
+zimpl	v     956	__C_4_86_xp_@3bc	"@@C_4_86_xp_935"
+zimpl	v     957	__C_4_86_xm_@3bd	"@@C_4_86_xm_936"
+zimpl	v     958	__C_4_86_bp_@3be	"@@C_4_86_bp_937"
+zimpl	v     959	__C_4_86_bm_@3bf	"@@C_4_86_bm_938"
+zimpl	v     960	__C_4_86_re_@3c0	"@@C_4_86_re_939"
+zimpl	v     961	__C_4_86_xp_@3c1	"@@C_4_86_xp_940"
+zimpl	v     962	__C_4_86_xm_@3c2	"@@C_4_86_xm_941"
+zimpl	v     963	__C_4_86_bp_@3c3	"@@C_4_86_bp_942"
+zimpl	v     964	__C_4_86_bm_@3c4	"@@C_4_86_bm_943"
+zimpl	v     965	__C_4_86_re_@3c5	"@@C_4_86_re_944"
+zimpl	v     966	__C_4_86_re_@3c6	"@@C_4_86_re_945"
+zimpl	v     967	__C_4_87_xp_@3c7	"@@C_4_87_xp_946"
+zimpl	v     968	__C_4_87_xm_@3c8	"@@C_4_87_xm_947"
+zimpl	v     969	__C_4_87_bp_@3c9	"@@C_4_87_bp_948"
+zimpl	v     970	__C_4_87_bm_@3ca	"@@C_4_87_bm_949"
+zimpl	v     971	__C_4_87_re_@3cb	"@@C_4_87_re_950"
+zimpl	v     972	__C_4_87_xp_@3cc	"@@C_4_87_xp_951"
+zimpl	v     973	__C_4_87_xm_@3cd	"@@C_4_87_xm_952"
+zimpl	v     974	__C_4_87_bp_@3ce	"@@C_4_87_bp_953"
+zimpl	v     975	__C_4_87_bm_@3cf	"@@C_4_87_bm_954"
+zimpl	v     976	__C_4_87_re_@3d0	"@@C_4_87_re_955"
+zimpl	v     977	__C_4_87_re_@3d1	"@@C_4_87_re_956"
+zimpl	v     978	__C_4_88_xp_@3d2	"@@C_4_88_xp_957"
+zimpl	v     979	__C_4_88_xm_@3d3	"@@C_4_88_xm_958"
+zimpl	v     980	__C_4_88_bp_@3d4	"@@C_4_88_bp_959"
+zimpl	v     981	__C_4_88_bm_@3d5	"@@C_4_88_bm_960"
+zimpl	v     982	__C_4_88_re_@3d6	"@@C_4_88_re_961"
+zimpl	v     983	__C_4_88_xp_@3d7	"@@C_4_88_xp_962"
+zimpl	v     984	__C_4_88_xm_@3d8	"@@C_4_88_xm_963"
+zimpl	v     985	__C_4_88_bp_@3d9	"@@C_4_88_bp_964"
+zimpl	v     986	__C_4_88_bm_@3da	"@@C_4_88_bm_965"
+zimpl	v     987	__C_4_88_re_@3db	"@@C_4_88_re_966"
+zimpl	v     988	__C_4_88_re_@3dc	"@@C_4_88_re_967"
+zimpl	v     989	__C_4_89_xp_@3dd	"@@C_4_89_xp_968"
+zimpl	v     990	__C_4_89_xm_@3de	"@@C_4_89_xm_969"
+zimpl	v     991	__C_4_89_bp_@3df	"@@C_4_89_bp_970"
+zimpl	v     992	__C_4_89_bm_@3e0	"@@C_4_89_bm_971"
+zimpl	v     993	__C_4_89_re_@3e1	"@@C_4_89_re_972"
+zimpl	v     994	__C_4_89_xp_@3e2	"@@C_4_89_xp_973"
+zimpl	v     995	__C_4_89_xm_@3e3	"@@C_4_89_xm_974"
+zimpl	v     996	__C_4_89_bp_@3e4	"@@C_4_89_bp_975"
+zimpl	v     997	__C_4_89_bm_@3e5	"@@C_4_89_bm_976"
+zimpl	v     998	__C_4_89_re_@3e6	"@@C_4_89_re_977"
+zimpl	v     999	__C_4_89_re_@3e7	"@@C_4_89_re_978"
+zimpl	v    1000	__C_4_90_xp_@3e8	"@@C_4_90_xp_979"
+zimpl	v    1001	__C_4_90_xm_@3e9	"@@C_4_90_xm_980"
+zimpl	v    1002	__C_4_90_bp_@3ea	"@@C_4_90_bp_981"
+zimpl	v    1003	__C_4_90_bm_@3eb	"@@C_4_90_bm_982"
+zimpl	v    1004	__C_4_90_re_@3ec	"@@C_4_90_re_983"
+zimpl	v    1005	__C_4_90_xp_@3ed	"@@C_4_90_xp_984"
+zimpl	v    1006	__C_4_90_xm_@3ee	"@@C_4_90_xm_985"
+zimpl	v    1007	__C_4_90_bp_@3ef	"@@C_4_90_bp_986"
+zimpl	v    1008	__C_4_90_bm_@3f0	"@@C_4_90_bm_987"
+zimpl	v    1009	__C_4_90_re_@3f1	"@@C_4_90_re_988"
+zimpl	v    1010	__C_4_90_re_@3f2	"@@C_4_90_re_989"
+zimpl	c       0	C_1_1           	"C_1_1"	0.0000000000000000e+00
+zimpl	c       1	C_1_2           	"C_1_2"	0.0000000000000000e+00
+zimpl	c       2	C_1_3           	"C_1_3"	0.0000000000000000e+00
+zimpl	c       3	C_1_4           	"C_1_4"	0.0000000000000000e+00
+zimpl	c       4	C_1_5           	"C_1_5"	0.0000000000000000e+00
+zimpl	c       5	C_1_6           	"C_1_6"	0.0000000000000000e+00
+zimpl	c       6	C_1_7           	"C_1_7"	0.0000000000000000e+00
+zimpl	c       7	C_1_8           	"C_1_8"	0.0000000000000000e+00
+zimpl	c       8	C_1_9           	"C_1_9"	0.0000000000000000e+00
+zimpl	c       9	C_1_10          	"C_1_10"	0.0000000000000000e+00
+zimpl	c      10	C_2_1           	"C_2_1"	0.0000000000000000e+00
+zimpl	c      11	C_2_2           	"C_2_2"	0.0000000000000000e+00
+zimpl	c      12	C_2_3           	"C_2_3"	0.0000000000000000e+00
+zimpl	c      13	C_2_4           	"C_2_4"	0.0000000000000000e+00
+zimpl	c      14	C_2_5           	"C_2_5"	0.0000000000000000e+00
+zimpl	c      15	C_2_6           	"C_2_6"	0.0000000000000000e+00
+zimpl	c      16	C_2_7           	"C_2_7"	0.0000000000000000e+00
+zimpl	c      17	C_2_8           	"C_2_8"	0.0000000000000000e+00
+zimpl	c      18	C_2_9           	"C_2_9"	0.0000000000000000e+00
+zimpl	c      19	C_2_10          	"C_2_10"	0.0000000000000000e+00
+zimpl	c      20	C_3_1           	"C_3_1"	0.0000000000000000e+00
+zimpl	c      21	C_3_2           	"C_3_2"	0.0000000000000000e+00
+zimpl	c      22	C_3_3           	"C_3_3"	0.0000000000000000e+00
+zimpl	c      23	C_3_4           	"C_3_4"	0.0000000000000000e+00
+zimpl	c      24	C_3_5           	"C_3_5"	0.0000000000000000e+00
+zimpl	c      25	C_3_6           	"C_3_6"	0.0000000000000000e+00
+zimpl	c      26	C_3_7           	"C_3_7"	0.0000000000000000e+00
+zimpl	c      27	C_3_8           	"C_3_8"	0.0000000000000000e+00
+zimpl	c      28	C_3_9           	"C_3_9"	0.0000000000000000e+00
+zimpl	c      29	C_3_10          	"C_3_10"	0.0000000000000000e+00
+zimpl	c      30	C_4_1_a_0       	"C_4_1_a_0"	0.0000000000000000e+00
+zimpl	c      31	C_4_1_b_1       	"C_4_1_b_1"	0.0000000000000000e+00
+zimpl	c      32	C_4_1_c_2       	"C_4_1_c_2"	0.0000000000000000e+00
+zimpl	c      33	C_4_1_d_3       	"C_4_1_d_3"	0.0000000000000000e+00
+zimpl	c      34	C_4_1_e_4       	"C_4_1_e_4"	0.0000000000000000e+00
+zimpl	c      35	C_4_1_f_5       	"C_4_1_f_5"	0.0000000000000000e+00
+zimpl	c      36	C_4_1_g_6       	"C_4_1_g_6"	0.0000000000000000e+00
+zimpl	c      37	C_4_1_a_7       	"C_4_1_a_7"	0.0000000000000000e+00
+zimpl	c      38	C_4_1_b_8       	"C_4_1_b_8"	0.0000000000000000e+00
+zimpl	c      39	C_4_1_c_9       	"C_4_1_c_9"	0.0000000000000000e+00
+zimpl	c      40	C_4_1_d_10      	"C_4_1_d_10"	0.0000000000000000e+00
+zimpl	c      41	C_4_1_e_11      	"C_4_1_e_11"	0.0000000000000000e+00
+zimpl	c      42	C_4_1_f_12      	"C_4_1_f_12"	0.0000000000000000e+00
+zimpl	c      43	C_4_1_g_13      	"C_4_1_g_13"	0.0000000000000000e+00
+zimpl	c      44	C_4_1_a_14      	"C_4_1_a_14"	0.0000000000000000e+00
+zimpl	c      45	C_4_1_b_15      	"C_4_1_b_15"	0.0000000000000000e+00
+zimpl	c      46	C_4_1_c_16      	"C_4_1_c_16"	0.0000000000000000e+00
+zimpl	c      47	C_4_1_t_r       	"C_4_1_t_r"	0.0000000000000000e+00
+zimpl	c      48	C_4_1_t_l       	"C_4_1_t_l"	0.0000000000000000e+00
+zimpl	c      49	C_4_2_a_17      	"C_4_2_a_17"	0.0000000000000000e+00
+zimpl	c      50	C_4_2_b_18      	"C_4_2_b_18"	0.0000000000000000e+00
+zimpl	c      51	C_4_2_c_19      	"C_4_2_c_19"	0.0000000000000000e+00
+zimpl	c      52	C_4_2_d_20      	"C_4_2_d_20"	0.0000000000000000e+00
+zimpl	c      53	C_4_2_e_21      	"C_4_2_e_21"	0.0000000000000000e+00
+zimpl	c      54	C_4_2_f_22      	"C_4_2_f_22"	0.0000000000000000e+00
+zimpl	c      55	C_4_2_g_23      	"C_4_2_g_23"	0.0000000000000000e+00
+zimpl	c      56	C_4_2_a_24      	"C_4_2_a_24"	0.0000000000000000e+00
+zimpl	c      57	C_4_2_b_25      	"C_4_2_b_25"	0.0000000000000000e+00
+zimpl	c      58	C_4_2_c_26      	"C_4_2_c_26"	0.0000000000000000e+00
+zimpl	c      59	C_4_2_d_27      	"C_4_2_d_27"	0.0000000000000000e+00
+zimpl	c      60	C_4_2_e_28      	"C_4_2_e_28"	0.0000000000000000e+00
+zimpl	c      61	C_4_2_f_29      	"C_4_2_f_29"	0.0000000000000000e+00
+zimpl	c      62	C_4_2_g_30      	"C_4_2_g_30"	0.0000000000000000e+00
+zimpl	c      63	C_4_2_a_31      	"C_4_2_a_31"	0.0000000000000000e+00
+zimpl	c      64	C_4_2_b_32      	"C_4_2_b_32"	0.0000000000000000e+00
+zimpl	c      65	C_4_2_c_33      	"C_4_2_c_33"	0.0000000000000000e+00
+zimpl	c      66	C_4_2_t_r       	"C_4_2_t_r"	0.0000000000000000e+00
+zimpl	c      67	C_4_2_t_l       	"C_4_2_t_l"	0.0000000000000000e+00
+zimpl	c      68	C_4_3_a_34      	"C_4_3_a_34"	0.0000000000000000e+00
+zimpl	c      69	C_4_3_b_35      	"C_4_3_b_35"	0.0000000000000000e+00
+zimpl	c      70	C_4_3_c_36      	"C_4_3_c_36"	0.0000000000000000e+00
+zimpl	c      71	C_4_3_d_37      	"C_4_3_d_37"	0.0000000000000000e+00
+zimpl	c      72	C_4_3_e_38      	"C_4_3_e_38"	0.0000000000000000e+00
+zimpl	c      73	C_4_3_f_39      	"C_4_3_f_39"	0.0000000000000000e+00
+zimpl	c      74	C_4_3_g_40      	"C_4_3_g_40"	0.0000000000000000e+00
+zimpl	c      75	C_4_3_a_41      	"C_4_3_a_41"	0.0000000000000000e+00
+zimpl	c      76	C_4_3_b_42      	"C_4_3_b_42"	0.0000000000000000e+00
+zimpl	c      77	C_4_3_c_43      	"C_4_3_c_43"	0.0000000000000000e+00
+zimpl	c      78	C_4_3_d_44      	"C_4_3_d_44"	0.0000000000000000e+00
+zimpl	c      79	C_4_3_e_45      	"C_4_3_e_45"	0.0000000000000000e+00
+zimpl	c      80	C_4_3_f_46      	"C_4_3_f_46"	0.0000000000000000e+00
+zimpl	c      81	C_4_3_g_47      	"C_4_3_g_47"	0.0000000000000000e+00
+zimpl	c      82	C_4_3_a_48      	"C_4_3_a_48"	0.0000000000000000e+00
+zimpl	c      83	C_4_3_b_49      	"C_4_3_b_49"	0.0000000000000000e+00
+zimpl	c      84	C_4_3_c_50      	"C_4_3_c_50"	0.0000000000000000e+00
+zimpl	c      85	C_4_3_t_r       	"C_4_3_t_r"	0.0000000000000000e+00
+zimpl	c      86	C_4_3_t_l       	"C_4_3_t_l"	0.0000000000000000e+00
+zimpl	c      87	C_4_4_a_51      	"C_4_4_a_51"	0.0000000000000000e+00
+zimpl	c      88	C_4_4_b_52      	"C_4_4_b_52"	0.0000000000000000e+00
+zimpl	c      89	C_4_4_c_53      	"C_4_4_c_53"	0.0000000000000000e+00
+zimpl	c      90	C_4_4_d_54      	"C_4_4_d_54"	0.0000000000000000e+00
+zimpl	c      91	C_4_4_e_55      	"C_4_4_e_55"	0.0000000000000000e+00
+zimpl	c      92	C_4_4_f_56      	"C_4_4_f_56"	0.0000000000000000e+00
+zimpl	c      93	C_4_4_g_57      	"C_4_4_g_57"	0.0000000000000000e+00
+zimpl	c      94	C_4_4_a_58      	"C_4_4_a_58"	0.0000000000000000e+00
+zimpl	c      95	C_4_4_b_59      	"C_4_4_b_59"	0.0000000000000000e+00
+zimpl	c      96	C_4_4_c_60      	"C_4_4_c_60"	0.0000000000000000e+00
+zimpl	c      97	C_4_4_d_61      	"C_4_4_d_61"	0.0000000000000000e+00
+zimpl	c      98	C_4_4_e_62      	"C_4_4_e_62"	0.0000000000000000e+00
+zimpl	c      99	C_4_4_f_63      	"C_4_4_f_63"	0.0000000000000000e+00
+zimpl	c     100	C_4_4_g_64      	"C_4_4_g_64"	0.0000000000000000e+00
+zimpl	c     101	C_4_4_a_65      	"C_4_4_a_65"	0.0000000000000000e+00
+zimpl	c     102	C_4_4_b_66      	"C_4_4_b_66"	0.0000000000000000e+00
+zimpl	c     103	C_4_4_c_67      	"C_4_4_c_67"	0.0000000000000000e+00
+zimpl	c     104	C_4_4_t_r       	"C_4_4_t_r"	0.0000000000000000e+00
+zimpl	c     105	C_4_4_t_l       	"C_4_4_t_l"	0.0000000000000000e+00
+zimpl	c     106	C_4_5_a_68      	"C_4_5_a_68"	0.0000000000000000e+00
+zimpl	c     107	C_4_5_b_69      	"C_4_5_b_69"	0.0000000000000000e+00
+zimpl	c     108	C_4_5_c_70      	"C_4_5_c_70"	0.0000000000000000e+00
+zimpl	c     109	C_4_5_d_71      	"C_4_5_d_71"	0.0000000000000000e+00
+zimpl	c     110	C_4_5_e_72      	"C_4_5_e_72"	0.0000000000000000e+00
+zimpl	c     111	C_4_5_f_73      	"C_4_5_f_73"	0.0000000000000000e+00
+zimpl	c     112	C_4_5_g_74      	"C_4_5_g_74"	0.0000000000000000e+00
+zimpl	c     113	C_4_5_a_75      	"C_4_5_a_75"	0.0000000000000000e+00
+zimpl	c     114	C_4_5_b_76      	"C_4_5_b_76"	0.0000000000000000e+00
+zimpl	c     115	C_4_5_c_77      	"C_4_5_c_77"	0.0000000000000000e+00
+zimpl	c     116	C_4_5_d_78      	"C_4_5_d_78"	0.0000000000000000e+00
+zimpl	c     117	C_4_5_e_79      	"C_4_5_e_79"	0.0000000000000000e+00
+zimpl	c     118	C_4_5_f_80      	"C_4_5_f_80"	0.0000000000000000e+00
+zimpl	c     119	C_4_5_g_81      	"C_4_5_g_81"	0.0000000000000000e+00
+zimpl	c     120	C_4_5_a_82      	"C_4_5_a_82"	0.0000000000000000e+00
+zimpl	c     121	C_4_5_b_83      	"C_4_5_b_83"	0.0000000000000000e+00
+zimpl	c     122	C_4_5_c_84      	"C_4_5_c_84"	0.0000000000000000e+00
+zimpl	c     123	C_4_5_t_r       	"C_4_5_t_r"	0.0000000000000000e+00
+zimpl	c     124	C_4_5_t_l       	"C_4_5_t_l"	0.0000000000000000e+00
+zimpl	c     125	C_4_6_a_85      	"C_4_6_a_85"	0.0000000000000000e+00
+zimpl	c     126	C_4_6_b_86      	"C_4_6_b_86"	0.0000000000000000e+00
+zimpl	c     127	C_4_6_c_87      	"C_4_6_c_87"	0.0000000000000000e+00
+zimpl	c     128	C_4_6_d_88      	"C_4_6_d_88"	0.0000000000000000e+00
+zimpl	c     129	C_4_6_e_89      	"C_4_6_e_89"	0.0000000000000000e+00
+zimpl	c     130	C_4_6_f_90      	"C_4_6_f_90"	0.0000000000000000e+00
+zimpl	c     131	C_4_6_g_91      	"C_4_6_g_91"	0.0000000000000000e+00
+zimpl	c     132	C_4_6_a_92      	"C_4_6_a_92"	0.0000000000000000e+00
+zimpl	c     133	C_4_6_b_93      	"C_4_6_b_93"	0.0000000000000000e+00
+zimpl	c     134	C_4_6_c_94      	"C_4_6_c_94"	0.0000000000000000e+00
+zimpl	c     135	C_4_6_d_95      	"C_4_6_d_95"	0.0000000000000000e+00
+zimpl	c     136	C_4_6_e_96      	"C_4_6_e_96"	0.0000000000000000e+00
+zimpl	c     137	C_4_6_f_97      	"C_4_6_f_97"	0.0000000000000000e+00
+zimpl	c     138	C_4_6_g_98      	"C_4_6_g_98"	0.0000000000000000e+00
+zimpl	c     139	C_4_6_a_99      	"C_4_6_a_99"	0.0000000000000000e+00
+zimpl	c     140	C_4_6_b_100     	"C_4_6_b_100"	0.0000000000000000e+00
+zimpl	c     141	C_4_6_c_101     	"C_4_6_c_101"	0.0000000000000000e+00
+zimpl	c     142	C_4_6_t_r       	"C_4_6_t_r"	0.0000000000000000e+00
+zimpl	c     143	C_4_6_t_l       	"C_4_6_t_l"	0.0000000000000000e+00
+zimpl	c     144	C_4_7_a_102     	"C_4_7_a_102"	0.0000000000000000e+00
+zimpl	c     145	C_4_7_b_103     	"C_4_7_b_103"	0.0000000000000000e+00
+zimpl	c     146	C_4_7_c_104     	"C_4_7_c_104"	0.0000000000000000e+00
+zimpl	c     147	C_4_7_d_105     	"C_4_7_d_105"	0.0000000000000000e+00
+zimpl	c     148	C_4_7_e_106     	"C_4_7_e_106"	0.0000000000000000e+00
+zimpl	c     149	C_4_7_f_107     	"C_4_7_f_107"	0.0000000000000000e+00
+zimpl	c     150	C_4_7_g_108     	"C_4_7_g_108"	0.0000000000000000e+00
+zimpl	c     151	C_4_7_a_109     	"C_4_7_a_109"	0.0000000000000000e+00
+zimpl	c     152	C_4_7_b_110     	"C_4_7_b_110"	0.0000000000000000e+00
+zimpl	c     153	C_4_7_c_111     	"C_4_7_c_111"	0.0000000000000000e+00
+zimpl	c     154	C_4_7_d_112     	"C_4_7_d_112"	0.0000000000000000e+00
+zimpl	c     155	C_4_7_e_113     	"C_4_7_e_113"	0.0000000000000000e+00
+zimpl	c     156	C_4_7_f_114     	"C_4_7_f_114"	0.0000000000000000e+00
+zimpl	c     157	C_4_7_g_115     	"C_4_7_g_115"	0.0000000000000000e+00
+zimpl	c     158	C_4_7_a_116     	"C_4_7_a_116"	0.0000000000000000e+00
+zimpl	c     159	C_4_7_b_117     	"C_4_7_b_117"	0.0000000000000000e+00
+zimpl	c     160	C_4_7_c_118     	"C_4_7_c_118"	0.0000000000000000e+00
+zimpl	c     161	C_4_7_t_r       	"C_4_7_t_r"	0.0000000000000000e+00
+zimpl	c     162	C_4_7_t_l       	"C_4_7_t_l"	0.0000000000000000e+00
+zimpl	c     163	C_4_8_a_119     	"C_4_8_a_119"	0.0000000000000000e+00
+zimpl	c     164	C_4_8_b_120     	"C_4_8_b_120"	0.0000000000000000e+00
+zimpl	c     165	C_4_8_c_121     	"C_4_8_c_121"	0.0000000000000000e+00
+zimpl	c     166	C_4_8_d_122     	"C_4_8_d_122"	0.0000000000000000e+00
+zimpl	c     167	C_4_8_e_123     	"C_4_8_e_123"	0.0000000000000000e+00
+zimpl	c     168	C_4_8_f_124     	"C_4_8_f_124"	0.0000000000000000e+00
+zimpl	c     169	C_4_8_g_125     	"C_4_8_g_125"	0.0000000000000000e+00
+zimpl	c     170	C_4_8_a_126     	"C_4_8_a_126"	0.0000000000000000e+00
+zimpl	c     171	C_4_8_b_127     	"C_4_8_b_127"	0.0000000000000000e+00
+zimpl	c     172	C_4_8_c_128     	"C_4_8_c_128"	0.0000000000000000e+00
+zimpl	c     173	C_4_8_d_129     	"C_4_8_d_129"	0.0000000000000000e+00
+zimpl	c     174	C_4_8_e_130     	"C_4_8_e_130"	0.0000000000000000e+00
+zimpl	c     175	C_4_8_f_131     	"C_4_8_f_131"	0.0000000000000000e+00
+zimpl	c     176	C_4_8_g_132     	"C_4_8_g_132"	0.0000000000000000e+00
+zimpl	c     177	C_4_8_a_133     	"C_4_8_a_133"	0.0000000000000000e+00
+zimpl	c     178	C_4_8_b_134     	"C_4_8_b_134"	0.0000000000000000e+00
+zimpl	c     179	C_4_8_c_135     	"C_4_8_c_135"	0.0000000000000000e+00
+zimpl	c     180	C_4_8_t_r       	"C_4_8_t_r"	0.0000000000000000e+00
+zimpl	c     181	C_4_8_t_l       	"C_4_8_t_l"	0.0000000000000000e+00
+zimpl	c     182	C_4_9_a_136     	"C_4_9_a_136"	0.0000000000000000e+00
+zimpl	c     183	C_4_9_b_137     	"C_4_9_b_137"	0.0000000000000000e+00
+zimpl	c     184	C_4_9_c_138     	"C_4_9_c_138"	0.0000000000000000e+00
+zimpl	c     185	C_4_9_d_139     	"C_4_9_d_139"	0.0000000000000000e+00
+zimpl	c     186	C_4_9_e_140     	"C_4_9_e_140"	0.0000000000000000e+00
+zimpl	c     187	C_4_9_f_141     	"C_4_9_f_141"	0.0000000000000000e+00
+zimpl	c     188	C_4_9_g_142     	"C_4_9_g_142"	0.0000000000000000e+00
+zimpl	c     189	C_4_9_a_143     	"C_4_9_a_143"	0.0000000000000000e+00
+zimpl	c     190	C_4_9_b_144     	"C_4_9_b_144"	0.0000000000000000e+00
+zimpl	c     191	C_4_9_c_145     	"C_4_9_c_145"	0.0000000000000000e+00
+zimpl	c     192	C_4_9_d_146     	"C_4_9_d_146"	0.0000000000000000e+00
+zimpl	c     193	C_4_9_e_147     	"C_4_9_e_147"	0.0000000000000000e+00
+zimpl	c     194	C_4_9_f_148     	"C_4_9_f_148"	0.0000000000000000e+00
+zimpl	c     195	C_4_9_g_149     	"C_4_9_g_149"	0.0000000000000000e+00
+zimpl	c     196	C_4_9_a_150     	"C_4_9_a_150"	0.0000000000000000e+00
+zimpl	c     197	C_4_9_b_151     	"C_4_9_b_151"	0.0000000000000000e+00
+zimpl	c     198	C_4_9_c_152     	"C_4_9_c_152"	0.0000000000000000e+00
+zimpl	c     199	C_4_9_t_r       	"C_4_9_t_r"	0.0000000000000000e+00
+zimpl	c     200	C_4_9_t_l       	"C_4_9_t_l"	0.0000000000000000e+00
+zimpl	c     201	C_4_10_a_153    	"C_4_10_a_153"	0.0000000000000000e+00
+zimpl	c     202	C_4_10_b_154    	"C_4_10_b_154"	0.0000000000000000e+00
+zimpl	c     203	C_4_10_c_155    	"C_4_10_c_155"	0.0000000000000000e+00
+zimpl	c     204	C_4_10_d_156    	"C_4_10_d_156"	0.0000000000000000e+00
+zimpl	c     205	C_4_10_e_157    	"C_4_10_e_157"	0.0000000000000000e+00
+zimpl	c     206	C_4_10_f_158    	"C_4_10_f_158"	0.0000000000000000e+00
+zimpl	c     207	C_4_10_g_159    	"C_4_10_g_159"	0.0000000000000000e+00
+zimpl	c     208	C_4_10_a_160    	"C_4_10_a_160"	0.0000000000000000e+00
+zimpl	c     209	C_4_10_b_161    	"C_4_10_b_161"	0.0000000000000000e+00
+zimpl	c     210	C_4_10_c_162    	"C_4_10_c_162"	0.0000000000000000e+00
+zimpl	c     211	C_4_10_d_163    	"C_4_10_d_163"	0.0000000000000000e+00
+zimpl	c     212	C_4_10_e_164    	"C_4_10_e_164"	0.0000000000000000e+00
+zimpl	c     213	C_4_10_f_165    	"C_4_10_f_165"	0.0000000000000000e+00
+zimpl	c     214	C_4_10_g_166    	"C_4_10_g_166"	0.0000000000000000e+00
+zimpl	c     215	C_4_10_a_167    	"C_4_10_a_167"	0.0000000000000000e+00
+zimpl	c     216	C_4_10_b_168    	"C_4_10_b_168"	0.0000000000000000e+00
+zimpl	c     217	C_4_10_c_169    	"C_4_10_c_169"	0.0000000000000000e+00
+zimpl	c     218	C_4_10_t_r      	"C_4_10_t_r"	0.0000000000000000e+00
+zimpl	c     219	C_4_10_t_l      	"C_4_10_t_l"	0.0000000000000000e+00
+zimpl	c     220	C_4_11_a_170    	"C_4_11_a_170"	0.0000000000000000e+00
+zimpl	c     221	C_4_11_b_171    	"C_4_11_b_171"	0.0000000000000000e+00
+zimpl	c     222	C_4_11_c_172    	"C_4_11_c_172"	0.0000000000000000e+00
+zimpl	c     223	C_4_11_d_173    	"C_4_11_d_173"	0.0000000000000000e+00
+zimpl	c     224	C_4_11_e_174    	"C_4_11_e_174"	0.0000000000000000e+00
+zimpl	c     225	C_4_11_f_175    	"C_4_11_f_175"	0.0000000000000000e+00
+zimpl	c     226	C_4_11_g_176    	"C_4_11_g_176"	0.0000000000000000e+00
+zimpl	c     227	C_4_11_a_177    	"C_4_11_a_177"	0.0000000000000000e+00
+zimpl	c     228	C_4_11_b_178    	"C_4_11_b_178"	0.0000000000000000e+00
+zimpl	c     229	C_4_11_c_179    	"C_4_11_c_179"	0.0000000000000000e+00
+zimpl	c     230	C_4_11_d_180    	"C_4_11_d_180"	0.0000000000000000e+00
+zimpl	c     231	C_4_11_e_181    	"C_4_11_e_181"	0.0000000000000000e+00
+zimpl	c     232	C_4_11_f_182    	"C_4_11_f_182"	0.0000000000000000e+00
+zimpl	c     233	C_4_11_g_183    	"C_4_11_g_183"	0.0000000000000000e+00
+zimpl	c     234	C_4_11_a_184    	"C_4_11_a_184"	0.0000000000000000e+00
+zimpl	c     235	C_4_11_b_185    	"C_4_11_b_185"	0.0000000000000000e+00
+zimpl	c     236	C_4_11_c_186    	"C_4_11_c_186"	0.0000000000000000e+00
+zimpl	c     237	C_4_11_t_r      	"C_4_11_t_r"	0.0000000000000000e+00
+zimpl	c     238	C_4_11_t_l      	"C_4_11_t_l"	0.0000000000000000e+00
+zimpl	c     239	C_4_12_a_187    	"C_4_12_a_187"	0.0000000000000000e+00
+zimpl	c     240	C_4_12_b_188    	"C_4_12_b_188"	0.0000000000000000e+00
+zimpl	c     241	C_4_12_c_189    	"C_4_12_c_189"	0.0000000000000000e+00
+zimpl	c     242	C_4_12_d_190    	"C_4_12_d_190"	0.0000000000000000e+00
+zimpl	c     243	C_4_12_e_191    	"C_4_12_e_191"	0.0000000000000000e+00
+zimpl	c     244	C_4_12_f_192    	"C_4_12_f_192"	0.0000000000000000e+00
+zimpl	c     245	C_4_12_g_193    	"C_4_12_g_193"	0.0000000000000000e+00
+zimpl	c     246	C_4_12_a_194    	"C_4_12_a_194"	0.0000000000000000e+00
+zimpl	c     247	C_4_12_b_195    	"C_4_12_b_195"	0.0000000000000000e+00
+zimpl	c     248	C_4_12_c_196    	"C_4_12_c_196"	0.0000000000000000e+00
+zimpl	c     249	C_4_12_d_197    	"C_4_12_d_197"	0.0000000000000000e+00
+zimpl	c     250	C_4_12_e_198    	"C_4_12_e_198"	0.0000000000000000e+00
+zimpl	c     251	C_4_12_f_199    	"C_4_12_f_199"	0.0000000000000000e+00
+zimpl	c     252	C_4_12_g_200    	"C_4_12_g_200"	0.0000000000000000e+00
+zimpl	c     253	C_4_12_a_201    	"C_4_12_a_201"	0.0000000000000000e+00
+zimpl	c     254	C_4_12_b_202    	"C_4_12_b_202"	0.0000000000000000e+00
+zimpl	c     255	C_4_12_c_203    	"C_4_12_c_203"	0.0000000000000000e+00
+zimpl	c     256	C_4_12_t_r      	"C_4_12_t_r"	0.0000000000000000e+00
+zimpl	c     257	C_4_12_t_l      	"C_4_12_t_l"	0.0000000000000000e+00
+zimpl	c     258	C_4_13_a_204    	"C_4_13_a_204"	0.0000000000000000e+00
+zimpl	c     259	C_4_13_b_205    	"C_4_13_b_205"	0.0000000000000000e+00
+zimpl	c     260	C_4_13_c_206    	"C_4_13_c_206"	0.0000000000000000e+00
+zimpl	c     261	C_4_13_d_207    	"C_4_13_d_207"	0.0000000000000000e+00
+zimpl	c     262	C_4_13_e_208    	"C_4_13_e_208"	0.0000000000000000e+00
+zimpl	c     263	C_4_13_f_209    	"C_4_13_f_209"	0.0000000000000000e+00
+zimpl	c     264	C_4_13_g_210    	"C_4_13_g_210"	0.0000000000000000e+00
+zimpl	c     265	C_4_13_a_211    	"C_4_13_a_211"	0.0000000000000000e+00
+zimpl	c     266	C_4_13_b_212    	"C_4_13_b_212"	0.0000000000000000e+00
+zimpl	c     267	C_4_13_c_213    	"C_4_13_c_213"	0.0000000000000000e+00
+zimpl	c     268	C_4_13_d_214    	"C_4_13_d_214"	0.0000000000000000e+00
+zimpl	c     269	C_4_13_e_215    	"C_4_13_e_215"	0.0000000000000000e+00
+zimpl	c     270	C_4_13_f_216    	"C_4_13_f_216"	0.0000000000000000e+00
+zimpl	c     271	C_4_13_g_217    	"C_4_13_g_217"	0.0000000000000000e+00
+zimpl	c     272	C_4_13_a_218    	"C_4_13_a_218"	0.0000000000000000e+00
+zimpl	c     273	C_4_13_b_219    	"C_4_13_b_219"	0.0000000000000000e+00
+zimpl	c     274	C_4_13_c_220    	"C_4_13_c_220"	0.0000000000000000e+00
+zimpl	c     275	C_4_13_t_r      	"C_4_13_t_r"	0.0000000000000000e+00
+zimpl	c     276	C_4_13_t_l      	"C_4_13_t_l"	0.0000000000000000e+00
+zimpl	c     277	C_4_14_a_221    	"C_4_14_a_221"	0.0000000000000000e+00
+zimpl	c     278	C_4_14_b_222    	"C_4_14_b_222"	0.0000000000000000e+00
+zimpl	c     279	C_4_14_c_223    	"C_4_14_c_223"	0.0000000000000000e+00
+zimpl	c     280	C_4_14_d_224    	"C_4_14_d_224"	0.0000000000000000e+00
+zimpl	c     281	C_4_14_e_225    	"C_4_14_e_225"	0.0000000000000000e+00
+zimpl	c     282	C_4_14_f_226    	"C_4_14_f_226"	0.0000000000000000e+00
+zimpl	c     283	C_4_14_g_227    	"C_4_14_g_227"	0.0000000000000000e+00
+zimpl	c     284	C_4_14_a_228    	"C_4_14_a_228"	0.0000000000000000e+00
+zimpl	c     285	C_4_14_b_229    	"C_4_14_b_229"	0.0000000000000000e+00
+zimpl	c     286	C_4_14_c_230    	"C_4_14_c_230"	0.0000000000000000e+00
+zimpl	c     287	C_4_14_d_231    	"C_4_14_d_231"	0.0000000000000000e+00
+zimpl	c     288	C_4_14_e_232    	"C_4_14_e_232"	0.0000000000000000e+00
+zimpl	c     289	C_4_14_f_233    	"C_4_14_f_233"	0.0000000000000000e+00
+zimpl	c     290	C_4_14_g_234    	"C_4_14_g_234"	0.0000000000000000e+00
+zimpl	c     291	C_4_14_a_235    	"C_4_14_a_235"	0.0000000000000000e+00
+zimpl	c     292	C_4_14_b_236    	"C_4_14_b_236"	0.0000000000000000e+00
+zimpl	c     293	C_4_14_c_237    	"C_4_14_c_237"	0.0000000000000000e+00
+zimpl	c     294	C_4_14_t_r      	"C_4_14_t_r"	0.0000000000000000e+00
+zimpl	c     295	C_4_14_t_l      	"C_4_14_t_l"	0.0000000000000000e+00
+zimpl	c     296	C_4_15_a_238    	"C_4_15_a_238"	0.0000000000000000e+00
+zimpl	c     297	C_4_15_b_239    	"C_4_15_b_239"	0.0000000000000000e+00
+zimpl	c     298	C_4_15_c_240    	"C_4_15_c_240"	0.0000000000000000e+00
+zimpl	c     299	C_4_15_d_241    	"C_4_15_d_241"	0.0000000000000000e+00
+zimpl	c     300	C_4_15_e_242    	"C_4_15_e_242"	0.0000000000000000e+00
+zimpl	c     301	C_4_15_f_243    	"C_4_15_f_243"	0.0000000000000000e+00
+zimpl	c     302	C_4_15_g_244    	"C_4_15_g_244"	0.0000000000000000e+00
+zimpl	c     303	C_4_15_a_245    	"C_4_15_a_245"	0.0000000000000000e+00
+zimpl	c     304	C_4_15_b_246    	"C_4_15_b_246"	0.0000000000000000e+00
+zimpl	c     305	C_4_15_c_247    	"C_4_15_c_247"	0.0000000000000000e+00
+zimpl	c     306	C_4_15_d_248    	"C_4_15_d_248"	0.0000000000000000e+00
+zimpl	c     307	C_4_15_e_249    	"C_4_15_e_249"	0.0000000000000000e+00
+zimpl	c     308	C_4_15_f_250    	"C_4_15_f_250"	0.0000000000000000e+00
+zimpl	c     309	C_4_15_g_251    	"C_4_15_g_251"	0.0000000000000000e+00
+zimpl	c     310	C_4_15_a_252    	"C_4_15_a_252"	0.0000000000000000e+00
+zimpl	c     311	C_4_15_b_253    	"C_4_15_b_253"	0.0000000000000000e+00
+zimpl	c     312	C_4_15_c_254    	"C_4_15_c_254"	0.0000000000000000e+00
+zimpl	c     313	C_4_15_t_r      	"C_4_15_t_r"	0.0000000000000000e+00
+zimpl	c     314	C_4_15_t_l      	"C_4_15_t_l"	0.0000000000000000e+00
+zimpl	c     315	C_4_16_a_255    	"C_4_16_a_255"	0.0000000000000000e+00
+zimpl	c     316	C_4_16_b_256    	"C_4_16_b_256"	0.0000000000000000e+00
+zimpl	c     317	C_4_16_c_257    	"C_4_16_c_257"	0.0000000000000000e+00
+zimpl	c     318	C_4_16_d_258    	"C_4_16_d_258"	0.0000000000000000e+00
+zimpl	c     319	C_4_16_e_259    	"C_4_16_e_259"	0.0000000000000000e+00
+zimpl	c     320	C_4_16_f_260    	"C_4_16_f_260"	0.0000000000000000e+00
+zimpl	c     321	C_4_16_g_261    	"C_4_16_g_261"	0.0000000000000000e+00
+zimpl	c     322	C_4_16_a_262    	"C_4_16_a_262"	0.0000000000000000e+00
+zimpl	c     323	C_4_16_b_263    	"C_4_16_b_263"	0.0000000000000000e+00
+zimpl	c     324	C_4_16_c_264    	"C_4_16_c_264"	0.0000000000000000e+00
+zimpl	c     325	C_4_16_d_265    	"C_4_16_d_265"	0.0000000000000000e+00
+zimpl	c     326	C_4_16_e_266    	"C_4_16_e_266"	0.0000000000000000e+00
+zimpl	c     327	C_4_16_f_267    	"C_4_16_f_267"	0.0000000000000000e+00
+zimpl	c     328	C_4_16_g_268    	"C_4_16_g_268"	0.0000000000000000e+00
+zimpl	c     329	C_4_16_a_269    	"C_4_16_a_269"	0.0000000000000000e+00
+zimpl	c     330	C_4_16_b_270    	"C_4_16_b_270"	0.0000000000000000e+00
+zimpl	c     331	C_4_16_c_271    	"C_4_16_c_271"	0.0000000000000000e+00
+zimpl	c     332	C_4_16_t_r      	"C_4_16_t_r"	0.0000000000000000e+00
+zimpl	c     333	C_4_16_t_l      	"C_4_16_t_l"	0.0000000000000000e+00
+zimpl	c     334	C_4_17_a_272    	"C_4_17_a_272"	0.0000000000000000e+00
+zimpl	c     335	C_4_17_b_273    	"C_4_17_b_273"	0.0000000000000000e+00
+zimpl	c     336	C_4_17_c_274    	"C_4_17_c_274"	0.0000000000000000e+00
+zimpl	c     337	C_4_17_d_275    	"C_4_17_d_275"	0.0000000000000000e+00
+zimpl	c     338	C_4_17_e_276    	"C_4_17_e_276"	0.0000000000000000e+00
+zimpl	c     339	C_4_17_f_277    	"C_4_17_f_277"	0.0000000000000000e+00
+zimpl	c     340	C_4_17_g_278    	"C_4_17_g_278"	0.0000000000000000e+00
+zimpl	c     341	C_4_17_a_279    	"C_4_17_a_279"	0.0000000000000000e+00
+zimpl	c     342	C_4_17_b_280    	"C_4_17_b_280"	0.0000000000000000e+00
+zimpl	c     343	C_4_17_c_281    	"C_4_17_c_281"	0.0000000000000000e+00
+zimpl	c     344	C_4_17_d_282    	"C_4_17_d_282"	0.0000000000000000e+00
+zimpl	c     345	C_4_17_e_283    	"C_4_17_e_283"	0.0000000000000000e+00
+zimpl	c     346	C_4_17_f_284    	"C_4_17_f_284"	0.0000000000000000e+00
+zimpl	c     347	C_4_17_g_285    	"C_4_17_g_285"	0.0000000000000000e+00
+zimpl	c     348	C_4_17_a_286    	"C_4_17_a_286"	0.0000000000000000e+00
+zimpl	c     349	C_4_17_b_287    	"C_4_17_b_287"	0.0000000000000000e+00
+zimpl	c     350	C_4_17_c_288    	"C_4_17_c_288"	0.0000000000000000e+00
+zimpl	c     351	C_4_17_t_r      	"C_4_17_t_r"	0.0000000000000000e+00
+zimpl	c     352	C_4_17_t_l      	"C_4_17_t_l"	0.0000000000000000e+00
+zimpl	c     353	C_4_18_a_289    	"C_4_18_a_289"	0.0000000000000000e+00
+zimpl	c     354	C_4_18_b_290    	"C_4_18_b_290"	0.0000000000000000e+00
+zimpl	c     355	C_4_18_c_291    	"C_4_18_c_291"	0.0000000000000000e+00
+zimpl	c     356	C_4_18_d_292    	"C_4_18_d_292"	0.0000000000000000e+00
+zimpl	c     357	C_4_18_e_293    	"C_4_18_e_293"	0.0000000000000000e+00
+zimpl	c     358	C_4_18_f_294    	"C_4_18_f_294"	0.0000000000000000e+00
+zimpl	c     359	C_4_18_g_295    	"C_4_18_g_295"	0.0000000000000000e+00
+zimpl	c     360	C_4_18_a_296    	"C_4_18_a_296"	0.0000000000000000e+00
+zimpl	c     361	C_4_18_b_297    	"C_4_18_b_297"	0.0000000000000000e+00
+zimpl	c     362	C_4_18_c_298    	"C_4_18_c_298"	0.0000000000000000e+00
+zimpl	c     363	C_4_18_d_299    	"C_4_18_d_299"	0.0000000000000000e+00
+zimpl	c     364	C_4_18_e_300    	"C_4_18_e_300"	0.0000000000000000e+00
+zimpl	c     365	C_4_18_f_301    	"C_4_18_f_301"	0.0000000000000000e+00
+zimpl	c     366	C_4_18_g_302    	"C_4_18_g_302"	0.0000000000000000e+00
+zimpl	c     367	C_4_18_a_303    	"C_4_18_a_303"	0.0000000000000000e+00
+zimpl	c     368	C_4_18_b_304    	"C_4_18_b_304"	0.0000000000000000e+00
+zimpl	c     369	C_4_18_c_305    	"C_4_18_c_305"	0.0000000000000000e+00
+zimpl	c     370	C_4_18_t_r      	"C_4_18_t_r"	0.0000000000000000e+00
+zimpl	c     371	C_4_18_t_l      	"C_4_18_t_l"	0.0000000000000000e+00
+zimpl	c     372	C_4_19_a_306    	"C_4_19_a_306"	0.0000000000000000e+00
+zimpl	c     373	C_4_19_b_307    	"C_4_19_b_307"	0.0000000000000000e+00
+zimpl	c     374	C_4_19_c_308    	"C_4_19_c_308"	0.0000000000000000e+00
+zimpl	c     375	C_4_19_d_309    	"C_4_19_d_309"	0.0000000000000000e+00
+zimpl	c     376	C_4_19_e_310    	"C_4_19_e_310"	0.0000000000000000e+00
+zimpl	c     377	C_4_19_f_311    	"C_4_19_f_311"	0.0000000000000000e+00
+zimpl	c     378	C_4_19_g_312    	"C_4_19_g_312"	0.0000000000000000e+00
+zimpl	c     379	C_4_19_a_313    	"C_4_19_a_313"	0.0000000000000000e+00
+zimpl	c     380	C_4_19_b_314    	"C_4_19_b_314"	0.0000000000000000e+00
+zimpl	c     381	C_4_19_c_315    	"C_4_19_c_315"	0.0000000000000000e+00
+zimpl	c     382	C_4_19_d_316    	"C_4_19_d_316"	0.0000000000000000e+00
+zimpl	c     383	C_4_19_e_317    	"C_4_19_e_317"	0.0000000000000000e+00
+zimpl	c     384	C_4_19_f_318    	"C_4_19_f_318"	0.0000000000000000e+00
+zimpl	c     385	C_4_19_g_319    	"C_4_19_g_319"	0.0000000000000000e+00
+zimpl	c     386	C_4_19_a_320    	"C_4_19_a_320"	0.0000000000000000e+00
+zimpl	c     387	C_4_19_b_321    	"C_4_19_b_321"	0.0000000000000000e+00
+zimpl	c     388	C_4_19_c_322    	"C_4_19_c_322"	0.0000000000000000e+00
+zimpl	c     389	C_4_19_t_r      	"C_4_19_t_r"	0.0000000000000000e+00
+zimpl	c     390	C_4_19_t_l      	"C_4_19_t_l"	0.0000000000000000e+00
+zimpl	c     391	C_4_20_a_323    	"C_4_20_a_323"	0.0000000000000000e+00
+zimpl	c     392	C_4_20_b_324    	"C_4_20_b_324"	0.0000000000000000e+00
+zimpl	c     393	C_4_20_c_325    	"C_4_20_c_325"	0.0000000000000000e+00
+zimpl	c     394	C_4_20_d_326    	"C_4_20_d_326"	0.0000000000000000e+00
+zimpl	c     395	C_4_20_e_327    	"C_4_20_e_327"	0.0000000000000000e+00
+zimpl	c     396	C_4_20_f_328    	"C_4_20_f_328"	0.0000000000000000e+00
+zimpl	c     397	C_4_20_g_329    	"C_4_20_g_329"	0.0000000000000000e+00
+zimpl	c     398	C_4_20_a_330    	"C_4_20_a_330"	0.0000000000000000e+00
+zimpl	c     399	C_4_20_b_331    	"C_4_20_b_331"	0.0000000000000000e+00
+zimpl	c     400	C_4_20_c_332    	"C_4_20_c_332"	0.0000000000000000e+00
+zimpl	c     401	C_4_20_d_333    	"C_4_20_d_333"	0.0000000000000000e+00
+zimpl	c     402	C_4_20_e_334    	"C_4_20_e_334"	0.0000000000000000e+00
+zimpl	c     403	C_4_20_f_335    	"C_4_20_f_335"	0.0000000000000000e+00
+zimpl	c     404	C_4_20_g_336    	"C_4_20_g_336"	0.0000000000000000e+00
+zimpl	c     405	C_4_20_a_337    	"C_4_20_a_337"	0.0000000000000000e+00
+zimpl	c     406	C_4_20_b_338    	"C_4_20_b_338"	0.0000000000000000e+00
+zimpl	c     407	C_4_20_c_339    	"C_4_20_c_339"	0.0000000000000000e+00
+zimpl	c     408	C_4_20_t_r      	"C_4_20_t_r"	0.0000000000000000e+00
+zimpl	c     409	C_4_20_t_l      	"C_4_20_t_l"	0.0000000000000000e+00
+zimpl	c     410	C_4_21_a_340    	"C_4_21_a_340"	0.0000000000000000e+00
+zimpl	c     411	C_4_21_b_341    	"C_4_21_b_341"	0.0000000000000000e+00
+zimpl	c     412	C_4_21_c_342    	"C_4_21_c_342"	0.0000000000000000e+00
+zimpl	c     413	C_4_21_d_343    	"C_4_21_d_343"	0.0000000000000000e+00
+zimpl	c     414	C_4_21_e_344    	"C_4_21_e_344"	0.0000000000000000e+00
+zimpl	c     415	C_4_21_f_345    	"C_4_21_f_345"	0.0000000000000000e+00
+zimpl	c     416	C_4_21_g_346    	"C_4_21_g_346"	0.0000000000000000e+00
+zimpl	c     417	C_4_21_a_347    	"C_4_21_a_347"	0.0000000000000000e+00
+zimpl	c     418	C_4_21_b_348    	"C_4_21_b_348"	0.0000000000000000e+00
+zimpl	c     419	C_4_21_c_349    	"C_4_21_c_349"	0.0000000000000000e+00
+zimpl	c     420	C_4_21_d_350    	"C_4_21_d_350"	0.0000000000000000e+00
+zimpl	c     421	C_4_21_e_351    	"C_4_21_e_351"	0.0000000000000000e+00
+zimpl	c     422	C_4_21_f_352    	"C_4_21_f_352"	0.0000000000000000e+00
+zimpl	c     423	C_4_21_g_353    	"C_4_21_g_353"	0.0000000000000000e+00
+zimpl	c     424	C_4_21_a_354    	"C_4_21_a_354"	0.0000000000000000e+00
+zimpl	c     425	C_4_21_b_355    	"C_4_21_b_355"	0.0000000000000000e+00
+zimpl	c     426	C_4_21_c_356    	"C_4_21_c_356"	0.0000000000000000e+00
+zimpl	c     427	C_4_21_t_r      	"C_4_21_t_r"	0.0000000000000000e+00
+zimpl	c     428	C_4_21_t_l      	"C_4_21_t_l"	0.0000000000000000e+00
+zimpl	c     429	C_4_22_a_357    	"C_4_22_a_357"	0.0000000000000000e+00
+zimpl	c     430	C_4_22_b_358    	"C_4_22_b_358"	0.0000000000000000e+00
+zimpl	c     431	C_4_22_c_359    	"C_4_22_c_359"	0.0000000000000000e+00
+zimpl	c     432	C_4_22_d_360    	"C_4_22_d_360"	0.0000000000000000e+00
+zimpl	c     433	C_4_22_e_361    	"C_4_22_e_361"	0.0000000000000000e+00
+zimpl	c     434	C_4_22_f_362    	"C_4_22_f_362"	0.0000000000000000e+00
+zimpl	c     435	C_4_22_g_363    	"C_4_22_g_363"	0.0000000000000000e+00
+zimpl	c     436	C_4_22_a_364    	"C_4_22_a_364"	0.0000000000000000e+00
+zimpl	c     437	C_4_22_b_365    	"C_4_22_b_365"	0.0000000000000000e+00
+zimpl	c     438	C_4_22_c_366    	"C_4_22_c_366"	0.0000000000000000e+00
+zimpl	c     439	C_4_22_d_367    	"C_4_22_d_367"	0.0000000000000000e+00
+zimpl	c     440	C_4_22_e_368    	"C_4_22_e_368"	0.0000000000000000e+00
+zimpl	c     441	C_4_22_f_369    	"C_4_22_f_369"	0.0000000000000000e+00
+zimpl	c     442	C_4_22_g_370    	"C_4_22_g_370"	0.0000000000000000e+00
+zimpl	c     443	C_4_22_a_371    	"C_4_22_a_371"	0.0000000000000000e+00
+zimpl	c     444	C_4_22_b_372    	"C_4_22_b_372"	0.0000000000000000e+00
+zimpl	c     445	C_4_22_c_373    	"C_4_22_c_373"	0.0000000000000000e+00
+zimpl	c     446	C_4_22_t_r      	"C_4_22_t_r"	0.0000000000000000e+00
+zimpl	c     447	C_4_22_t_l      	"C_4_22_t_l"	0.0000000000000000e+00
+zimpl	c     448	C_4_23_a_374    	"C_4_23_a_374"	0.0000000000000000e+00
+zimpl	c     449	C_4_23_b_375    	"C_4_23_b_375"	0.0000000000000000e+00
+zimpl	c     450	C_4_23_c_376    	"C_4_23_c_376"	0.0000000000000000e+00
+zimpl	c     451	C_4_23_d_377    	"C_4_23_d_377"	0.0000000000000000e+00
+zimpl	c     452	C_4_23_e_378    	"C_4_23_e_378"	0.0000000000000000e+00
+zimpl	c     453	C_4_23_f_379    	"C_4_23_f_379"	0.0000000000000000e+00
+zimpl	c     454	C_4_23_g_380    	"C_4_23_g_380"	0.0000000000000000e+00
+zimpl	c     455	C_4_23_a_381    	"C_4_23_a_381"	0.0000000000000000e+00
+zimpl	c     456	C_4_23_b_382    	"C_4_23_b_382"	0.0000000000000000e+00
+zimpl	c     457	C_4_23_c_383    	"C_4_23_c_383"	0.0000000000000000e+00
+zimpl	c     458	C_4_23_d_384    	"C_4_23_d_384"	0.0000000000000000e+00
+zimpl	c     459	C_4_23_e_385    	"C_4_23_e_385"	0.0000000000000000e+00
+zimpl	c     460	C_4_23_f_386    	"C_4_23_f_386"	0.0000000000000000e+00
+zimpl	c     461	C_4_23_g_387    	"C_4_23_g_387"	0.0000000000000000e+00
+zimpl	c     462	C_4_23_a_388    	"C_4_23_a_388"	0.0000000000000000e+00
+zimpl	c     463	C_4_23_b_389    	"C_4_23_b_389"	0.0000000000000000e+00
+zimpl	c     464	C_4_23_c_390    	"C_4_23_c_390"	0.0000000000000000e+00
+zimpl	c     465	C_4_23_t_r      	"C_4_23_t_r"	0.0000000000000000e+00
+zimpl	c     466	C_4_23_t_l      	"C_4_23_t_l"	0.0000000000000000e+00
+zimpl	c     467	C_4_24_a_391    	"C_4_24_a_391"	0.0000000000000000e+00
+zimpl	c     468	C_4_24_b_392    	"C_4_24_b_392"	0.0000000000000000e+00
+zimpl	c     469	C_4_24_c_393    	"C_4_24_c_393"	0.0000000000000000e+00
+zimpl	c     470	C_4_24_d_394    	"C_4_24_d_394"	0.0000000000000000e+00
+zimpl	c     471	C_4_24_e_395    	"C_4_24_e_395"	0.0000000000000000e+00
+zimpl	c     472	C_4_24_f_396    	"C_4_24_f_396"	0.0000000000000000e+00
+zimpl	c     473	C_4_24_g_397    	"C_4_24_g_397"	0.0000000000000000e+00
+zimpl	c     474	C_4_24_a_398    	"C_4_24_a_398"	0.0000000000000000e+00
+zimpl	c     475	C_4_24_b_399    	"C_4_24_b_399"	0.0000000000000000e+00
+zimpl	c     476	C_4_24_c_400    	"C_4_24_c_400"	0.0000000000000000e+00
+zimpl	c     477	C_4_24_d_401    	"C_4_24_d_401"	0.0000000000000000e+00
+zimpl	c     478	C_4_24_e_402    	"C_4_24_e_402"	0.0000000000000000e+00
+zimpl	c     479	C_4_24_f_403    	"C_4_24_f_403"	0.0000000000000000e+00
+zimpl	c     480	C_4_24_g_404    	"C_4_24_g_404"	0.0000000000000000e+00
+zimpl	c     481	C_4_24_a_405    	"C_4_24_a_405"	0.0000000000000000e+00
+zimpl	c     482	C_4_24_b_406    	"C_4_24_b_406"	0.0000000000000000e+00
+zimpl	c     483	C_4_24_c_407    	"C_4_24_c_407"	0.0000000000000000e+00
+zimpl	c     484	C_4_24_t_r      	"C_4_24_t_r"	0.0000000000000000e+00
+zimpl	c     485	C_4_24_t_l      	"C_4_24_t_l"	0.0000000000000000e+00
+zimpl	c     486	C_4_25_a_408    	"C_4_25_a_408"	0.0000000000000000e+00
+zimpl	c     487	C_4_25_b_409    	"C_4_25_b_409"	0.0000000000000000e+00
+zimpl	c     488	C_4_25_c_410    	"C_4_25_c_410"	0.0000000000000000e+00
+zimpl	c     489	C_4_25_d_411    	"C_4_25_d_411"	0.0000000000000000e+00
+zimpl	c     490	C_4_25_e_412    	"C_4_25_e_412"	0.0000000000000000e+00
+zimpl	c     491	C_4_25_f_413    	"C_4_25_f_413"	0.0000000000000000e+00
+zimpl	c     492	C_4_25_g_414    	"C_4_25_g_414"	0.0000000000000000e+00
+zimpl	c     493	C_4_25_a_415    	"C_4_25_a_415"	0.0000000000000000e+00
+zimpl	c     494	C_4_25_b_416    	"C_4_25_b_416"	0.0000000000000000e+00
+zimpl	c     495	C_4_25_c_417    	"C_4_25_c_417"	0.0000000000000000e+00
+zimpl	c     496	C_4_25_d_418    	"C_4_25_d_418"	0.0000000000000000e+00
+zimpl	c     497	C_4_25_e_419    	"C_4_25_e_419"	0.0000000000000000e+00
+zimpl	c     498	C_4_25_f_420    	"C_4_25_f_420"	0.0000000000000000e+00
+zimpl	c     499	C_4_25_g_421    	"C_4_25_g_421"	0.0000000000000000e+00
+zimpl	c     500	C_4_25_a_422    	"C_4_25_a_422"	0.0000000000000000e+00
+zimpl	c     501	C_4_25_b_423    	"C_4_25_b_423"	0.0000000000000000e+00
+zimpl	c     502	C_4_25_c_424    	"C_4_25_c_424"	0.0000000000000000e+00
+zimpl	c     503	C_4_25_t_r      	"C_4_25_t_r"	0.0000000000000000e+00
+zimpl	c     504	C_4_25_t_l      	"C_4_25_t_l"	0.0000000000000000e+00
+zimpl	c     505	C_4_26_a_425    	"C_4_26_a_425"	0.0000000000000000e+00
+zimpl	c     506	C_4_26_b_426    	"C_4_26_b_426"	0.0000000000000000e+00
+zimpl	c     507	C_4_26_c_427    	"C_4_26_c_427"	0.0000000000000000e+00
+zimpl	c     508	C_4_26_d_428    	"C_4_26_d_428"	0.0000000000000000e+00
+zimpl	c     509	C_4_26_e_429    	"C_4_26_e_429"	0.0000000000000000e+00
+zimpl	c     510	C_4_26_f_430    	"C_4_26_f_430"	0.0000000000000000e+00
+zimpl	c     511	C_4_26_g_431    	"C_4_26_g_431"	0.0000000000000000e+00
+zimpl	c     512	C_4_26_a_432    	"C_4_26_a_432"	0.0000000000000000e+00
+zimpl	c     513	C_4_26_b_433    	"C_4_26_b_433"	0.0000000000000000e+00
+zimpl	c     514	C_4_26_c_434    	"C_4_26_c_434"	0.0000000000000000e+00
+zimpl	c     515	C_4_26_d_435    	"C_4_26_d_435"	0.0000000000000000e+00
+zimpl	c     516	C_4_26_e_436    	"C_4_26_e_436"	0.0000000000000000e+00
+zimpl	c     517	C_4_26_f_437    	"C_4_26_f_437"	0.0000000000000000e+00
+zimpl	c     518	C_4_26_g_438    	"C_4_26_g_438"	0.0000000000000000e+00
+zimpl	c     519	C_4_26_a_439    	"C_4_26_a_439"	0.0000000000000000e+00
+zimpl	c     520	C_4_26_b_440    	"C_4_26_b_440"	0.0000000000000000e+00
+zimpl	c     521	C_4_26_c_441    	"C_4_26_c_441"	0.0000000000000000e+00
+zimpl	c     522	C_4_26_t_r      	"C_4_26_t_r"	0.0000000000000000e+00
+zimpl	c     523	C_4_26_t_l      	"C_4_26_t_l"	0.0000000000000000e+00
+zimpl	c     524	C_4_27_a_442    	"C_4_27_a_442"	0.0000000000000000e+00
+zimpl	c     525	C_4_27_b_443    	"C_4_27_b_443"	0.0000000000000000e+00
+zimpl	c     526	C_4_27_c_444    	"C_4_27_c_444"	0.0000000000000000e+00
+zimpl	c     527	C_4_27_d_445    	"C_4_27_d_445"	0.0000000000000000e+00
+zimpl	c     528	C_4_27_e_446    	"C_4_27_e_446"	0.0000000000000000e+00
+zimpl	c     529	C_4_27_f_447    	"C_4_27_f_447"	0.0000000000000000e+00
+zimpl	c     530	C_4_27_g_448    	"C_4_27_g_448"	0.0000000000000000e+00
+zimpl	c     531	C_4_27_a_449    	"C_4_27_a_449"	0.0000000000000000e+00
+zimpl	c     532	C_4_27_b_450    	"C_4_27_b_450"	0.0000000000000000e+00
+zimpl	c     533	C_4_27_c_451    	"C_4_27_c_451"	0.0000000000000000e+00
+zimpl	c     534	C_4_27_d_452    	"C_4_27_d_452"	0.0000000000000000e+00
+zimpl	c     535	C_4_27_e_453    	"C_4_27_e_453"	0.0000000000000000e+00
+zimpl	c     536	C_4_27_f_454    	"C_4_27_f_454"	0.0000000000000000e+00
+zimpl	c     537	C_4_27_g_455    	"C_4_27_g_455"	0.0000000000000000e+00
+zimpl	c     538	C_4_27_a_456    	"C_4_27_a_456"	0.0000000000000000e+00
+zimpl	c     539	C_4_27_b_457    	"C_4_27_b_457"	0.0000000000000000e+00
+zimpl	c     540	C_4_27_c_458    	"C_4_27_c_458"	0.0000000000000000e+00
+zimpl	c     541	C_4_27_t_r      	"C_4_27_t_r"	0.0000000000000000e+00
+zimpl	c     542	C_4_27_t_l      	"C_4_27_t_l"	0.0000000000000000e+00
+zimpl	c     543	C_4_28_a_459    	"C_4_28_a_459"	0.0000000000000000e+00
+zimpl	c     544	C_4_28_b_460    	"C_4_28_b_460"	0.0000000000000000e+00
+zimpl	c     545	C_4_28_c_461    	"C_4_28_c_461"	0.0000000000000000e+00
+zimpl	c     546	C_4_28_d_462    	"C_4_28_d_462"	0.0000000000000000e+00
+zimpl	c     547	C_4_28_e_463    	"C_4_28_e_463"	0.0000000000000000e+00
+zimpl	c     548	C_4_28_f_464    	"C_4_28_f_464"	0.0000000000000000e+00
+zimpl	c     549	C_4_28_g_465    	"C_4_28_g_465"	0.0000000000000000e+00
+zimpl	c     550	C_4_28_a_466    	"C_4_28_a_466"	0.0000000000000000e+00
+zimpl	c     551	C_4_28_b_467    	"C_4_28_b_467"	0.0000000000000000e+00
+zimpl	c     552	C_4_28_c_468    	"C_4_28_c_468"	0.0000000000000000e+00
+zimpl	c     553	C_4_28_d_469    	"C_4_28_d_469"	0.0000000000000000e+00
+zimpl	c     554	C_4_28_e_470    	"C_4_28_e_470"	0.0000000000000000e+00
+zimpl	c     555	C_4_28_f_471    	"C_4_28_f_471"	0.0000000000000000e+00
+zimpl	c     556	C_4_28_g_472    	"C_4_28_g_472"	0.0000000000000000e+00
+zimpl	c     557	C_4_28_a_473    	"C_4_28_a_473"	0.0000000000000000e+00
+zimpl	c     558	C_4_28_b_474    	"C_4_28_b_474"	0.0000000000000000e+00
+zimpl	c     559	C_4_28_c_475    	"C_4_28_c_475"	0.0000000000000000e+00
+zimpl	c     560	C_4_28_t_r      	"C_4_28_t_r"	0.0000000000000000e+00
+zimpl	c     561	C_4_28_t_l      	"C_4_28_t_l"	0.0000000000000000e+00
+zimpl	c     562	C_4_29_a_476    	"C_4_29_a_476"	0.0000000000000000e+00
+zimpl	c     563	C_4_29_b_477    	"C_4_29_b_477"	0.0000000000000000e+00
+zimpl	c     564	C_4_29_c_478    	"C_4_29_c_478"	0.0000000000000000e+00
+zimpl	c     565	C_4_29_d_479    	"C_4_29_d_479"	0.0000000000000000e+00
+zimpl	c     566	C_4_29_e_480    	"C_4_29_e_480"	0.0000000000000000e+00
+zimpl	c     567	C_4_29_f_481    	"C_4_29_f_481"	0.0000000000000000e+00
+zimpl	c     568	C_4_29_g_482    	"C_4_29_g_482"	0.0000000000000000e+00
+zimpl	c     569	C_4_29_a_483    	"C_4_29_a_483"	0.0000000000000000e+00
+zimpl	c     570	C_4_29_b_484    	"C_4_29_b_484"	0.0000000000000000e+00
+zimpl	c     571	C_4_29_c_485    	"C_4_29_c_485"	0.0000000000000000e+00
+zimpl	c     572	C_4_29_d_486    	"C_4_29_d_486"	0.0000000000000000e+00
+zimpl	c     573	C_4_29_e_487    	"C_4_29_e_487"	0.0000000000000000e+00
+zimpl	c     574	C_4_29_f_488    	"C_4_29_f_488"	0.0000000000000000e+00
+zimpl	c     575	C_4_29_g_489    	"C_4_29_g_489"	0.0000000000000000e+00
+zimpl	c     576	C_4_29_a_490    	"C_4_29_a_490"	0.0000000000000000e+00
+zimpl	c     577	C_4_29_b_491    	"C_4_29_b_491"	0.0000000000000000e+00
+zimpl	c     578	C_4_29_c_492    	"C_4_29_c_492"	0.0000000000000000e+00
+zimpl	c     579	C_4_29_t_r      	"C_4_29_t_r"	0.0000000000000000e+00
+zimpl	c     580	C_4_29_t_l      	"C_4_29_t_l"	0.0000000000000000e+00
+zimpl	c     581	C_4_30_a_493    	"C_4_30_a_493"	0.0000000000000000e+00
+zimpl	c     582	C_4_30_b_494    	"C_4_30_b_494"	0.0000000000000000e+00
+zimpl	c     583	C_4_30_c_495    	"C_4_30_c_495"	0.0000000000000000e+00
+zimpl	c     584	C_4_30_d_496    	"C_4_30_d_496"	0.0000000000000000e+00
+zimpl	c     585	C_4_30_e_497    	"C_4_30_e_497"	0.0000000000000000e+00
+zimpl	c     586	C_4_30_f_498    	"C_4_30_f_498"	0.0000000000000000e+00
+zimpl	c     587	C_4_30_g_499    	"C_4_30_g_499"	0.0000000000000000e+00
+zimpl	c     588	C_4_30_a_500    	"C_4_30_a_500"	0.0000000000000000e+00
+zimpl	c     589	C_4_30_b_501    	"C_4_30_b_501"	0.0000000000000000e+00
+zimpl	c     590	C_4_30_c_502    	"C_4_30_c_502"	0.0000000000000000e+00
+zimpl	c     591	C_4_30_d_503    	"C_4_30_d_503"	0.0000000000000000e+00
+zimpl	c     592	C_4_30_e_504    	"C_4_30_e_504"	0.0000000000000000e+00
+zimpl	c     593	C_4_30_f_505    	"C_4_30_f_505"	0.0000000000000000e+00
+zimpl	c     594	C_4_30_g_506    	"C_4_30_g_506"	0.0000000000000000e+00
+zimpl	c     595	C_4_30_a_507    	"C_4_30_a_507"	0.0000000000000000e+00
+zimpl	c     596	C_4_30_b_508    	"C_4_30_b_508"	0.0000000000000000e+00
+zimpl	c     597	C_4_30_c_509    	"C_4_30_c_509"	0.0000000000000000e+00
+zimpl	c     598	C_4_30_t_r      	"C_4_30_t_r"	0.0000000000000000e+00
+zimpl	c     599	C_4_30_t_l      	"C_4_30_t_l"	0.0000000000000000e+00
+zimpl	c     600	C_4_31_a_510    	"C_4_31_a_510"	0.0000000000000000e+00
+zimpl	c     601	C_4_31_b_511    	"C_4_31_b_511"	0.0000000000000000e+00
+zimpl	c     602	C_4_31_c_512    	"C_4_31_c_512"	0.0000000000000000e+00
+zimpl	c     603	C_4_31_d_513    	"C_4_31_d_513"	0.0000000000000000e+00
+zimpl	c     604	C_4_31_e_514    	"C_4_31_e_514"	0.0000000000000000e+00
+zimpl	c     605	C_4_31_f_515    	"C_4_31_f_515"	0.0000000000000000e+00
+zimpl	c     606	C_4_31_g_516    	"C_4_31_g_516"	0.0000000000000000e+00
+zimpl	c     607	C_4_31_a_517    	"C_4_31_a_517"	0.0000000000000000e+00
+zimpl	c     608	C_4_31_b_518    	"C_4_31_b_518"	0.0000000000000000e+00
+zimpl	c     609	C_4_31_c_519    	"C_4_31_c_519"	0.0000000000000000e+00
+zimpl	c     610	C_4_31_d_520    	"C_4_31_d_520"	0.0000000000000000e+00
+zimpl	c     611	C_4_31_e_521    	"C_4_31_e_521"	0.0000000000000000e+00
+zimpl	c     612	C_4_31_f_522    	"C_4_31_f_522"	0.0000000000000000e+00
+zimpl	c     613	C_4_31_g_523    	"C_4_31_g_523"	0.0000000000000000e+00
+zimpl	c     614	C_4_31_a_524    	"C_4_31_a_524"	0.0000000000000000e+00
+zimpl	c     615	C_4_31_b_525    	"C_4_31_b_525"	0.0000000000000000e+00
+zimpl	c     616	C_4_31_c_526    	"C_4_31_c_526"	0.0000000000000000e+00
+zimpl	c     617	C_4_31_t_r      	"C_4_31_t_r"	0.0000000000000000e+00
+zimpl	c     618	C_4_31_t_l      	"C_4_31_t_l"	0.0000000000000000e+00
+zimpl	c     619	C_4_32_a_527    	"C_4_32_a_527"	0.0000000000000000e+00
+zimpl	c     620	C_4_32_b_528    	"C_4_32_b_528"	0.0000000000000000e+00
+zimpl	c     621	C_4_32_c_529    	"C_4_32_c_529"	0.0000000000000000e+00
+zimpl	c     622	C_4_32_d_530    	"C_4_32_d_530"	0.0000000000000000e+00
+zimpl	c     623	C_4_32_e_531    	"C_4_32_e_531"	0.0000000000000000e+00
+zimpl	c     624	C_4_32_f_532    	"C_4_32_f_532"	0.0000000000000000e+00
+zimpl	c     625	C_4_32_g_533    	"C_4_32_g_533"	0.0000000000000000e+00
+zimpl	c     626	C_4_32_a_534    	"C_4_32_a_534"	0.0000000000000000e+00
+zimpl	c     627	C_4_32_b_535    	"C_4_32_b_535"	0.0000000000000000e+00
+zimpl	c     628	C_4_32_c_536    	"C_4_32_c_536"	0.0000000000000000e+00
+zimpl	c     629	C_4_32_d_537    	"C_4_32_d_537"	0.0000000000000000e+00
+zimpl	c     630	C_4_32_e_538    	"C_4_32_e_538"	0.0000000000000000e+00
+zimpl	c     631	C_4_32_f_539    	"C_4_32_f_539"	0.0000000000000000e+00
+zimpl	c     632	C_4_32_g_540    	"C_4_32_g_540"	0.0000000000000000e+00
+zimpl	c     633	C_4_32_a_541    	"C_4_32_a_541"	0.0000000000000000e+00
+zimpl	c     634	C_4_32_b_542    	"C_4_32_b_542"	0.0000000000000000e+00
+zimpl	c     635	C_4_32_c_543    	"C_4_32_c_543"	0.0000000000000000e+00
+zimpl	c     636	C_4_32_t_r      	"C_4_32_t_r"	0.0000000000000000e+00
+zimpl	c     637	C_4_32_t_l      	"C_4_32_t_l"	0.0000000000000000e+00
+zimpl	c     638	C_4_33_a_544    	"C_4_33_a_544"	0.0000000000000000e+00
+zimpl	c     639	C_4_33_b_545    	"C_4_33_b_545"	0.0000000000000000e+00
+zimpl	c     640	C_4_33_c_546    	"C_4_33_c_546"	0.0000000000000000e+00
+zimpl	c     641	C_4_33_d_547    	"C_4_33_d_547"	0.0000000000000000e+00
+zimpl	c     642	C_4_33_e_548    	"C_4_33_e_548"	0.0000000000000000e+00
+zimpl	c     643	C_4_33_f_549    	"C_4_33_f_549"	0.0000000000000000e+00
+zimpl	c     644	C_4_33_g_550    	"C_4_33_g_550"	0.0000000000000000e+00
+zimpl	c     645	C_4_33_a_551    	"C_4_33_a_551"	0.0000000000000000e+00
+zimpl	c     646	C_4_33_b_552    	"C_4_33_b_552"	0.0000000000000000e+00
+zimpl	c     647	C_4_33_c_553    	"C_4_33_c_553"	0.0000000000000000e+00
+zimpl	c     648	C_4_33_d_554    	"C_4_33_d_554"	0.0000000000000000e+00
+zimpl	c     649	C_4_33_e_555    	"C_4_33_e_555"	0.0000000000000000e+00
+zimpl	c     650	C_4_33_f_556    	"C_4_33_f_556"	0.0000000000000000e+00
+zimpl	c     651	C_4_33_g_557    	"C_4_33_g_557"	0.0000000000000000e+00
+zimpl	c     652	C_4_33_a_558    	"C_4_33_a_558"	0.0000000000000000e+00
+zimpl	c     653	C_4_33_b_559    	"C_4_33_b_559"	0.0000000000000000e+00
+zimpl	c     654	C_4_33_c_560    	"C_4_33_c_560"	0.0000000000000000e+00
+zimpl	c     655	C_4_33_t_r      	"C_4_33_t_r"	0.0000000000000000e+00
+zimpl	c     656	C_4_33_t_l      	"C_4_33_t_l"	0.0000000000000000e+00
+zimpl	c     657	C_4_34_a_561    	"C_4_34_a_561"	0.0000000000000000e+00
+zimpl	c     658	C_4_34_b_562    	"C_4_34_b_562"	0.0000000000000000e+00
+zimpl	c     659	C_4_34_c_563    	"C_4_34_c_563"	0.0000000000000000e+00
+zimpl	c     660	C_4_34_d_564    	"C_4_34_d_564"	0.0000000000000000e+00
+zimpl	c     661	C_4_34_e_565    	"C_4_34_e_565"	0.0000000000000000e+00
+zimpl	c     662	C_4_34_f_566    	"C_4_34_f_566"	0.0000000000000000e+00
+zimpl	c     663	C_4_34_g_567    	"C_4_34_g_567"	0.0000000000000000e+00
+zimpl	c     664	C_4_34_a_568    	"C_4_34_a_568"	0.0000000000000000e+00
+zimpl	c     665	C_4_34_b_569    	"C_4_34_b_569"	0.0000000000000000e+00
+zimpl	c     666	C_4_34_c_570    	"C_4_34_c_570"	0.0000000000000000e+00
+zimpl	c     667	C_4_34_d_571    	"C_4_34_d_571"	0.0000000000000000e+00
+zimpl	c     668	C_4_34_e_572    	"C_4_34_e_572"	0.0000000000000000e+00
+zimpl	c     669	C_4_34_f_573    	"C_4_34_f_573"	0.0000000000000000e+00
+zimpl	c     670	C_4_34_g_574    	"C_4_34_g_574"	0.0000000000000000e+00
+zimpl	c     671	C_4_34_a_575    	"C_4_34_a_575"	0.0000000000000000e+00
+zimpl	c     672	C_4_34_b_576    	"C_4_34_b_576"	0.0000000000000000e+00
+zimpl	c     673	C_4_34_c_577    	"C_4_34_c_577"	0.0000000000000000e+00
+zimpl	c     674	C_4_34_t_r      	"C_4_34_t_r"	0.0000000000000000e+00
+zimpl	c     675	C_4_34_t_l      	"C_4_34_t_l"	0.0000000000000000e+00
+zimpl	c     676	C_4_35_a_578    	"C_4_35_a_578"	0.0000000000000000e+00
+zimpl	c     677	C_4_35_b_579    	"C_4_35_b_579"	0.0000000000000000e+00
+zimpl	c     678	C_4_35_c_580    	"C_4_35_c_580"	0.0000000000000000e+00
+zimpl	c     679	C_4_35_d_581    	"C_4_35_d_581"	0.0000000000000000e+00
+zimpl	c     680	C_4_35_e_582    	"C_4_35_e_582"	0.0000000000000000e+00
+zimpl	c     681	C_4_35_f_583    	"C_4_35_f_583"	0.0000000000000000e+00
+zimpl	c     682	C_4_35_g_584    	"C_4_35_g_584"	0.0000000000000000e+00
+zimpl	c     683	C_4_35_a_585    	"C_4_35_a_585"	0.0000000000000000e+00
+zimpl	c     684	C_4_35_b_586    	"C_4_35_b_586"	0.0000000000000000e+00
+zimpl	c     685	C_4_35_c_587    	"C_4_35_c_587"	0.0000000000000000e+00
+zimpl	c     686	C_4_35_d_588    	"C_4_35_d_588"	0.0000000000000000e+00
+zimpl	c     687	C_4_35_e_589    	"C_4_35_e_589"	0.0000000000000000e+00
+zimpl	c     688	C_4_35_f_590    	"C_4_35_f_590"	0.0000000000000000e+00
+zimpl	c     689	C_4_35_g_591    	"C_4_35_g_591"	0.0000000000000000e+00
+zimpl	c     690	C_4_35_a_592    	"C_4_35_a_592"	0.0000000000000000e+00
+zimpl	c     691	C_4_35_b_593    	"C_4_35_b_593"	0.0000000000000000e+00
+zimpl	c     692	C_4_35_c_594    	"C_4_35_c_594"	0.0000000000000000e+00
+zimpl	c     693	C_4_35_t_r      	"C_4_35_t_r"	0.0000000000000000e+00
+zimpl	c     694	C_4_35_t_l      	"C_4_35_t_l"	0.0000000000000000e+00
+zimpl	c     695	C_4_36_a_595    	"C_4_36_a_595"	0.0000000000000000e+00
+zimpl	c     696	C_4_36_b_596    	"C_4_36_b_596"	0.0000000000000000e+00
+zimpl	c     697	C_4_36_c_597    	"C_4_36_c_597"	0.0000000000000000e+00
+zimpl	c     698	C_4_36_d_598    	"C_4_36_d_598"	0.0000000000000000e+00
+zimpl	c     699	C_4_36_e_599    	"C_4_36_e_599"	0.0000000000000000e+00
+zimpl	c     700	C_4_36_f_600    	"C_4_36_f_600"	0.0000000000000000e+00
+zimpl	c     701	C_4_36_g_601    	"C_4_36_g_601"	0.0000000000000000e+00
+zimpl	c     702	C_4_36_a_602    	"C_4_36_a_602"	0.0000000000000000e+00
+zimpl	c     703	C_4_36_b_603    	"C_4_36_b_603"	0.0000000000000000e+00
+zimpl	c     704	C_4_36_c_604    	"C_4_36_c_604"	0.0000000000000000e+00
+zimpl	c     705	C_4_36_d_605    	"C_4_36_d_605"	0.0000000000000000e+00
+zimpl	c     706	C_4_36_e_606    	"C_4_36_e_606"	0.0000000000000000e+00
+zimpl	c     707	C_4_36_f_607    	"C_4_36_f_607"	0.0000000000000000e+00
+zimpl	c     708	C_4_36_g_608    	"C_4_36_g_608"	0.0000000000000000e+00
+zimpl	c     709	C_4_36_a_609    	"C_4_36_a_609"	0.0000000000000000e+00
+zimpl	c     710	C_4_36_b_610    	"C_4_36_b_610"	0.0000000000000000e+00
+zimpl	c     711	C_4_36_c_611    	"C_4_36_c_611"	0.0000000000000000e+00
+zimpl	c     712	C_4_36_t_r      	"C_4_36_t_r"	0.0000000000000000e+00
+zimpl	c     713	C_4_36_t_l      	"C_4_36_t_l"	0.0000000000000000e+00
+zimpl	c     714	C_4_37_a_612    	"C_4_37_a_612"	0.0000000000000000e+00
+zimpl	c     715	C_4_37_b_613    	"C_4_37_b_613"	0.0000000000000000e+00
+zimpl	c     716	C_4_37_c_614    	"C_4_37_c_614"	0.0000000000000000e+00
+zimpl	c     717	C_4_37_d_615    	"C_4_37_d_615"	0.0000000000000000e+00
+zimpl	c     718	C_4_37_e_616    	"C_4_37_e_616"	0.0000000000000000e+00
+zimpl	c     719	C_4_37_f_617    	"C_4_37_f_617"	0.0000000000000000e+00
+zimpl	c     720	C_4_37_g_618    	"C_4_37_g_618"	0.0000000000000000e+00
+zimpl	c     721	C_4_37_a_619    	"C_4_37_a_619"	0.0000000000000000e+00
+zimpl	c     722	C_4_37_b_620    	"C_4_37_b_620"	0.0000000000000000e+00
+zimpl	c     723	C_4_37_c_621    	"C_4_37_c_621"	0.0000000000000000e+00
+zimpl	c     724	C_4_37_d_622    	"C_4_37_d_622"	0.0000000000000000e+00
+zimpl	c     725	C_4_37_e_623    	"C_4_37_e_623"	0.0000000000000000e+00
+zimpl	c     726	C_4_37_f_624    	"C_4_37_f_624"	0.0000000000000000e+00
+zimpl	c     727	C_4_37_g_625    	"C_4_37_g_625"	0.0000000000000000e+00
+zimpl	c     728	C_4_37_a_626    	"C_4_37_a_626"	0.0000000000000000e+00
+zimpl	c     729	C_4_37_b_627    	"C_4_37_b_627"	0.0000000000000000e+00
+zimpl	c     730	C_4_37_c_628    	"C_4_37_c_628"	0.0000000000000000e+00
+zimpl	c     731	C_4_37_t_r      	"C_4_37_t_r"	0.0000000000000000e+00
+zimpl	c     732	C_4_37_t_l      	"C_4_37_t_l"	0.0000000000000000e+00
+zimpl	c     733	C_4_38_a_629    	"C_4_38_a_629"	0.0000000000000000e+00
+zimpl	c     734	C_4_38_b_630    	"C_4_38_b_630"	0.0000000000000000e+00
+zimpl	c     735	C_4_38_c_631    	"C_4_38_c_631"	0.0000000000000000e+00
+zimpl	c     736	C_4_38_d_632    	"C_4_38_d_632"	0.0000000000000000e+00
+zimpl	c     737	C_4_38_e_633    	"C_4_38_e_633"	0.0000000000000000e+00
+zimpl	c     738	C_4_38_f_634    	"C_4_38_f_634"	0.0000000000000000e+00
+zimpl	c     739	C_4_38_g_635    	"C_4_38_g_635"	0.0000000000000000e+00
+zimpl	c     740	C_4_38_a_636    	"C_4_38_a_636"	0.0000000000000000e+00
+zimpl	c     741	C_4_38_b_637    	"C_4_38_b_637"	0.0000000000000000e+00
+zimpl	c     742	C_4_38_c_638    	"C_4_38_c_638"	0.0000000000000000e+00
+zimpl	c     743	C_4_38_d_639    	"C_4_38_d_639"	0.0000000000000000e+00
+zimpl	c     744	C_4_38_e_640    	"C_4_38_e_640"	0.0000000000000000e+00
+zimpl	c     745	C_4_38_f_641    	"C_4_38_f_641"	0.0000000000000000e+00
+zimpl	c     746	C_4_38_g_642    	"C_4_38_g_642"	0.0000000000000000e+00
+zimpl	c     747	C_4_38_a_643    	"C_4_38_a_643"	0.0000000000000000e+00
+zimpl	c     748	C_4_38_b_644    	"C_4_38_b_644"	0.0000000000000000e+00
+zimpl	c     749	C_4_38_c_645    	"C_4_38_c_645"	0.0000000000000000e+00
+zimpl	c     750	C_4_38_t_r      	"C_4_38_t_r"	0.0000000000000000e+00
+zimpl	c     751	C_4_38_t_l      	"C_4_38_t_l"	0.0000000000000000e+00
+zimpl	c     752	C_4_39_a_646    	"C_4_39_a_646"	0.0000000000000000e+00
+zimpl	c     753	C_4_39_b_647    	"C_4_39_b_647"	0.0000000000000000e+00
+zimpl	c     754	C_4_39_c_648    	"C_4_39_c_648"	0.0000000000000000e+00
+zimpl	c     755	C_4_39_d_649    	"C_4_39_d_649"	0.0000000000000000e+00
+zimpl	c     756	C_4_39_e_650    	"C_4_39_e_650"	0.0000000000000000e+00
+zimpl	c     757	C_4_39_f_651    	"C_4_39_f_651"	0.0000000000000000e+00
+zimpl	c     758	C_4_39_g_652    	"C_4_39_g_652"	0.0000000000000000e+00
+zimpl	c     759	C_4_39_a_653    	"C_4_39_a_653"	0.0000000000000000e+00
+zimpl	c     760	C_4_39_b_654    	"C_4_39_b_654"	0.0000000000000000e+00
+zimpl	c     761	C_4_39_c_655    	"C_4_39_c_655"	0.0000000000000000e+00
+zimpl	c     762	C_4_39_d_656    	"C_4_39_d_656"	0.0000000000000000e+00
+zimpl	c     763	C_4_39_e_657    	"C_4_39_e_657"	0.0000000000000000e+00
+zimpl	c     764	C_4_39_f_658    	"C_4_39_f_658"	0.0000000000000000e+00
+zimpl	c     765	C_4_39_g_659    	"C_4_39_g_659"	0.0000000000000000e+00
+zimpl	c     766	C_4_39_a_660    	"C_4_39_a_660"	0.0000000000000000e+00
+zimpl	c     767	C_4_39_b_661    	"C_4_39_b_661"	0.0000000000000000e+00
+zimpl	c     768	C_4_39_c_662    	"C_4_39_c_662"	0.0000000000000000e+00
+zimpl	c     769	C_4_39_t_r      	"C_4_39_t_r"	0.0000000000000000e+00
+zimpl	c     770	C_4_39_t_l      	"C_4_39_t_l"	0.0000000000000000e+00
+zimpl	c     771	C_4_40_a_663    	"C_4_40_a_663"	0.0000000000000000e+00
+zimpl	c     772	C_4_40_b_664    	"C_4_40_b_664"	0.0000000000000000e+00
+zimpl	c     773	C_4_40_c_665    	"C_4_40_c_665"	0.0000000000000000e+00
+zimpl	c     774	C_4_40_d_666    	"C_4_40_d_666"	0.0000000000000000e+00
+zimpl	c     775	C_4_40_e_667    	"C_4_40_e_667"	0.0000000000000000e+00
+zimpl	c     776	C_4_40_f_668    	"C_4_40_f_668"	0.0000000000000000e+00
+zimpl	c     777	C_4_40_g_669    	"C_4_40_g_669"	0.0000000000000000e+00
+zimpl	c     778	C_4_40_a_670    	"C_4_40_a_670"	0.0000000000000000e+00
+zimpl	c     779	C_4_40_b_671    	"C_4_40_b_671"	0.0000000000000000e+00
+zimpl	c     780	C_4_40_c_672    	"C_4_40_c_672"	0.0000000000000000e+00
+zimpl	c     781	C_4_40_d_673    	"C_4_40_d_673"	0.0000000000000000e+00
+zimpl	c     782	C_4_40_e_674    	"C_4_40_e_674"	0.0000000000000000e+00
+zimpl	c     783	C_4_40_f_675    	"C_4_40_f_675"	0.0000000000000000e+00
+zimpl	c     784	C_4_40_g_676    	"C_4_40_g_676"	0.0000000000000000e+00
+zimpl	c     785	C_4_40_a_677    	"C_4_40_a_677"	0.0000000000000000e+00
+zimpl	c     786	C_4_40_b_678    	"C_4_40_b_678"	0.0000000000000000e+00
+zimpl	c     787	C_4_40_c_679    	"C_4_40_c_679"	0.0000000000000000e+00
+zimpl	c     788	C_4_40_t_r      	"C_4_40_t_r"	0.0000000000000000e+00
+zimpl	c     789	C_4_40_t_l      	"C_4_40_t_l"	0.0000000000000000e+00
+zimpl	c     790	C_4_41_a_680    	"C_4_41_a_680"	0.0000000000000000e+00
+zimpl	c     791	C_4_41_b_681    	"C_4_41_b_681"	0.0000000000000000e+00
+zimpl	c     792	C_4_41_c_682    	"C_4_41_c_682"	0.0000000000000000e+00
+zimpl	c     793	C_4_41_d_683    	"C_4_41_d_683"	0.0000000000000000e+00
+zimpl	c     794	C_4_41_e_684    	"C_4_41_e_684"	0.0000000000000000e+00
+zimpl	c     795	C_4_41_f_685    	"C_4_41_f_685"	0.0000000000000000e+00
+zimpl	c     796	C_4_41_g_686    	"C_4_41_g_686"	0.0000000000000000e+00
+zimpl	c     797	C_4_41_a_687    	"C_4_41_a_687"	0.0000000000000000e+00
+zimpl	c     798	C_4_41_b_688    	"C_4_41_b_688"	0.0000000000000000e+00
+zimpl	c     799	C_4_41_c_689    	"C_4_41_c_689"	0.0000000000000000e+00
+zimpl	c     800	C_4_41_d_690    	"C_4_41_d_690"	0.0000000000000000e+00
+zimpl	c     801	C_4_41_e_691    	"C_4_41_e_691"	0.0000000000000000e+00
+zimpl	c     802	C_4_41_f_692    	"C_4_41_f_692"	0.0000000000000000e+00
+zimpl	c     803	C_4_41_g_693    	"C_4_41_g_693"	0.0000000000000000e+00
+zimpl	c     804	C_4_41_a_694    	"C_4_41_a_694"	0.0000000000000000e+00
+zimpl	c     805	C_4_41_b_695    	"C_4_41_b_695"	0.0000000000000000e+00
+zimpl	c     806	C_4_41_c_696    	"C_4_41_c_696"	0.0000000000000000e+00
+zimpl	c     807	C_4_41_t_r      	"C_4_41_t_r"	0.0000000000000000e+00
+zimpl	c     808	C_4_41_t_l      	"C_4_41_t_l"	0.0000000000000000e+00
+zimpl	c     809	C_4_42_a_697    	"C_4_42_a_697"	0.0000000000000000e+00
+zimpl	c     810	C_4_42_b_698    	"C_4_42_b_698"	0.0000000000000000e+00
+zimpl	c     811	C_4_42_c_699    	"C_4_42_c_699"	0.0000000000000000e+00
+zimpl	c     812	C_4_42_d_700    	"C_4_42_d_700"	0.0000000000000000e+00
+zimpl	c     813	C_4_42_e_701    	"C_4_42_e_701"	0.0000000000000000e+00
+zimpl	c     814	C_4_42_f_702    	"C_4_42_f_702"	0.0000000000000000e+00
+zimpl	c     815	C_4_42_g_703    	"C_4_42_g_703"	0.0000000000000000e+00
+zimpl	c     816	C_4_42_a_704    	"C_4_42_a_704"	0.0000000000000000e+00
+zimpl	c     817	C_4_42_b_705    	"C_4_42_b_705"	0.0000000000000000e+00
+zimpl	c     818	C_4_42_c_706    	"C_4_42_c_706"	0.0000000000000000e+00
+zimpl	c     819	C_4_42_d_707    	"C_4_42_d_707"	0.0000000000000000e+00
+zimpl	c     820	C_4_42_e_708    	"C_4_42_e_708"	0.0000000000000000e+00
+zimpl	c     821	C_4_42_f_709    	"C_4_42_f_709"	0.0000000000000000e+00
+zimpl	c     822	C_4_42_g_710    	"C_4_42_g_710"	0.0000000000000000e+00
+zimpl	c     823	C_4_42_a_711    	"C_4_42_a_711"	0.0000000000000000e+00
+zimpl	c     824	C_4_42_b_712    	"C_4_42_b_712"	0.0000000000000000e+00
+zimpl	c     825	C_4_42_c_713    	"C_4_42_c_713"	0.0000000000000000e+00
+zimpl	c     826	C_4_42_t_r      	"C_4_42_t_r"	0.0000000000000000e+00
+zimpl	c     827	C_4_42_t_l      	"C_4_42_t_l"	0.0000000000000000e+00
+zimpl	c     828	C_4_43_a_714    	"C_4_43_a_714"	0.0000000000000000e+00
+zimpl	c     829	C_4_43_b_715    	"C_4_43_b_715"	0.0000000000000000e+00
+zimpl	c     830	C_4_43_c_716    	"C_4_43_c_716"	0.0000000000000000e+00
+zimpl	c     831	C_4_43_d_717    	"C_4_43_d_717"	0.0000000000000000e+00
+zimpl	c     832	C_4_43_e_718    	"C_4_43_e_718"	0.0000000000000000e+00
+zimpl	c     833	C_4_43_f_719    	"C_4_43_f_719"	0.0000000000000000e+00
+zimpl	c     834	C_4_43_g_720    	"C_4_43_g_720"	0.0000000000000000e+00
+zimpl	c     835	C_4_43_a_721    	"C_4_43_a_721"	0.0000000000000000e+00
+zimpl	c     836	C_4_43_b_722    	"C_4_43_b_722"	0.0000000000000000e+00
+zimpl	c     837	C_4_43_c_723    	"C_4_43_c_723"	0.0000000000000000e+00
+zimpl	c     838	C_4_43_d_724    	"C_4_43_d_724"	0.0000000000000000e+00
+zimpl	c     839	C_4_43_e_725    	"C_4_43_e_725"	0.0000000000000000e+00
+zimpl	c     840	C_4_43_f_726    	"C_4_43_f_726"	0.0000000000000000e+00
+zimpl	c     841	C_4_43_g_727    	"C_4_43_g_727"	0.0000000000000000e+00
+zimpl	c     842	C_4_43_a_728    	"C_4_43_a_728"	0.0000000000000000e+00
+zimpl	c     843	C_4_43_b_729    	"C_4_43_b_729"	0.0000000000000000e+00
+zimpl	c     844	C_4_43_c_730    	"C_4_43_c_730"	0.0000000000000000e+00
+zimpl	c     845	C_4_43_t_r      	"C_4_43_t_r"	0.0000000000000000e+00
+zimpl	c     846	C_4_43_t_l      	"C_4_43_t_l"	0.0000000000000000e+00
+zimpl	c     847	C_4_44_a_731    	"C_4_44_a_731"	0.0000000000000000e+00
+zimpl	c     848	C_4_44_b_732    	"C_4_44_b_732"	0.0000000000000000e+00
+zimpl	c     849	C_4_44_c_733    	"C_4_44_c_733"	0.0000000000000000e+00
+zimpl	c     850	C_4_44_d_734    	"C_4_44_d_734"	0.0000000000000000e+00
+zimpl	c     851	C_4_44_e_735    	"C_4_44_e_735"	0.0000000000000000e+00
+zimpl	c     852	C_4_44_f_736    	"C_4_44_f_736"	0.0000000000000000e+00
+zimpl	c     853	C_4_44_g_737    	"C_4_44_g_737"	0.0000000000000000e+00
+zimpl	c     854	C_4_44_a_738    	"C_4_44_a_738"	0.0000000000000000e+00
+zimpl	c     855	C_4_44_b_739    	"C_4_44_b_739"	0.0000000000000000e+00
+zimpl	c     856	C_4_44_c_740    	"C_4_44_c_740"	0.0000000000000000e+00
+zimpl	c     857	C_4_44_d_741    	"C_4_44_d_741"	0.0000000000000000e+00
+zimpl	c     858	C_4_44_e_742    	"C_4_44_e_742"	0.0000000000000000e+00
+zimpl	c     859	C_4_44_f_743    	"C_4_44_f_743"	0.0000000000000000e+00
+zimpl	c     860	C_4_44_g_744    	"C_4_44_g_744"	0.0000000000000000e+00
+zimpl	c     861	C_4_44_a_745    	"C_4_44_a_745"	0.0000000000000000e+00
+zimpl	c     862	C_4_44_b_746    	"C_4_44_b_746"	0.0000000000000000e+00
+zimpl	c     863	C_4_44_c_747    	"C_4_44_c_747"	0.0000000000000000e+00
+zimpl	c     864	C_4_44_t_r      	"C_4_44_t_r"	0.0000000000000000e+00
+zimpl	c     865	C_4_44_t_l      	"C_4_44_t_l"	0.0000000000000000e+00
+zimpl	c     866	C_4_45_a_748    	"C_4_45_a_748"	0.0000000000000000e+00
+zimpl	c     867	C_4_45_b_749    	"C_4_45_b_749"	0.0000000000000000e+00
+zimpl	c     868	C_4_45_c_750    	"C_4_45_c_750"	0.0000000000000000e+00
+zimpl	c     869	C_4_45_d_751    	"C_4_45_d_751"	0.0000000000000000e+00
+zimpl	c     870	C_4_45_e_752    	"C_4_45_e_752"	0.0000000000000000e+00
+zimpl	c     871	C_4_45_f_753    	"C_4_45_f_753"	0.0000000000000000e+00
+zimpl	c     872	C_4_45_g_754    	"C_4_45_g_754"	0.0000000000000000e+00
+zimpl	c     873	C_4_45_a_755    	"C_4_45_a_755"	0.0000000000000000e+00
+zimpl	c     874	C_4_45_b_756    	"C_4_45_b_756"	0.0000000000000000e+00
+zimpl	c     875	C_4_45_c_757    	"C_4_45_c_757"	0.0000000000000000e+00
+zimpl	c     876	C_4_45_d_758    	"C_4_45_d_758"	0.0000000000000000e+00
+zimpl	c     877	C_4_45_e_759    	"C_4_45_e_759"	0.0000000000000000e+00
+zimpl	c     878	C_4_45_f_760    	"C_4_45_f_760"	0.0000000000000000e+00
+zimpl	c     879	C_4_45_g_761    	"C_4_45_g_761"	0.0000000000000000e+00
+zimpl	c     880	C_4_45_a_762    	"C_4_45_a_762"	0.0000000000000000e+00
+zimpl	c     881	C_4_45_b_763    	"C_4_45_b_763"	0.0000000000000000e+00
+zimpl	c     882	C_4_45_c_764    	"C_4_45_c_764"	0.0000000000000000e+00
+zimpl	c     883	C_4_45_t_r      	"C_4_45_t_r"	0.0000000000000000e+00
+zimpl	c     884	C_4_45_t_l      	"C_4_45_t_l"	0.0000000000000000e+00
+zimpl	c     885	C_4_46_a_765    	"C_4_46_a_765"	0.0000000000000000e+00
+zimpl	c     886	C_4_46_b_766    	"C_4_46_b_766"	0.0000000000000000e+00
+zimpl	c     887	C_4_46_c_767    	"C_4_46_c_767"	0.0000000000000000e+00
+zimpl	c     888	C_4_46_d_768    	"C_4_46_d_768"	0.0000000000000000e+00
+zimpl	c     889	C_4_46_e_769    	"C_4_46_e_769"	0.0000000000000000e+00
+zimpl	c     890	C_4_46_f_770    	"C_4_46_f_770"	0.0000000000000000e+00
+zimpl	c     891	C_4_46_g_771    	"C_4_46_g_771"	0.0000000000000000e+00
+zimpl	c     892	C_4_46_a_772    	"C_4_46_a_772"	0.0000000000000000e+00
+zimpl	c     893	C_4_46_b_773    	"C_4_46_b_773"	0.0000000000000000e+00
+zimpl	c     894	C_4_46_c_774    	"C_4_46_c_774"	0.0000000000000000e+00
+zimpl	c     895	C_4_46_d_775    	"C_4_46_d_775"	0.0000000000000000e+00
+zimpl	c     896	C_4_46_e_776    	"C_4_46_e_776"	0.0000000000000000e+00
+zimpl	c     897	C_4_46_f_777    	"C_4_46_f_777"	0.0000000000000000e+00
+zimpl	c     898	C_4_46_g_778    	"C_4_46_g_778"	0.0000000000000000e+00
+zimpl	c     899	C_4_46_a_779    	"C_4_46_a_779"	0.0000000000000000e+00
+zimpl	c     900	C_4_46_b_780    	"C_4_46_b_780"	0.0000000000000000e+00
+zimpl	c     901	C_4_46_c_781    	"C_4_46_c_781"	0.0000000000000000e+00
+zimpl	c     902	C_4_46_t_r      	"C_4_46_t_r"	0.0000000000000000e+00
+zimpl	c     903	C_4_46_t_l      	"C_4_46_t_l"	0.0000000000000000e+00
+zimpl	c     904	C_4_47_a_782    	"C_4_47_a_782"	0.0000000000000000e+00
+zimpl	c     905	C_4_47_b_783    	"C_4_47_b_783"	0.0000000000000000e+00
+zimpl	c     906	C_4_47_c_784    	"C_4_47_c_784"	0.0000000000000000e+00
+zimpl	c     907	C_4_47_d_785    	"C_4_47_d_785"	0.0000000000000000e+00
+zimpl	c     908	C_4_47_e_786    	"C_4_47_e_786"	0.0000000000000000e+00
+zimpl	c     909	C_4_47_f_787    	"C_4_47_f_787"	0.0000000000000000e+00
+zimpl	c     910	C_4_47_g_788    	"C_4_47_g_788"	0.0000000000000000e+00
+zimpl	c     911	C_4_47_a_789    	"C_4_47_a_789"	0.0000000000000000e+00
+zimpl	c     912	C_4_47_b_790    	"C_4_47_b_790"	0.0000000000000000e+00
+zimpl	c     913	C_4_47_c_791    	"C_4_47_c_791"	0.0000000000000000e+00
+zimpl	c     914	C_4_47_d_792    	"C_4_47_d_792"	0.0000000000000000e+00
+zimpl	c     915	C_4_47_e_793    	"C_4_47_e_793"	0.0000000000000000e+00
+zimpl	c     916	C_4_47_f_794    	"C_4_47_f_794"	0.0000000000000000e+00
+zimpl	c     917	C_4_47_g_795    	"C_4_47_g_795"	0.0000000000000000e+00
+zimpl	c     918	C_4_47_a_796    	"C_4_47_a_796"	0.0000000000000000e+00
+zimpl	c     919	C_4_47_b_797    	"C_4_47_b_797"	0.0000000000000000e+00
+zimpl	c     920	C_4_47_c_798    	"C_4_47_c_798"	0.0000000000000000e+00
+zimpl	c     921	C_4_47_t_r      	"C_4_47_t_r"	0.0000000000000000e+00
+zimpl	c     922	C_4_47_t_l      	"C_4_47_t_l"	0.0000000000000000e+00
+zimpl	c     923	C_4_48_a_799    	"C_4_48_a_799"	0.0000000000000000e+00
+zimpl	c     924	C_4_48_b_800    	"C_4_48_b_800"	0.0000000000000000e+00
+zimpl	c     925	C_4_48_c_801    	"C_4_48_c_801"	0.0000000000000000e+00
+zimpl	c     926	C_4_48_d_802    	"C_4_48_d_802"	0.0000000000000000e+00
+zimpl	c     927	C_4_48_e_803    	"C_4_48_e_803"	0.0000000000000000e+00
+zimpl	c     928	C_4_48_f_804    	"C_4_48_f_804"	0.0000000000000000e+00
+zimpl	c     929	C_4_48_g_805    	"C_4_48_g_805"	0.0000000000000000e+00
+zimpl	c     930	C_4_48_a_806    	"C_4_48_a_806"	0.0000000000000000e+00
+zimpl	c     931	C_4_48_b_807    	"C_4_48_b_807"	0.0000000000000000e+00
+zimpl	c     932	C_4_48_c_808    	"C_4_48_c_808"	0.0000000000000000e+00
+zimpl	c     933	C_4_48_d_809    	"C_4_48_d_809"	0.0000000000000000e+00
+zimpl	c     934	C_4_48_e_810    	"C_4_48_e_810"	0.0000000000000000e+00
+zimpl	c     935	C_4_48_f_811    	"C_4_48_f_811"	0.0000000000000000e+00
+zimpl	c     936	C_4_48_g_812    	"C_4_48_g_812"	0.0000000000000000e+00
+zimpl	c     937	C_4_48_a_813    	"C_4_48_a_813"	0.0000000000000000e+00
+zimpl	c     938	C_4_48_b_814    	"C_4_48_b_814"	0.0000000000000000e+00
+zimpl	c     939	C_4_48_c_815    	"C_4_48_c_815"	0.0000000000000000e+00
+zimpl	c     940	C_4_48_t_r      	"C_4_48_t_r"	0.0000000000000000e+00
+zimpl	c     941	C_4_48_t_l      	"C_4_48_t_l"	0.0000000000000000e+00
+zimpl	c     942	C_4_49_a_816    	"C_4_49_a_816"	0.0000000000000000e+00
+zimpl	c     943	C_4_49_b_817    	"C_4_49_b_817"	0.0000000000000000e+00
+zimpl	c     944	C_4_49_c_818    	"C_4_49_c_818"	0.0000000000000000e+00
+zimpl	c     945	C_4_49_d_819    	"C_4_49_d_819"	0.0000000000000000e+00
+zimpl	c     946	C_4_49_e_820    	"C_4_49_e_820"	0.0000000000000000e+00
+zimpl	c     947	C_4_49_f_821    	"C_4_49_f_821"	0.0000000000000000e+00
+zimpl	c     948	C_4_49_g_822    	"C_4_49_g_822"	0.0000000000000000e+00
+zimpl	c     949	C_4_49_a_823    	"C_4_49_a_823"	0.0000000000000000e+00
+zimpl	c     950	C_4_49_b_824    	"C_4_49_b_824"	0.0000000000000000e+00
+zimpl	c     951	C_4_49_c_825    	"C_4_49_c_825"	0.0000000000000000e+00
+zimpl	c     952	C_4_49_d_826    	"C_4_49_d_826"	0.0000000000000000e+00
+zimpl	c     953	C_4_49_e_827    	"C_4_49_e_827"	0.0000000000000000e+00
+zimpl	c     954	C_4_49_f_828    	"C_4_49_f_828"	0.0000000000000000e+00
+zimpl	c     955	C_4_49_g_829    	"C_4_49_g_829"	0.0000000000000000e+00
+zimpl	c     956	C_4_49_a_830    	"C_4_49_a_830"	0.0000000000000000e+00
+zimpl	c     957	C_4_49_b_831    	"C_4_49_b_831"	0.0000000000000000e+00
+zimpl	c     958	C_4_49_c_832    	"C_4_49_c_832"	0.0000000000000000e+00
+zimpl	c     959	C_4_49_t_r      	"C_4_49_t_r"	0.0000000000000000e+00
+zimpl	c     960	C_4_49_t_l      	"C_4_49_t_l"	0.0000000000000000e+00
+zimpl	c     961	C_4_50_a_833    	"C_4_50_a_833"	0.0000000000000000e+00
+zimpl	c     962	C_4_50_b_834    	"C_4_50_b_834"	0.0000000000000000e+00
+zimpl	c     963	C_4_50_c_835    	"C_4_50_c_835"	0.0000000000000000e+00
+zimpl	c     964	C_4_50_d_836    	"C_4_50_d_836"	0.0000000000000000e+00
+zimpl	c     965	C_4_50_e_837    	"C_4_50_e_837"	0.0000000000000000e+00
+zimpl	c     966	C_4_50_f_838    	"C_4_50_f_838"	0.0000000000000000e+00
+zimpl	c     967	C_4_50_g_839    	"C_4_50_g_839"	0.0000000000000000e+00
+zimpl	c     968	C_4_50_a_840    	"C_4_50_a_840"	0.0000000000000000e+00
+zimpl	c     969	C_4_50_b_841    	"C_4_50_b_841"	0.0000000000000000e+00
+zimpl	c     970	C_4_50_c_842    	"C_4_50_c_842"	0.0000000000000000e+00
+zimpl	c     971	C_4_50_d_843    	"C_4_50_d_843"	0.0000000000000000e+00
+zimpl	c     972	C_4_50_e_844    	"C_4_50_e_844"	0.0000000000000000e+00
+zimpl	c     973	C_4_50_f_845    	"C_4_50_f_845"	0.0000000000000000e+00
+zimpl	c     974	C_4_50_g_846    	"C_4_50_g_846"	0.0000000000000000e+00
+zimpl	c     975	C_4_50_a_847    	"C_4_50_a_847"	0.0000000000000000e+00
+zimpl	c     976	C_4_50_b_848    	"C_4_50_b_848"	0.0000000000000000e+00
+zimpl	c     977	C_4_50_c_849    	"C_4_50_c_849"	0.0000000000000000e+00
+zimpl	c     978	C_4_50_t_r      	"C_4_50_t_r"	0.0000000000000000e+00
+zimpl	c     979	C_4_50_t_l      	"C_4_50_t_l"	0.0000000000000000e+00
+zimpl	c     980	C_4_51_a_850    	"C_4_51_a_850"	0.0000000000000000e+00
+zimpl	c     981	C_4_51_b_851    	"C_4_51_b_851"	0.0000000000000000e+00
+zimpl	c     982	C_4_51_c_852    	"C_4_51_c_852"	0.0000000000000000e+00
+zimpl	c     983	C_4_51_d_853    	"C_4_51_d_853"	0.0000000000000000e+00
+zimpl	c     984	C_4_51_e_854    	"C_4_51_e_854"	0.0000000000000000e+00
+zimpl	c     985	C_4_51_f_855    	"C_4_51_f_855"	0.0000000000000000e+00
+zimpl	c     986	C_4_51_g_856    	"C_4_51_g_856"	0.0000000000000000e+00
+zimpl	c     987	C_4_51_a_857    	"C_4_51_a_857"	0.0000000000000000e+00
+zimpl	c     988	C_4_51_b_858    	"C_4_51_b_858"	0.0000000000000000e+00
+zimpl	c     989	C_4_51_c_859    	"C_4_51_c_859"	0.0000000000000000e+00
+zimpl	c     990	C_4_51_d_860    	"C_4_51_d_860"	0.0000000000000000e+00
+zimpl	c     991	C_4_51_e_861    	"C_4_51_e_861"	0.0000000000000000e+00
+zimpl	c     992	C_4_51_f_862    	"C_4_51_f_862"	0.0000000000000000e+00
+zimpl	c     993	C_4_51_g_863    	"C_4_51_g_863"	0.0000000000000000e+00
+zimpl	c     994	C_4_51_a_864    	"C_4_51_a_864"	0.0000000000000000e+00
+zimpl	c     995	C_4_51_b_865    	"C_4_51_b_865"	0.0000000000000000e+00
+zimpl	c     996	C_4_51_c_866    	"C_4_51_c_866"	0.0000000000000000e+00
+zimpl	c     997	C_4_51_t_r      	"C_4_51_t_r"	0.0000000000000000e+00
+zimpl	c     998	C_4_51_t_l      	"C_4_51_t_l"	0.0000000000000000e+00
+zimpl	c     999	C_4_52_a_867    	"C_4_52_a_867"	0.0000000000000000e+00
+zimpl	c    1000	C_4_52_b_868    	"C_4_52_b_868"	0.0000000000000000e+00
+zimpl	c    1001	C_4_52_c_869    	"C_4_52_c_869"	0.0000000000000000e+00
+zimpl	c    1002	C_4_52_d_870    	"C_4_52_d_870"	0.0000000000000000e+00
+zimpl	c    1003	C_4_52_e_871    	"C_4_52_e_871"	0.0000000000000000e+00
+zimpl	c    1004	C_4_52_f_872    	"C_4_52_f_872"	0.0000000000000000e+00
+zimpl	c    1005	C_4_52_g_873    	"C_4_52_g_873"	0.0000000000000000e+00
+zimpl	c    1006	C_4_52_a_874    	"C_4_52_a_874"	0.0000000000000000e+00
+zimpl	c    1007	C_4_52_b_875    	"C_4_52_b_875"	0.0000000000000000e+00
+zimpl	c    1008	C_4_52_c_876    	"C_4_52_c_876"	0.0000000000000000e+00
+zimpl	c    1009	C_4_52_d_877    	"C_4_52_d_877"	0.0000000000000000e+00
+zimpl	c    1010	C_4_52_e_878    	"C_4_52_e_878"	0.0000000000000000e+00
+zimpl	c    1011	C_4_52_f_879    	"C_4_52_f_879"	0.0000000000000000e+00
+zimpl	c    1012	C_4_52_g_880    	"C_4_52_g_880"	0.0000000000000000e+00
+zimpl	c    1013	C_4_52_a_881    	"C_4_52_a_881"	0.0000000000000000e+00
+zimpl	c    1014	C_4_52_b_882    	"C_4_52_b_882"	0.0000000000000000e+00
+zimpl	c    1015	C_4_52_c_883    	"C_4_52_c_883"	0.0000000000000000e+00
+zimpl	c    1016	C_4_52_t_r      	"C_4_52_t_r"	0.0000000000000000e+00
+zimpl	c    1017	C_4_52_t_l      	"C_4_52_t_l"	0.0000000000000000e+00
+zimpl	c    1018	C_4_53_a_884    	"C_4_53_a_884"	0.0000000000000000e+00
+zimpl	c    1019	C_4_53_b_885    	"C_4_53_b_885"	0.0000000000000000e+00
+zimpl	c    1020	C_4_53_c_886    	"C_4_53_c_886"	0.0000000000000000e+00
+zimpl	c    1021	C_4_53_d_887    	"C_4_53_d_887"	0.0000000000000000e+00
+zimpl	c    1022	C_4_53_e_888    	"C_4_53_e_888"	0.0000000000000000e+00
+zimpl	c    1023	C_4_53_f_889    	"C_4_53_f_889"	0.0000000000000000e+00
+zimpl	c    1024	C_4_53_g_890    	"C_4_53_g_890"	0.0000000000000000e+00
+zimpl	c    1025	C_4_53_a_891    	"C_4_53_a_891"	0.0000000000000000e+00
+zimpl	c    1026	C_4_53_b_892    	"C_4_53_b_892"	0.0000000000000000e+00
+zimpl	c    1027	C_4_53_c_893    	"C_4_53_c_893"	0.0000000000000000e+00
+zimpl	c    1028	C_4_53_d_894    	"C_4_53_d_894"	0.0000000000000000e+00
+zimpl	c    1029	C_4_53_e_895    	"C_4_53_e_895"	0.0000000000000000e+00
+zimpl	c    1030	C_4_53_f_896    	"C_4_53_f_896"	0.0000000000000000e+00
+zimpl	c    1031	C_4_53_g_897    	"C_4_53_g_897"	0.0000000000000000e+00
+zimpl	c    1032	C_4_53_a_898    	"C_4_53_a_898"	0.0000000000000000e+00
+zimpl	c    1033	C_4_53_b_899    	"C_4_53_b_899"	0.0000000000000000e+00
+zimpl	c    1034	C_4_53_c_900    	"C_4_53_c_900"	0.0000000000000000e+00
+zimpl	c    1035	C_4_53_t_r      	"C_4_53_t_r"	0.0000000000000000e+00
+zimpl	c    1036	C_4_53_t_l      	"C_4_53_t_l"	0.0000000000000000e+00
+zimpl	c    1037	C_4_54_a_901    	"C_4_54_a_901"	0.0000000000000000e+00
+zimpl	c    1038	C_4_54_b_902    	"C_4_54_b_902"	0.0000000000000000e+00
+zimpl	c    1039	C_4_54_c_903    	"C_4_54_c_903"	0.0000000000000000e+00
+zimpl	c    1040	C_4_54_d_904    	"C_4_54_d_904"	0.0000000000000000e+00
+zimpl	c    1041	C_4_54_e_905    	"C_4_54_e_905"	0.0000000000000000e+00
+zimpl	c    1042	C_4_54_f_906    	"C_4_54_f_906"	0.0000000000000000e+00
+zimpl	c    1043	C_4_54_g_907    	"C_4_54_g_907"	0.0000000000000000e+00
+zimpl	c    1044	C_4_54_a_908    	"C_4_54_a_908"	0.0000000000000000e+00
+zimpl	c    1045	C_4_54_b_909    	"C_4_54_b_909"	0.0000000000000000e+00
+zimpl	c    1046	C_4_54_c_910    	"C_4_54_c_910"	0.0000000000000000e+00
+zimpl	c    1047	C_4_54_d_911    	"C_4_54_d_911"	0.0000000000000000e+00
+zimpl	c    1048	C_4_54_e_912    	"C_4_54_e_912"	0.0000000000000000e+00
+zimpl	c    1049	C_4_54_f_913    	"C_4_54_f_913"	0.0000000000000000e+00
+zimpl	c    1050	C_4_54_g_914    	"C_4_54_g_914"	0.0000000000000000e+00
+zimpl	c    1051	C_4_54_a_915    	"C_4_54_a_915"	0.0000000000000000e+00
+zimpl	c    1052	C_4_54_b_916    	"C_4_54_b_916"	0.0000000000000000e+00
+zimpl	c    1053	C_4_54_c_917    	"C_4_54_c_917"	0.0000000000000000e+00
+zimpl	c    1054	C_4_54_t_r      	"C_4_54_t_r"	0.0000000000000000e+00
+zimpl	c    1055	C_4_54_t_l      	"C_4_54_t_l"	0.0000000000000000e+00
+zimpl	c    1056	C_4_55_a_918    	"C_4_55_a_918"	0.0000000000000000e+00
+zimpl	c    1057	C_4_55_b_919    	"C_4_55_b_919"	0.0000000000000000e+00
+zimpl	c    1058	C_4_55_c_920    	"C_4_55_c_920"	0.0000000000000000e+00
+zimpl	c    1059	C_4_55_d_921    	"C_4_55_d_921"	0.0000000000000000e+00
+zimpl	c    1060	C_4_55_e_922    	"C_4_55_e_922"	0.0000000000000000e+00
+zimpl	c    1061	C_4_55_f_923    	"C_4_55_f_923"	0.0000000000000000e+00
+zimpl	c    1062	C_4_55_g_924    	"C_4_55_g_924"	0.0000000000000000e+00
+zimpl	c    1063	C_4_55_a_925    	"C_4_55_a_925"	0.0000000000000000e+00
+zimpl	c    1064	C_4_55_b_926    	"C_4_55_b_926"	0.0000000000000000e+00
+zimpl	c    1065	C_4_55_c_927    	"C_4_55_c_927"	0.0000000000000000e+00
+zimpl	c    1066	C_4_55_d_928    	"C_4_55_d_928"	0.0000000000000000e+00
+zimpl	c    1067	C_4_55_e_929    	"C_4_55_e_929"	0.0000000000000000e+00
+zimpl	c    1068	C_4_55_f_930    	"C_4_55_f_930"	0.0000000000000000e+00
+zimpl	c    1069	C_4_55_g_931    	"C_4_55_g_931"	0.0000000000000000e+00
+zimpl	c    1070	C_4_55_a_932    	"C_4_55_a_932"	0.0000000000000000e+00
+zimpl	c    1071	C_4_55_b_933    	"C_4_55_b_933"	0.0000000000000000e+00
+zimpl	c    1072	C_4_55_c_934    	"C_4_55_c_934"	0.0000000000000000e+00
+zimpl	c    1073	C_4_55_t_r      	"C_4_55_t_r"	0.0000000000000000e+00
+zimpl	c    1074	C_4_55_t_l      	"C_4_55_t_l"	0.0000000000000000e+00
+zimpl	c    1075	C_4_56_a_935    	"C_4_56_a_935"	0.0000000000000000e+00
+zimpl	c    1076	C_4_56_b_936    	"C_4_56_b_936"	0.0000000000000000e+00
+zimpl	c    1077	C_4_56_c_937    	"C_4_56_c_937"	0.0000000000000000e+00
+zimpl	c    1078	C_4_56_d_938    	"C_4_56_d_938"	0.0000000000000000e+00
+zimpl	c    1079	C_4_56_e_939    	"C_4_56_e_939"	0.0000000000000000e+00
+zimpl	c    1080	C_4_56_f_940    	"C_4_56_f_940"	0.0000000000000000e+00
+zimpl	c    1081	C_4_56_g_941    	"C_4_56_g_941"	0.0000000000000000e+00
+zimpl	c    1082	C_4_56_a_942    	"C_4_56_a_942"	0.0000000000000000e+00
+zimpl	c    1083	C_4_56_b_943    	"C_4_56_b_943"	0.0000000000000000e+00
+zimpl	c    1084	C_4_56_c_944    	"C_4_56_c_944"	0.0000000000000000e+00
+zimpl	c    1085	C_4_56_d_945    	"C_4_56_d_945"	0.0000000000000000e+00
+zimpl	c    1086	C_4_56_e_946    	"C_4_56_e_946"	0.0000000000000000e+00
+zimpl	c    1087	C_4_56_f_947    	"C_4_56_f_947"	0.0000000000000000e+00
+zimpl	c    1088	C_4_56_g_948    	"C_4_56_g_948"	0.0000000000000000e+00
+zimpl	c    1089	C_4_56_a_949    	"C_4_56_a_949"	0.0000000000000000e+00
+zimpl	c    1090	C_4_56_b_950    	"C_4_56_b_950"	0.0000000000000000e+00
+zimpl	c    1091	C_4_56_c_951    	"C_4_56_c_951"	0.0000000000000000e+00
+zimpl	c    1092	C_4_56_t_r      	"C_4_56_t_r"	0.0000000000000000e+00
+zimpl	c    1093	C_4_56_t_l      	"C_4_56_t_l"	0.0000000000000000e+00
+zimpl	c    1094	C_4_57_a_952    	"C_4_57_a_952"	0.0000000000000000e+00
+zimpl	c    1095	C_4_57_b_953    	"C_4_57_b_953"	0.0000000000000000e+00
+zimpl	c    1096	C_4_57_c_954    	"C_4_57_c_954"	0.0000000000000000e+00
+zimpl	c    1097	C_4_57_d_955    	"C_4_57_d_955"	0.0000000000000000e+00
+zimpl	c    1098	C_4_57_e_956    	"C_4_57_e_956"	0.0000000000000000e+00
+zimpl	c    1099	C_4_57_f_957    	"C_4_57_f_957"	0.0000000000000000e+00
+zimpl	c    1100	C_4_57_g_958    	"C_4_57_g_958"	0.0000000000000000e+00
+zimpl	c    1101	C_4_57_a_959    	"C_4_57_a_959"	0.0000000000000000e+00
+zimpl	c    1102	C_4_57_b_960    	"C_4_57_b_960"	0.0000000000000000e+00
+zimpl	c    1103	C_4_57_c_961    	"C_4_57_c_961"	0.0000000000000000e+00
+zimpl	c    1104	C_4_57_d_962    	"C_4_57_d_962"	0.0000000000000000e+00
+zimpl	c    1105	C_4_57_e_963    	"C_4_57_e_963"	0.0000000000000000e+00
+zimpl	c    1106	C_4_57_f_964    	"C_4_57_f_964"	0.0000000000000000e+00
+zimpl	c    1107	C_4_57_g_965    	"C_4_57_g_965"	0.0000000000000000e+00
+zimpl	c    1108	C_4_57_a_966    	"C_4_57_a_966"	0.0000000000000000e+00
+zimpl	c    1109	C_4_57_b_967    	"C_4_57_b_967"	0.0000000000000000e+00
+zimpl	c    1110	C_4_57_c_968    	"C_4_57_c_968"	0.0000000000000000e+00
+zimpl	c    1111	C_4_57_t_r      	"C_4_57_t_r"	0.0000000000000000e+00
+zimpl	c    1112	C_4_57_t_l      	"C_4_57_t_l"	0.0000000000000000e+00
+zimpl	c    1113	C_4_58_a_969    	"C_4_58_a_969"	0.0000000000000000e+00
+zimpl	c    1114	C_4_58_b_970    	"C_4_58_b_970"	0.0000000000000000e+00
+zimpl	c    1115	C_4_58_c_971    	"C_4_58_c_971"	0.0000000000000000e+00
+zimpl	c    1116	C_4_58_d_972    	"C_4_58_d_972"	0.0000000000000000e+00
+zimpl	c    1117	C_4_58_e_973    	"C_4_58_e_973"	0.0000000000000000e+00
+zimpl	c    1118	C_4_58_f_974    	"C_4_58_f_974"	0.0000000000000000e+00
+zimpl	c    1119	C_4_58_g_975    	"C_4_58_g_975"	0.0000000000000000e+00
+zimpl	c    1120	C_4_58_a_976    	"C_4_58_a_976"	0.0000000000000000e+00
+zimpl	c    1121	C_4_58_b_977    	"C_4_58_b_977"	0.0000000000000000e+00
+zimpl	c    1122	C_4_58_c_978    	"C_4_58_c_978"	0.0000000000000000e+00
+zimpl	c    1123	C_4_58_d_979    	"C_4_58_d_979"	0.0000000000000000e+00
+zimpl	c    1124	C_4_58_e_980    	"C_4_58_e_980"	0.0000000000000000e+00
+zimpl	c    1125	C_4_58_f_981    	"C_4_58_f_981"	0.0000000000000000e+00
+zimpl	c    1126	C_4_58_g_982    	"C_4_58_g_982"	0.0000000000000000e+00
+zimpl	c    1127	C_4_58_a_983    	"C_4_58_a_983"	0.0000000000000000e+00
+zimpl	c    1128	C_4_58_b_984    	"C_4_58_b_984"	0.0000000000000000e+00
+zimpl	c    1129	C_4_58_c_985    	"C_4_58_c_985"	0.0000000000000000e+00
+zimpl	c    1130	C_4_58_t_r      	"C_4_58_t_r"	0.0000000000000000e+00
+zimpl	c    1131	C_4_58_t_l      	"C_4_58_t_l"	0.0000000000000000e+00
+zimpl	c    1132	C_4_59_a_986    	"C_4_59_a_986"	0.0000000000000000e+00
+zimpl	c    1133	C_4_59_b_987    	"C_4_59_b_987"	0.0000000000000000e+00
+zimpl	c    1134	C_4_59_c_988    	"C_4_59_c_988"	0.0000000000000000e+00
+zimpl	c    1135	C_4_59_d_989    	"C_4_59_d_989"	0.0000000000000000e+00
+zimpl	c    1136	C_4_59_e_990    	"C_4_59_e_990"	0.0000000000000000e+00
+zimpl	c    1137	C_4_59_f_991    	"C_4_59_f_991"	0.0000000000000000e+00
+zimpl	c    1138	C_4_59_g_992    	"C_4_59_g_992"	0.0000000000000000e+00
+zimpl	c    1139	C_4_59_a_993    	"C_4_59_a_993"	0.0000000000000000e+00
+zimpl	c    1140	C_4_59_b_994    	"C_4_59_b_994"	0.0000000000000000e+00
+zimpl	c    1141	C_4_59_c_995    	"C_4_59_c_995"	0.0000000000000000e+00
+zimpl	c    1142	C_4_59_d_996    	"C_4_59_d_996"	0.0000000000000000e+00
+zimpl	c    1143	C_4_59_e_997    	"C_4_59_e_997"	0.0000000000000000e+00
+zimpl	c    1144	C_4_59_f_998    	"C_4_59_f_998"	0.0000000000000000e+00
+zimpl	c    1145	C_4_59_g_999    	"C_4_59_g_999"	0.0000000000000000e+00
+zimpl	c    1146	C_4_59_a_1000   	"C_4_59_a_1000"	0.0000000000000000e+00
+zimpl	c    1147	C_4_59_b_1001   	"C_4_59_b_1001"	0.0000000000000000e+00
+zimpl	c    1148	C_4_59_c_1002   	"C_4_59_c_1002"	0.0000000000000000e+00
+zimpl	c    1149	C_4_59_t_r      	"C_4_59_t_r"	0.0000000000000000e+00
+zimpl	c    1150	C_4_59_t_l      	"C_4_59_t_l"	0.0000000000000000e+00
+zimpl	c    1151	C_4_60_a_1003   	"C_4_60_a_1003"	0.0000000000000000e+00
+zimpl	c    1152	C_4_60_b_1004   	"C_4_60_b_1004"	0.0000000000000000e+00
+zimpl	c    1153	C_4_60_c_1005   	"C_4_60_c_1005"	0.0000000000000000e+00
+zimpl	c    1154	C_4_60_d_1006   	"C_4_60_d_1006"	0.0000000000000000e+00
+zimpl	c    1155	C_4_60_e_1007   	"C_4_60_e_1007"	0.0000000000000000e+00
+zimpl	c    1156	C_4_60_f_1008   	"C_4_60_f_1008"	0.0000000000000000e+00
+zimpl	c    1157	C_4_60_g_1009   	"C_4_60_g_1009"	0.0000000000000000e+00
+zimpl	c    1158	C_4_60_a_1010   	"C_4_60_a_1010"	0.0000000000000000e+00
+zimpl	c    1159	C_4_60_b_1011   	"C_4_60_b_1011"	0.0000000000000000e+00
+zimpl	c    1160	C_4_60_c_1012   	"C_4_60_c_1012"	0.0000000000000000e+00
+zimpl	c    1161	C_4_60_d_1013   	"C_4_60_d_1013"	0.0000000000000000e+00
+zimpl	c    1162	C_4_60_e_1014   	"C_4_60_e_1014"	0.0000000000000000e+00
+zimpl	c    1163	C_4_60_f_1015   	"C_4_60_f_1015"	0.0000000000000000e+00
+zimpl	c    1164	C_4_60_g_1016   	"C_4_60_g_1016"	0.0000000000000000e+00
+zimpl	c    1165	C_4_60_a_1017   	"C_4_60_a_1017"	0.0000000000000000e+00
+zimpl	c    1166	C_4_60_b_1018   	"C_4_60_b_1018"	0.0000000000000000e+00
+zimpl	c    1167	C_4_60_c_1019   	"C_4_60_c_1019"	0.0000000000000000e+00
+zimpl	c    1168	C_4_60_t_r      	"C_4_60_t_r"	0.0000000000000000e+00
+zimpl	c    1169	C_4_60_t_l      	"C_4_60_t_l"	0.0000000000000000e+00
+zimpl	c    1170	C_4_61_a_1020   	"C_4_61_a_1020"	0.0000000000000000e+00
+zimpl	c    1171	C_4_61_b_1021   	"C_4_61_b_1021"	0.0000000000000000e+00
+zimpl	c    1172	C_4_61_c_1022   	"C_4_61_c_1022"	0.0000000000000000e+00
+zimpl	c    1173	C_4_61_d_1023   	"C_4_61_d_1023"	0.0000000000000000e+00
+zimpl	c    1174	C_4_61_e_1024   	"C_4_61_e_1024"	0.0000000000000000e+00
+zimpl	c    1175	C_4_61_f_1025   	"C_4_61_f_1025"	0.0000000000000000e+00
+zimpl	c    1176	C_4_61_g_1026   	"C_4_61_g_1026"	0.0000000000000000e+00
+zimpl	c    1177	C_4_61_a_1027   	"C_4_61_a_1027"	0.0000000000000000e+00
+zimpl	c    1178	C_4_61_b_1028   	"C_4_61_b_1028"	0.0000000000000000e+00
+zimpl	c    1179	C_4_61_c_1029   	"C_4_61_c_1029"	0.0000000000000000e+00
+zimpl	c    1180	C_4_61_d_1030   	"C_4_61_d_1030"	0.0000000000000000e+00
+zimpl	c    1181	C_4_61_e_1031   	"C_4_61_e_1031"	0.0000000000000000e+00
+zimpl	c    1182	C_4_61_f_1032   	"C_4_61_f_1032"	0.0000000000000000e+00
+zimpl	c    1183	C_4_61_g_1033   	"C_4_61_g_1033"	0.0000000000000000e+00
+zimpl	c    1184	C_4_61_a_1034   	"C_4_61_a_1034"	0.0000000000000000e+00
+zimpl	c    1185	C_4_61_b_1035   	"C_4_61_b_1035"	0.0000000000000000e+00
+zimpl	c    1186	C_4_61_c_1036   	"C_4_61_c_1036"	0.0000000000000000e+00
+zimpl	c    1187	C_4_61_t_r      	"C_4_61_t_r"	0.0000000000000000e+00
+zimpl	c    1188	C_4_61_t_l      	"C_4_61_t_l"	0.0000000000000000e+00
+zimpl	c    1189	C_4_62_a_1037   	"C_4_62_a_1037"	0.0000000000000000e+00
+zimpl	c    1190	C_4_62_b_1038   	"C_4_62_b_1038"	0.0000000000000000e+00
+zimpl	c    1191	C_4_62_c_1039   	"C_4_62_c_1039"	0.0000000000000000e+00
+zimpl	c    1192	C_4_62_d_1040   	"C_4_62_d_1040"	0.0000000000000000e+00
+zimpl	c    1193	C_4_62_e_1041   	"C_4_62_e_1041"	0.0000000000000000e+00
+zimpl	c    1194	C_4_62_f_1042   	"C_4_62_f_1042"	0.0000000000000000e+00
+zimpl	c    1195	C_4_62_g_1043   	"C_4_62_g_1043"	0.0000000000000000e+00
+zimpl	c    1196	C_4_62_a_1044   	"C_4_62_a_1044"	0.0000000000000000e+00
+zimpl	c    1197	C_4_62_b_1045   	"C_4_62_b_1045"	0.0000000000000000e+00
+zimpl	c    1198	C_4_62_c_1046   	"C_4_62_c_1046"	0.0000000000000000e+00
+zimpl	c    1199	C_4_62_d_1047   	"C_4_62_d_1047"	0.0000000000000000e+00
+zimpl	c    1200	C_4_62_e_1048   	"C_4_62_e_1048"	0.0000000000000000e+00
+zimpl	c    1201	C_4_62_f_1049   	"C_4_62_f_1049"	0.0000000000000000e+00
+zimpl	c    1202	C_4_62_g_1050   	"C_4_62_g_1050"	0.0000000000000000e+00
+zimpl	c    1203	C_4_62_a_1051   	"C_4_62_a_1051"	0.0000000000000000e+00
+zimpl	c    1204	C_4_62_b_1052   	"C_4_62_b_1052"	0.0000000000000000e+00
+zimpl	c    1205	C_4_62_c_1053   	"C_4_62_c_1053"	0.0000000000000000e+00
+zimpl	c    1206	C_4_62_t_r      	"C_4_62_t_r"	0.0000000000000000e+00
+zimpl	c    1207	C_4_62_t_l      	"C_4_62_t_l"	0.0000000000000000e+00
+zimpl	c    1208	C_4_63_a_1054   	"C_4_63_a_1054"	0.0000000000000000e+00
+zimpl	c    1209	C_4_63_b_1055   	"C_4_63_b_1055"	0.0000000000000000e+00
+zimpl	c    1210	C_4_63_c_1056   	"C_4_63_c_1056"	0.0000000000000000e+00
+zimpl	c    1211	C_4_63_d_1057   	"C_4_63_d_1057"	0.0000000000000000e+00
+zimpl	c    1212	C_4_63_e_1058   	"C_4_63_e_1058"	0.0000000000000000e+00
+zimpl	c    1213	C_4_63_f_1059   	"C_4_63_f_1059"	0.0000000000000000e+00
+zimpl	c    1214	C_4_63_g_1060   	"C_4_63_g_1060"	0.0000000000000000e+00
+zimpl	c    1215	C_4_63_a_1061   	"C_4_63_a_1061"	0.0000000000000000e+00
+zimpl	c    1216	C_4_63_b_1062   	"C_4_63_b_1062"	0.0000000000000000e+00
+zimpl	c    1217	C_4_63_c_1063   	"C_4_63_c_1063"	0.0000000000000000e+00
+zimpl	c    1218	C_4_63_d_1064   	"C_4_63_d_1064"	0.0000000000000000e+00
+zimpl	c    1219	C_4_63_e_1065   	"C_4_63_e_1065"	0.0000000000000000e+00
+zimpl	c    1220	C_4_63_f_1066   	"C_4_63_f_1066"	0.0000000000000000e+00
+zimpl	c    1221	C_4_63_g_1067   	"C_4_63_g_1067"	0.0000000000000000e+00
+zimpl	c    1222	C_4_63_a_1068   	"C_4_63_a_1068"	0.0000000000000000e+00
+zimpl	c    1223	C_4_63_b_1069   	"C_4_63_b_1069"	0.0000000000000000e+00
+zimpl	c    1224	C_4_63_c_1070   	"C_4_63_c_1070"	0.0000000000000000e+00
+zimpl	c    1225	C_4_63_t_r      	"C_4_63_t_r"	0.0000000000000000e+00
+zimpl	c    1226	C_4_63_t_l      	"C_4_63_t_l"	0.0000000000000000e+00
+zimpl	c    1227	C_4_64_a_1071   	"C_4_64_a_1071"	0.0000000000000000e+00
+zimpl	c    1228	C_4_64_b_1072   	"C_4_64_b_1072"	0.0000000000000000e+00
+zimpl	c    1229	C_4_64_c_1073   	"C_4_64_c_1073"	0.0000000000000000e+00
+zimpl	c    1230	C_4_64_d_1074   	"C_4_64_d_1074"	0.0000000000000000e+00
+zimpl	c    1231	C_4_64_e_1075   	"C_4_64_e_1075"	0.0000000000000000e+00
+zimpl	c    1232	C_4_64_f_1076   	"C_4_64_f_1076"	0.0000000000000000e+00
+zimpl	c    1233	C_4_64_g_1077   	"C_4_64_g_1077"	0.0000000000000000e+00
+zimpl	c    1234	C_4_64_a_1078   	"C_4_64_a_1078"	0.0000000000000000e+00
+zimpl	c    1235	C_4_64_b_1079   	"C_4_64_b_1079"	0.0000000000000000e+00
+zimpl	c    1236	C_4_64_c_1080   	"C_4_64_c_1080"	0.0000000000000000e+00
+zimpl	c    1237	C_4_64_d_1081   	"C_4_64_d_1081"	0.0000000000000000e+00
+zimpl	c    1238	C_4_64_e_1082   	"C_4_64_e_1082"	0.0000000000000000e+00
+zimpl	c    1239	C_4_64_f_1083   	"C_4_64_f_1083"	0.0000000000000000e+00
+zimpl	c    1240	C_4_64_g_1084   	"C_4_64_g_1084"	0.0000000000000000e+00
+zimpl	c    1241	C_4_64_a_1085   	"C_4_64_a_1085"	0.0000000000000000e+00
+zimpl	c    1242	C_4_64_b_1086   	"C_4_64_b_1086"	0.0000000000000000e+00
+zimpl	c    1243	C_4_64_c_1087   	"C_4_64_c_1087"	0.0000000000000000e+00
+zimpl	c    1244	C_4_64_t_r      	"C_4_64_t_r"	0.0000000000000000e+00
+zimpl	c    1245	C_4_64_t_l      	"C_4_64_t_l"	0.0000000000000000e+00
+zimpl	c    1246	C_4_65_a_1088   	"C_4_65_a_1088"	0.0000000000000000e+00
+zimpl	c    1247	C_4_65_b_1089   	"C_4_65_b_1089"	0.0000000000000000e+00
+zimpl	c    1248	C_4_65_c_1090   	"C_4_65_c_1090"	0.0000000000000000e+00
+zimpl	c    1249	C_4_65_d_1091   	"C_4_65_d_1091"	0.0000000000000000e+00
+zimpl	c    1250	C_4_65_e_1092   	"C_4_65_e_1092"	0.0000000000000000e+00
+zimpl	c    1251	C_4_65_f_1093   	"C_4_65_f_1093"	0.0000000000000000e+00
+zimpl	c    1252	C_4_65_g_1094   	"C_4_65_g_1094"	0.0000000000000000e+00
+zimpl	c    1253	C_4_65_a_1095   	"C_4_65_a_1095"	0.0000000000000000e+00
+zimpl	c    1254	C_4_65_b_1096   	"C_4_65_b_1096"	0.0000000000000000e+00
+zimpl	c    1255	C_4_65_c_1097   	"C_4_65_c_1097"	0.0000000000000000e+00
+zimpl	c    1256	C_4_65_d_1098   	"C_4_65_d_1098"	0.0000000000000000e+00
+zimpl	c    1257	C_4_65_e_1099   	"C_4_65_e_1099"	0.0000000000000000e+00
+zimpl	c    1258	C_4_65_f_1100   	"C_4_65_f_1100"	0.0000000000000000e+00
+zimpl	c    1259	C_4_65_g_1101   	"C_4_65_g_1101"	0.0000000000000000e+00
+zimpl	c    1260	C_4_65_a_1102   	"C_4_65_a_1102"	0.0000000000000000e+00
+zimpl	c    1261	C_4_65_b_1103   	"C_4_65_b_1103"	0.0000000000000000e+00
+zimpl	c    1262	C_4_65_c_1104   	"C_4_65_c_1104"	0.0000000000000000e+00
+zimpl	c    1263	C_4_65_t_r      	"C_4_65_t_r"	0.0000000000000000e+00
+zimpl	c    1264	C_4_65_t_l      	"C_4_65_t_l"	0.0000000000000000e+00
+zimpl	c    1265	C_4_66_a_1105   	"C_4_66_a_1105"	0.0000000000000000e+00
+zimpl	c    1266	C_4_66_b_1106   	"C_4_66_b_1106"	0.0000000000000000e+00
+zimpl	c    1267	C_4_66_c_1107   	"C_4_66_c_1107"	0.0000000000000000e+00
+zimpl	c    1268	C_4_66_d_1108   	"C_4_66_d_1108"	0.0000000000000000e+00
+zimpl	c    1269	C_4_66_e_1109   	"C_4_66_e_1109"	0.0000000000000000e+00
+zimpl	c    1270	C_4_66_f_1110   	"C_4_66_f_1110"	0.0000000000000000e+00
+zimpl	c    1271	C_4_66_g_1111   	"C_4_66_g_1111"	0.0000000000000000e+00
+zimpl	c    1272	C_4_66_a_1112   	"C_4_66_a_1112"	0.0000000000000000e+00
+zimpl	c    1273	C_4_66_b_1113   	"C_4_66_b_1113"	0.0000000000000000e+00
+zimpl	c    1274	C_4_66_c_1114   	"C_4_66_c_1114"	0.0000000000000000e+00
+zimpl	c    1275	C_4_66_d_1115   	"C_4_66_d_1115"	0.0000000000000000e+00
+zimpl	c    1276	C_4_66_e_1116   	"C_4_66_e_1116"	0.0000000000000000e+00
+zimpl	c    1277	C_4_66_f_1117   	"C_4_66_f_1117"	0.0000000000000000e+00
+zimpl	c    1278	C_4_66_g_1118   	"C_4_66_g_1118"	0.0000000000000000e+00
+zimpl	c    1279	C_4_66_a_1119   	"C_4_66_a_1119"	0.0000000000000000e+00
+zimpl	c    1280	C_4_66_b_1120   	"C_4_66_b_1120"	0.0000000000000000e+00
+zimpl	c    1281	C_4_66_c_1121   	"C_4_66_c_1121"	0.0000000000000000e+00
+zimpl	c    1282	C_4_66_t_r      	"C_4_66_t_r"	0.0000000000000000e+00
+zimpl	c    1283	C_4_66_t_l      	"C_4_66_t_l"	0.0000000000000000e+00
+zimpl	c    1284	C_4_67_a_1122   	"C_4_67_a_1122"	0.0000000000000000e+00
+zimpl	c    1285	C_4_67_b_1123   	"C_4_67_b_1123"	0.0000000000000000e+00
+zimpl	c    1286	C_4_67_c_1124   	"C_4_67_c_1124"	0.0000000000000000e+00
+zimpl	c    1287	C_4_67_d_1125   	"C_4_67_d_1125"	0.0000000000000000e+00
+zimpl	c    1288	C_4_67_e_1126   	"C_4_67_e_1126"	0.0000000000000000e+00
+zimpl	c    1289	C_4_67_f_1127   	"C_4_67_f_1127"	0.0000000000000000e+00
+zimpl	c    1290	C_4_67_g_1128   	"C_4_67_g_1128"	0.0000000000000000e+00
+zimpl	c    1291	C_4_67_a_1129   	"C_4_67_a_1129"	0.0000000000000000e+00
+zimpl	c    1292	C_4_67_b_1130   	"C_4_67_b_1130"	0.0000000000000000e+00
+zimpl	c    1293	C_4_67_c_1131   	"C_4_67_c_1131"	0.0000000000000000e+00
+zimpl	c    1294	C_4_67_d_1132   	"C_4_67_d_1132"	0.0000000000000000e+00
+zimpl	c    1295	C_4_67_e_1133   	"C_4_67_e_1133"	0.0000000000000000e+00
+zimpl	c    1296	C_4_67_f_1134   	"C_4_67_f_1134"	0.0000000000000000e+00
+zimpl	c    1297	C_4_67_g_1135   	"C_4_67_g_1135"	0.0000000000000000e+00
+zimpl	c    1298	C_4_67_a_1136   	"C_4_67_a_1136"	0.0000000000000000e+00
+zimpl	c    1299	C_4_67_b_1137   	"C_4_67_b_1137"	0.0000000000000000e+00
+zimpl	c    1300	C_4_67_c_1138   	"C_4_67_c_1138"	0.0000000000000000e+00
+zimpl	c    1301	C_4_67_t_r      	"C_4_67_t_r"	0.0000000000000000e+00
+zimpl	c    1302	C_4_67_t_l      	"C_4_67_t_l"	0.0000000000000000e+00
+zimpl	c    1303	C_4_68_a_1139   	"C_4_68_a_1139"	0.0000000000000000e+00
+zimpl	c    1304	C_4_68_b_1140   	"C_4_68_b_1140"	0.0000000000000000e+00
+zimpl	c    1305	C_4_68_c_1141   	"C_4_68_c_1141"	0.0000000000000000e+00
+zimpl	c    1306	C_4_68_d_1142   	"C_4_68_d_1142"	0.0000000000000000e+00
+zimpl	c    1307	C_4_68_e_1143   	"C_4_68_e_1143"	0.0000000000000000e+00
+zimpl	c    1308	C_4_68_f_1144   	"C_4_68_f_1144"	0.0000000000000000e+00
+zimpl	c    1309	C_4_68_g_1145   	"C_4_68_g_1145"	0.0000000000000000e+00
+zimpl	c    1310	C_4_68_a_1146   	"C_4_68_a_1146"	0.0000000000000000e+00
+zimpl	c    1311	C_4_68_b_1147   	"C_4_68_b_1147"	0.0000000000000000e+00
+zimpl	c    1312	C_4_68_c_1148   	"C_4_68_c_1148"	0.0000000000000000e+00
+zimpl	c    1313	C_4_68_d_1149   	"C_4_68_d_1149"	0.0000000000000000e+00
+zimpl	c    1314	C_4_68_e_1150   	"C_4_68_e_1150"	0.0000000000000000e+00
+zimpl	c    1315	C_4_68_f_1151   	"C_4_68_f_1151"	0.0000000000000000e+00
+zimpl	c    1316	C_4_68_g_1152   	"C_4_68_g_1152"	0.0000000000000000e+00
+zimpl	c    1317	C_4_68_a_1153   	"C_4_68_a_1153"	0.0000000000000000e+00
+zimpl	c    1318	C_4_68_b_1154   	"C_4_68_b_1154"	0.0000000000000000e+00
+zimpl	c    1319	C_4_68_c_1155   	"C_4_68_c_1155"	0.0000000000000000e+00
+zimpl	c    1320	C_4_68_t_r      	"C_4_68_t_r"	0.0000000000000000e+00
+zimpl	c    1321	C_4_68_t_l      	"C_4_68_t_l"	0.0000000000000000e+00
+zimpl	c    1322	C_4_69_a_1156   	"C_4_69_a_1156"	0.0000000000000000e+00
+zimpl	c    1323	C_4_69_b_1157   	"C_4_69_b_1157"	0.0000000000000000e+00
+zimpl	c    1324	C_4_69_c_1158   	"C_4_69_c_1158"	0.0000000000000000e+00
+zimpl	c    1325	C_4_69_d_1159   	"C_4_69_d_1159"	0.0000000000000000e+00
+zimpl	c    1326	C_4_69_e_1160   	"C_4_69_e_1160"	0.0000000000000000e+00
+zimpl	c    1327	C_4_69_f_1161   	"C_4_69_f_1161"	0.0000000000000000e+00
+zimpl	c    1328	C_4_69_g_1162   	"C_4_69_g_1162"	0.0000000000000000e+00
+zimpl	c    1329	C_4_69_a_1163   	"C_4_69_a_1163"	0.0000000000000000e+00
+zimpl	c    1330	C_4_69_b_1164   	"C_4_69_b_1164"	0.0000000000000000e+00
+zimpl	c    1331	C_4_69_c_1165   	"C_4_69_c_1165"	0.0000000000000000e+00
+zimpl	c    1332	C_4_69_d_1166   	"C_4_69_d_1166"	0.0000000000000000e+00
+zimpl	c    1333	C_4_69_e_1167   	"C_4_69_e_1167"	0.0000000000000000e+00
+zimpl	c    1334	C_4_69_f_1168   	"C_4_69_f_1168"	0.0000000000000000e+00
+zimpl	c    1335	C_4_69_g_1169   	"C_4_69_g_1169"	0.0000000000000000e+00
+zimpl	c    1336	C_4_69_a_1170   	"C_4_69_a_1170"	0.0000000000000000e+00
+zimpl	c    1337	C_4_69_b_1171   	"C_4_69_b_1171"	0.0000000000000000e+00
+zimpl	c    1338	C_4_69_c_1172   	"C_4_69_c_1172"	0.0000000000000000e+00
+zimpl	c    1339	C_4_69_t_r      	"C_4_69_t_r"	0.0000000000000000e+00
+zimpl	c    1340	C_4_69_t_l      	"C_4_69_t_l"	0.0000000000000000e+00
+zimpl	c    1341	C_4_70_a_1173   	"C_4_70_a_1173"	0.0000000000000000e+00
+zimpl	c    1342	C_4_70_b_1174   	"C_4_70_b_1174"	0.0000000000000000e+00
+zimpl	c    1343	C_4_70_c_1175   	"C_4_70_c_1175"	0.0000000000000000e+00
+zimpl	c    1344	C_4_70_d_1176   	"C_4_70_d_1176"	0.0000000000000000e+00
+zimpl	c    1345	C_4_70_e_1177   	"C_4_70_e_1177"	0.0000000000000000e+00
+zimpl	c    1346	C_4_70_f_1178   	"C_4_70_f_1178"	0.0000000000000000e+00
+zimpl	c    1347	C_4_70_g_1179   	"C_4_70_g_1179"	0.0000000000000000e+00
+zimpl	c    1348	C_4_70_a_1180   	"C_4_70_a_1180"	0.0000000000000000e+00
+zimpl	c    1349	C_4_70_b_1181   	"C_4_70_b_1181"	0.0000000000000000e+00
+zimpl	c    1350	C_4_70_c_1182   	"C_4_70_c_1182"	0.0000000000000000e+00
+zimpl	c    1351	C_4_70_d_1183   	"C_4_70_d_1183"	0.0000000000000000e+00
+zimpl	c    1352	C_4_70_e_1184   	"C_4_70_e_1184"	0.0000000000000000e+00
+zimpl	c    1353	C_4_70_f_1185   	"C_4_70_f_1185"	0.0000000000000000e+00
+zimpl	c    1354	C_4_70_g_1186   	"C_4_70_g_1186"	0.0000000000000000e+00
+zimpl	c    1355	C_4_70_a_1187   	"C_4_70_a_1187"	0.0000000000000000e+00
+zimpl	c    1356	C_4_70_b_1188   	"C_4_70_b_1188"	0.0000000000000000e+00
+zimpl	c    1357	C_4_70_c_1189   	"C_4_70_c_1189"	0.0000000000000000e+00
+zimpl	c    1358	C_4_70_t_r      	"C_4_70_t_r"	0.0000000000000000e+00
+zimpl	c    1359	C_4_70_t_l      	"C_4_70_t_l"	0.0000000000000000e+00
+zimpl	c    1360	C_4_71_a_1190   	"C_4_71_a_1190"	0.0000000000000000e+00
+zimpl	c    1361	C_4_71_b_1191   	"C_4_71_b_1191"	0.0000000000000000e+00
+zimpl	c    1362	C_4_71_c_1192   	"C_4_71_c_1192"	0.0000000000000000e+00
+zimpl	c    1363	C_4_71_d_1193   	"C_4_71_d_1193"	0.0000000000000000e+00
+zimpl	c    1364	C_4_71_e_1194   	"C_4_71_e_1194"	0.0000000000000000e+00
+zimpl	c    1365	C_4_71_f_1195   	"C_4_71_f_1195"	0.0000000000000000e+00
+zimpl	c    1366	C_4_71_g_1196   	"C_4_71_g_1196"	0.0000000000000000e+00
+zimpl	c    1367	C_4_71_a_1197   	"C_4_71_a_1197"	0.0000000000000000e+00
+zimpl	c    1368	C_4_71_b_1198   	"C_4_71_b_1198"	0.0000000000000000e+00
+zimpl	c    1369	C_4_71_c_1199   	"C_4_71_c_1199"	0.0000000000000000e+00
+zimpl	c    1370	C_4_71_d_1200   	"C_4_71_d_1200"	0.0000000000000000e+00
+zimpl	c    1371	C_4_71_e_1201   	"C_4_71_e_1201"	0.0000000000000000e+00
+zimpl	c    1372	C_4_71_f_1202   	"C_4_71_f_1202"	0.0000000000000000e+00
+zimpl	c    1373	C_4_71_g_1203   	"C_4_71_g_1203"	0.0000000000000000e+00
+zimpl	c    1374	C_4_71_a_1204   	"C_4_71_a_1204"	0.0000000000000000e+00
+zimpl	c    1375	C_4_71_b_1205   	"C_4_71_b_1205"	0.0000000000000000e+00
+zimpl	c    1376	C_4_71_c_1206   	"C_4_71_c_1206"	0.0000000000000000e+00
+zimpl	c    1377	C_4_71_t_r      	"C_4_71_t_r"	0.0000000000000000e+00
+zimpl	c    1378	C_4_71_t_l      	"C_4_71_t_l"	0.0000000000000000e+00
+zimpl	c    1379	C_4_72_a_1207   	"C_4_72_a_1207"	0.0000000000000000e+00
+zimpl	c    1380	C_4_72_b_1208   	"C_4_72_b_1208"	0.0000000000000000e+00
+zimpl	c    1381	C_4_72_c_1209   	"C_4_72_c_1209"	0.0000000000000000e+00
+zimpl	c    1382	C_4_72_d_1210   	"C_4_72_d_1210"	0.0000000000000000e+00
+zimpl	c    1383	C_4_72_e_1211   	"C_4_72_e_1211"	0.0000000000000000e+00
+zimpl	c    1384	C_4_72_f_1212   	"C_4_72_f_1212"	0.0000000000000000e+00
+zimpl	c    1385	C_4_72_g_1213   	"C_4_72_g_1213"	0.0000000000000000e+00
+zimpl	c    1386	C_4_72_a_1214   	"C_4_72_a_1214"	0.0000000000000000e+00
+zimpl	c    1387	C_4_72_b_1215   	"C_4_72_b_1215"	0.0000000000000000e+00
+zimpl	c    1388	C_4_72_c_1216   	"C_4_72_c_1216"	0.0000000000000000e+00
+zimpl	c    1389	C_4_72_d_1217   	"C_4_72_d_1217"	0.0000000000000000e+00
+zimpl	c    1390	C_4_72_e_1218   	"C_4_72_e_1218"	0.0000000000000000e+00
+zimpl	c    1391	C_4_72_f_1219   	"C_4_72_f_1219"	0.0000000000000000e+00
+zimpl	c    1392	C_4_72_g_1220   	"C_4_72_g_1220"	0.0000000000000000e+00
+zimpl	c    1393	C_4_72_a_1221   	"C_4_72_a_1221"	0.0000000000000000e+00
+zimpl	c    1394	C_4_72_b_1222   	"C_4_72_b_1222"	0.0000000000000000e+00
+zimpl	c    1395	C_4_72_c_1223   	"C_4_72_c_1223"	0.0000000000000000e+00
+zimpl	c    1396	C_4_72_t_r      	"C_4_72_t_r"	0.0000000000000000e+00
+zimpl	c    1397	C_4_72_t_l      	"C_4_72_t_l"	0.0000000000000000e+00
+zimpl	c    1398	C_4_73_a_1224   	"C_4_73_a_1224"	0.0000000000000000e+00
+zimpl	c    1399	C_4_73_b_1225   	"C_4_73_b_1225"	0.0000000000000000e+00
+zimpl	c    1400	C_4_73_c_1226   	"C_4_73_c_1226"	0.0000000000000000e+00
+zimpl	c    1401	C_4_73_d_1227   	"C_4_73_d_1227"	0.0000000000000000e+00
+zimpl	c    1402	C_4_73_e_1228   	"C_4_73_e_1228"	0.0000000000000000e+00
+zimpl	c    1403	C_4_73_f_1229   	"C_4_73_f_1229"	0.0000000000000000e+00
+zimpl	c    1404	C_4_73_g_1230   	"C_4_73_g_1230"	0.0000000000000000e+00
+zimpl	c    1405	C_4_73_a_1231   	"C_4_73_a_1231"	0.0000000000000000e+00
+zimpl	c    1406	C_4_73_b_1232   	"C_4_73_b_1232"	0.0000000000000000e+00
+zimpl	c    1407	C_4_73_c_1233   	"C_4_73_c_1233"	0.0000000000000000e+00
+zimpl	c    1408	C_4_73_d_1234   	"C_4_73_d_1234"	0.0000000000000000e+00
+zimpl	c    1409	C_4_73_e_1235   	"C_4_73_e_1235"	0.0000000000000000e+00
+zimpl	c    1410	C_4_73_f_1236   	"C_4_73_f_1236"	0.0000000000000000e+00
+zimpl	c    1411	C_4_73_g_1237   	"C_4_73_g_1237"	0.0000000000000000e+00
+zimpl	c    1412	C_4_73_a_1238   	"C_4_73_a_1238"	0.0000000000000000e+00
+zimpl	c    1413	C_4_73_b_1239   	"C_4_73_b_1239"	0.0000000000000000e+00
+zimpl	c    1414	C_4_73_c_1240   	"C_4_73_c_1240"	0.0000000000000000e+00
+zimpl	c    1415	C_4_73_t_r      	"C_4_73_t_r"	0.0000000000000000e+00
+zimpl	c    1416	C_4_73_t_l      	"C_4_73_t_l"	0.0000000000000000e+00
+zimpl	c    1417	C_4_74_a_1241   	"C_4_74_a_1241"	0.0000000000000000e+00
+zimpl	c    1418	C_4_74_b_1242   	"C_4_74_b_1242"	0.0000000000000000e+00
+zimpl	c    1419	C_4_74_c_1243   	"C_4_74_c_1243"	0.0000000000000000e+00
+zimpl	c    1420	C_4_74_d_1244   	"C_4_74_d_1244"	0.0000000000000000e+00
+zimpl	c    1421	C_4_74_e_1245   	"C_4_74_e_1245"	0.0000000000000000e+00
+zimpl	c    1422	C_4_74_f_1246   	"C_4_74_f_1246"	0.0000000000000000e+00
+zimpl	c    1423	C_4_74_g_1247   	"C_4_74_g_1247"	0.0000000000000000e+00
+zimpl	c    1424	C_4_74_a_1248   	"C_4_74_a_1248"	0.0000000000000000e+00
+zimpl	c    1425	C_4_74_b_1249   	"C_4_74_b_1249"	0.0000000000000000e+00
+zimpl	c    1426	C_4_74_c_1250   	"C_4_74_c_1250"	0.0000000000000000e+00
+zimpl	c    1427	C_4_74_d_1251   	"C_4_74_d_1251"	0.0000000000000000e+00
+zimpl	c    1428	C_4_74_e_1252   	"C_4_74_e_1252"	0.0000000000000000e+00
+zimpl	c    1429	C_4_74_f_1253   	"C_4_74_f_1253"	0.0000000000000000e+00
+zimpl	c    1430	C_4_74_g_1254   	"C_4_74_g_1254"	0.0000000000000000e+00
+zimpl	c    1431	C_4_74_a_1255   	"C_4_74_a_1255"	0.0000000000000000e+00
+zimpl	c    1432	C_4_74_b_1256   	"C_4_74_b_1256"	0.0000000000000000e+00
+zimpl	c    1433	C_4_74_c_1257   	"C_4_74_c_1257"	0.0000000000000000e+00
+zimpl	c    1434	C_4_74_t_r      	"C_4_74_t_r"	0.0000000000000000e+00
+zimpl	c    1435	C_4_74_t_l      	"C_4_74_t_l"	0.0000000000000000e+00
+zimpl	c    1436	C_4_75_a_1258   	"C_4_75_a_1258"	0.0000000000000000e+00
+zimpl	c    1437	C_4_75_b_1259   	"C_4_75_b_1259"	0.0000000000000000e+00
+zimpl	c    1438	C_4_75_c_1260   	"C_4_75_c_1260"	0.0000000000000000e+00
+zimpl	c    1439	C_4_75_d_1261   	"C_4_75_d_1261"	0.0000000000000000e+00
+zimpl	c    1440	C_4_75_e_1262   	"C_4_75_e_1262"	0.0000000000000000e+00
+zimpl	c    1441	C_4_75_f_1263   	"C_4_75_f_1263"	0.0000000000000000e+00
+zimpl	c    1442	C_4_75_g_1264   	"C_4_75_g_1264"	0.0000000000000000e+00
+zimpl	c    1443	C_4_75_a_1265   	"C_4_75_a_1265"	0.0000000000000000e+00
+zimpl	c    1444	C_4_75_b_1266   	"C_4_75_b_1266"	0.0000000000000000e+00
+zimpl	c    1445	C_4_75_c_1267   	"C_4_75_c_1267"	0.0000000000000000e+00
+zimpl	c    1446	C_4_75_d_1268   	"C_4_75_d_1268"	0.0000000000000000e+00
+zimpl	c    1447	C_4_75_e_1269   	"C_4_75_e_1269"	0.0000000000000000e+00
+zimpl	c    1448	C_4_75_f_1270   	"C_4_75_f_1270"	0.0000000000000000e+00
+zimpl	c    1449	C_4_75_g_1271   	"C_4_75_g_1271"	0.0000000000000000e+00
+zimpl	c    1450	C_4_75_a_1272   	"C_4_75_a_1272"	0.0000000000000000e+00
+zimpl	c    1451	C_4_75_b_1273   	"C_4_75_b_1273"	0.0000000000000000e+00
+zimpl	c    1452	C_4_75_c_1274   	"C_4_75_c_1274"	0.0000000000000000e+00
+zimpl	c    1453	C_4_75_t_r      	"C_4_75_t_r"	0.0000000000000000e+00
+zimpl	c    1454	C_4_75_t_l      	"C_4_75_t_l"	0.0000000000000000e+00
+zimpl	c    1455	C_4_76_a_1275   	"C_4_76_a_1275"	0.0000000000000000e+00
+zimpl	c    1456	C_4_76_b_1276   	"C_4_76_b_1276"	0.0000000000000000e+00
+zimpl	c    1457	C_4_76_c_1277   	"C_4_76_c_1277"	0.0000000000000000e+00
+zimpl	c    1458	C_4_76_d_1278   	"C_4_76_d_1278"	0.0000000000000000e+00
+zimpl	c    1459	C_4_76_e_1279   	"C_4_76_e_1279"	0.0000000000000000e+00
+zimpl	c    1460	C_4_76_f_1280   	"C_4_76_f_1280"	0.0000000000000000e+00
+zimpl	c    1461	C_4_76_g_1281   	"C_4_76_g_1281"	0.0000000000000000e+00
+zimpl	c    1462	C_4_76_a_1282   	"C_4_76_a_1282"	0.0000000000000000e+00
+zimpl	c    1463	C_4_76_b_1283   	"C_4_76_b_1283"	0.0000000000000000e+00
+zimpl	c    1464	C_4_76_c_1284   	"C_4_76_c_1284"	0.0000000000000000e+00
+zimpl	c    1465	C_4_76_d_1285   	"C_4_76_d_1285"	0.0000000000000000e+00
+zimpl	c    1466	C_4_76_e_1286   	"C_4_76_e_1286"	0.0000000000000000e+00
+zimpl	c    1467	C_4_76_f_1287   	"C_4_76_f_1287"	0.0000000000000000e+00
+zimpl	c    1468	C_4_76_g_1288   	"C_4_76_g_1288"	0.0000000000000000e+00
+zimpl	c    1469	C_4_76_a_1289   	"C_4_76_a_1289"	0.0000000000000000e+00
+zimpl	c    1470	C_4_76_b_1290   	"C_4_76_b_1290"	0.0000000000000000e+00
+zimpl	c    1471	C_4_76_c_1291   	"C_4_76_c_1291"	0.0000000000000000e+00
+zimpl	c    1472	C_4_76_t_r      	"C_4_76_t_r"	0.0000000000000000e+00
+zimpl	c    1473	C_4_76_t_l      	"C_4_76_t_l"	0.0000000000000000e+00
+zimpl	c    1474	C_4_77_a_1292   	"C_4_77_a_1292"	0.0000000000000000e+00
+zimpl	c    1475	C_4_77_b_1293   	"C_4_77_b_1293"	0.0000000000000000e+00
+zimpl	c    1476	C_4_77_c_1294   	"C_4_77_c_1294"	0.0000000000000000e+00
+zimpl	c    1477	C_4_77_d_1295   	"C_4_77_d_1295"	0.0000000000000000e+00
+zimpl	c    1478	C_4_77_e_1296   	"C_4_77_e_1296"	0.0000000000000000e+00
+zimpl	c    1479	C_4_77_f_1297   	"C_4_77_f_1297"	0.0000000000000000e+00
+zimpl	c    1480	C_4_77_g_1298   	"C_4_77_g_1298"	0.0000000000000000e+00
+zimpl	c    1481	C_4_77_a_1299   	"C_4_77_a_1299"	0.0000000000000000e+00
+zimpl	c    1482	C_4_77_b_1300   	"C_4_77_b_1300"	0.0000000000000000e+00
+zimpl	c    1483	C_4_77_c_1301   	"C_4_77_c_1301"	0.0000000000000000e+00
+zimpl	c    1484	C_4_77_d_1302   	"C_4_77_d_1302"	0.0000000000000000e+00
+zimpl	c    1485	C_4_77_e_1303   	"C_4_77_e_1303"	0.0000000000000000e+00
+zimpl	c    1486	C_4_77_f_1304   	"C_4_77_f_1304"	0.0000000000000000e+00
+zimpl	c    1487	C_4_77_g_1305   	"C_4_77_g_1305"	0.0000000000000000e+00
+zimpl	c    1488	C_4_77_a_1306   	"C_4_77_a_1306"	0.0000000000000000e+00
+zimpl	c    1489	C_4_77_b_1307   	"C_4_77_b_1307"	0.0000000000000000e+00
+zimpl	c    1490	C_4_77_c_1308   	"C_4_77_c_1308"	0.0000000000000000e+00
+zimpl	c    1491	C_4_77_t_r      	"C_4_77_t_r"	0.0000000000000000e+00
+zimpl	c    1492	C_4_77_t_l      	"C_4_77_t_l"	0.0000000000000000e+00
+zimpl	c    1493	C_4_78_a_1309   	"C_4_78_a_1309"	0.0000000000000000e+00
+zimpl	c    1494	C_4_78_b_1310   	"C_4_78_b_1310"	0.0000000000000000e+00
+zimpl	c    1495	C_4_78_c_1311   	"C_4_78_c_1311"	0.0000000000000000e+00
+zimpl	c    1496	C_4_78_d_1312   	"C_4_78_d_1312"	0.0000000000000000e+00
+zimpl	c    1497	C_4_78_e_1313   	"C_4_78_e_1313"	0.0000000000000000e+00
+zimpl	c    1498	C_4_78_f_1314   	"C_4_78_f_1314"	0.0000000000000000e+00
+zimpl	c    1499	C_4_78_g_1315   	"C_4_78_g_1315"	0.0000000000000000e+00
+zimpl	c    1500	C_4_78_a_1316   	"C_4_78_a_1316"	0.0000000000000000e+00
+zimpl	c    1501	C_4_78_b_1317   	"C_4_78_b_1317"	0.0000000000000000e+00
+zimpl	c    1502	C_4_78_c_1318   	"C_4_78_c_1318"	0.0000000000000000e+00
+zimpl	c    1503	C_4_78_d_1319   	"C_4_78_d_1319"	0.0000000000000000e+00
+zimpl	c    1504	C_4_78_e_1320   	"C_4_78_e_1320"	0.0000000000000000e+00
+zimpl	c    1505	C_4_78_f_1321   	"C_4_78_f_1321"	0.0000000000000000e+00
+zimpl	c    1506	C_4_78_g_1322   	"C_4_78_g_1322"	0.0000000000000000e+00
+zimpl	c    1507	C_4_78_a_1323   	"C_4_78_a_1323"	0.0000000000000000e+00
+zimpl	c    1508	C_4_78_b_1324   	"C_4_78_b_1324"	0.0000000000000000e+00
+zimpl	c    1509	C_4_78_c_1325   	"C_4_78_c_1325"	0.0000000000000000e+00
+zimpl	c    1510	C_4_78_t_r      	"C_4_78_t_r"	0.0000000000000000e+00
+zimpl	c    1511	C_4_78_t_l      	"C_4_78_t_l"	0.0000000000000000e+00
+zimpl	c    1512	C_4_79_a_1326   	"C_4_79_a_1326"	0.0000000000000000e+00
+zimpl	c    1513	C_4_79_b_1327   	"C_4_79_b_1327"	0.0000000000000000e+00
+zimpl	c    1514	C_4_79_c_1328   	"C_4_79_c_1328"	0.0000000000000000e+00
+zimpl	c    1515	C_4_79_d_1329   	"C_4_79_d_1329"	0.0000000000000000e+00
+zimpl	c    1516	C_4_79_e_1330   	"C_4_79_e_1330"	0.0000000000000000e+00
+zimpl	c    1517	C_4_79_f_1331   	"C_4_79_f_1331"	0.0000000000000000e+00
+zimpl	c    1518	C_4_79_g_1332   	"C_4_79_g_1332"	0.0000000000000000e+00
+zimpl	c    1519	C_4_79_a_1333   	"C_4_79_a_1333"	0.0000000000000000e+00
+zimpl	c    1520	C_4_79_b_1334   	"C_4_79_b_1334"	0.0000000000000000e+00
+zimpl	c    1521	C_4_79_c_1335   	"C_4_79_c_1335"	0.0000000000000000e+00
+zimpl	c    1522	C_4_79_d_1336   	"C_4_79_d_1336"	0.0000000000000000e+00
+zimpl	c    1523	C_4_79_e_1337   	"C_4_79_e_1337"	0.0000000000000000e+00
+zimpl	c    1524	C_4_79_f_1338   	"C_4_79_f_1338"	0.0000000000000000e+00
+zimpl	c    1525	C_4_79_g_1339   	"C_4_79_g_1339"	0.0000000000000000e+00
+zimpl	c    1526	C_4_79_a_1340   	"C_4_79_a_1340"	0.0000000000000000e+00
+zimpl	c    1527	C_4_79_b_1341   	"C_4_79_b_1341"	0.0000000000000000e+00
+zimpl	c    1528	C_4_79_c_1342   	"C_4_79_c_1342"	0.0000000000000000e+00
+zimpl	c    1529	C_4_79_t_r      	"C_4_79_t_r"	0.0000000000000000e+00
+zimpl	c    1530	C_4_79_t_l      	"C_4_79_t_l"	0.0000000000000000e+00
+zimpl	c    1531	C_4_80_a_1343   	"C_4_80_a_1343"	0.0000000000000000e+00
+zimpl	c    1532	C_4_80_b_1344   	"C_4_80_b_1344"	0.0000000000000000e+00
+zimpl	c    1533	C_4_80_c_1345   	"C_4_80_c_1345"	0.0000000000000000e+00
+zimpl	c    1534	C_4_80_d_1346   	"C_4_80_d_1346"	0.0000000000000000e+00
+zimpl	c    1535	C_4_80_e_1347   	"C_4_80_e_1347"	0.0000000000000000e+00
+zimpl	c    1536	C_4_80_f_1348   	"C_4_80_f_1348"	0.0000000000000000e+00
+zimpl	c    1537	C_4_80_g_1349   	"C_4_80_g_1349"	0.0000000000000000e+00
+zimpl	c    1538	C_4_80_a_1350   	"C_4_80_a_1350"	0.0000000000000000e+00
+zimpl	c    1539	C_4_80_b_1351   	"C_4_80_b_1351"	0.0000000000000000e+00
+zimpl	c    1540	C_4_80_c_1352   	"C_4_80_c_1352"	0.0000000000000000e+00
+zimpl	c    1541	C_4_80_d_1353   	"C_4_80_d_1353"	0.0000000000000000e+00
+zimpl	c    1542	C_4_80_e_1354   	"C_4_80_e_1354"	0.0000000000000000e+00
+zimpl	c    1543	C_4_80_f_1355   	"C_4_80_f_1355"	0.0000000000000000e+00
+zimpl	c    1544	C_4_80_g_1356   	"C_4_80_g_1356"	0.0000000000000000e+00
+zimpl	c    1545	C_4_80_a_1357   	"C_4_80_a_1357"	0.0000000000000000e+00
+zimpl	c    1546	C_4_80_b_1358   	"C_4_80_b_1358"	0.0000000000000000e+00
+zimpl	c    1547	C_4_80_c_1359   	"C_4_80_c_1359"	0.0000000000000000e+00
+zimpl	c    1548	C_4_80_t_r      	"C_4_80_t_r"	0.0000000000000000e+00
+zimpl	c    1549	C_4_80_t_l      	"C_4_80_t_l"	0.0000000000000000e+00
+zimpl	c    1550	C_4_81_a_1360   	"C_4_81_a_1360"	0.0000000000000000e+00
+zimpl	c    1551	C_4_81_b_1361   	"C_4_81_b_1361"	0.0000000000000000e+00
+zimpl	c    1552	C_4_81_c_1362   	"C_4_81_c_1362"	0.0000000000000000e+00
+zimpl	c    1553	C_4_81_d_1363   	"C_4_81_d_1363"	0.0000000000000000e+00
+zimpl	c    1554	C_4_81_e_1364   	"C_4_81_e_1364"	0.0000000000000000e+00
+zimpl	c    1555	C_4_81_f_1365   	"C_4_81_f_1365"	0.0000000000000000e+00
+zimpl	c    1556	C_4_81_g_1366   	"C_4_81_g_1366"	0.0000000000000000e+00
+zimpl	c    1557	C_4_81_a_1367   	"C_4_81_a_1367"	0.0000000000000000e+00
+zimpl	c    1558	C_4_81_b_1368   	"C_4_81_b_1368"	0.0000000000000000e+00
+zimpl	c    1559	C_4_81_c_1369   	"C_4_81_c_1369"	0.0000000000000000e+00
+zimpl	c    1560	C_4_81_d_1370   	"C_4_81_d_1370"	0.0000000000000000e+00
+zimpl	c    1561	C_4_81_e_1371   	"C_4_81_e_1371"	0.0000000000000000e+00
+zimpl	c    1562	C_4_81_f_1372   	"C_4_81_f_1372"	0.0000000000000000e+00
+zimpl	c    1563	C_4_81_g_1373   	"C_4_81_g_1373"	0.0000000000000000e+00
+zimpl	c    1564	C_4_81_a_1374   	"C_4_81_a_1374"	0.0000000000000000e+00
+zimpl	c    1565	C_4_81_b_1375   	"C_4_81_b_1375"	0.0000000000000000e+00
+zimpl	c    1566	C_4_81_c_1376   	"C_4_81_c_1376"	0.0000000000000000e+00
+zimpl	c    1567	C_4_81_t_r      	"C_4_81_t_r"	0.0000000000000000e+00
+zimpl	c    1568	C_4_81_t_l      	"C_4_81_t_l"	0.0000000000000000e+00
+zimpl	c    1569	C_4_82_a_1377   	"C_4_82_a_1377"	0.0000000000000000e+00
+zimpl	c    1570	C_4_82_b_1378   	"C_4_82_b_1378"	0.0000000000000000e+00
+zimpl	c    1571	C_4_82_c_1379   	"C_4_82_c_1379"	0.0000000000000000e+00
+zimpl	c    1572	C_4_82_d_1380   	"C_4_82_d_1380"	0.0000000000000000e+00
+zimpl	c    1573	C_4_82_e_1381   	"C_4_82_e_1381"	0.0000000000000000e+00
+zimpl	c    1574	C_4_82_f_1382   	"C_4_82_f_1382"	0.0000000000000000e+00
+zimpl	c    1575	C_4_82_g_1383   	"C_4_82_g_1383"	0.0000000000000000e+00
+zimpl	c    1576	C_4_82_a_1384   	"C_4_82_a_1384"	0.0000000000000000e+00
+zimpl	c    1577	C_4_82_b_1385   	"C_4_82_b_1385"	0.0000000000000000e+00
+zimpl	c    1578	C_4_82_c_1386   	"C_4_82_c_1386"	0.0000000000000000e+00
+zimpl	c    1579	C_4_82_d_1387   	"C_4_82_d_1387"	0.0000000000000000e+00
+zimpl	c    1580	C_4_82_e_1388   	"C_4_82_e_1388"	0.0000000000000000e+00
+zimpl	c    1581	C_4_82_f_1389   	"C_4_82_f_1389"	0.0000000000000000e+00
+zimpl	c    1582	C_4_82_g_1390   	"C_4_82_g_1390"	0.0000000000000000e+00
+zimpl	c    1583	C_4_82_a_1391   	"C_4_82_a_1391"	0.0000000000000000e+00
+zimpl	c    1584	C_4_82_b_1392   	"C_4_82_b_1392"	0.0000000000000000e+00
+zimpl	c    1585	C_4_82_c_1393   	"C_4_82_c_1393"	0.0000000000000000e+00
+zimpl	c    1586	C_4_82_t_r      	"C_4_82_t_r"	0.0000000000000000e+00
+zimpl	c    1587	C_4_82_t_l      	"C_4_82_t_l"	0.0000000000000000e+00
+zimpl	c    1588	C_4_83_a_1394   	"C_4_83_a_1394"	0.0000000000000000e+00
+zimpl	c    1589	C_4_83_b_1395   	"C_4_83_b_1395"	0.0000000000000000e+00
+zimpl	c    1590	C_4_83_c_1396   	"C_4_83_c_1396"	0.0000000000000000e+00
+zimpl	c    1591	C_4_83_d_1397   	"C_4_83_d_1397"	0.0000000000000000e+00
+zimpl	c    1592	C_4_83_e_1398   	"C_4_83_e_1398"	0.0000000000000000e+00
+zimpl	c    1593	C_4_83_f_1399   	"C_4_83_f_1399"	0.0000000000000000e+00
+zimpl	c    1594	C_4_83_g_1400   	"C_4_83_g_1400"	0.0000000000000000e+00
+zimpl	c    1595	C_4_83_a_1401   	"C_4_83_a_1401"	0.0000000000000000e+00
+zimpl	c    1596	C_4_83_b_1402   	"C_4_83_b_1402"	0.0000000000000000e+00
+zimpl	c    1597	C_4_83_c_1403   	"C_4_83_c_1403"	0.0000000000000000e+00
+zimpl	c    1598	C_4_83_d_1404   	"C_4_83_d_1404"	0.0000000000000000e+00
+zimpl	c    1599	C_4_83_e_1405   	"C_4_83_e_1405"	0.0000000000000000e+00
+zimpl	c    1600	C_4_83_f_1406   	"C_4_83_f_1406"	0.0000000000000000e+00
+zimpl	c    1601	C_4_83_g_1407   	"C_4_83_g_1407"	0.0000000000000000e+00
+zimpl	c    1602	C_4_83_a_1408   	"C_4_83_a_1408"	0.0000000000000000e+00
+zimpl	c    1603	C_4_83_b_1409   	"C_4_83_b_1409"	0.0000000000000000e+00
+zimpl	c    1604	C_4_83_c_1410   	"C_4_83_c_1410"	0.0000000000000000e+00
+zimpl	c    1605	C_4_83_t_r      	"C_4_83_t_r"	0.0000000000000000e+00
+zimpl	c    1606	C_4_83_t_l      	"C_4_83_t_l"	0.0000000000000000e+00
+zimpl	c    1607	C_4_84_a_1411   	"C_4_84_a_1411"	0.0000000000000000e+00
+zimpl	c    1608	C_4_84_b_1412   	"C_4_84_b_1412"	0.0000000000000000e+00
+zimpl	c    1609	C_4_84_c_1413   	"C_4_84_c_1413"	0.0000000000000000e+00
+zimpl	c    1610	C_4_84_d_1414   	"C_4_84_d_1414"	0.0000000000000000e+00
+zimpl	c    1611	C_4_84_e_1415   	"C_4_84_e_1415"	0.0000000000000000e+00
+zimpl	c    1612	C_4_84_f_1416   	"C_4_84_f_1416"	0.0000000000000000e+00
+zimpl	c    1613	C_4_84_g_1417   	"C_4_84_g_1417"	0.0000000000000000e+00
+zimpl	c    1614	C_4_84_a_1418   	"C_4_84_a_1418"	0.0000000000000000e+00
+zimpl	c    1615	C_4_84_b_1419   	"C_4_84_b_1419"	0.0000000000000000e+00
+zimpl	c    1616	C_4_84_c_1420   	"C_4_84_c_1420"	0.0000000000000000e+00
+zimpl	c    1617	C_4_84_d_1421   	"C_4_84_d_1421"	0.0000000000000000e+00
+zimpl	c    1618	C_4_84_e_1422   	"C_4_84_e_1422"	0.0000000000000000e+00
+zimpl	c    1619	C_4_84_f_1423   	"C_4_84_f_1423"	0.0000000000000000e+00
+zimpl	c    1620	C_4_84_g_1424   	"C_4_84_g_1424"	0.0000000000000000e+00
+zimpl	c    1621	C_4_84_a_1425   	"C_4_84_a_1425"	0.0000000000000000e+00
+zimpl	c    1622	C_4_84_b_1426   	"C_4_84_b_1426"	0.0000000000000000e+00
+zimpl	c    1623	C_4_84_c_1427   	"C_4_84_c_1427"	0.0000000000000000e+00
+zimpl	c    1624	C_4_84_t_r      	"C_4_84_t_r"	0.0000000000000000e+00
+zimpl	c    1625	C_4_84_t_l      	"C_4_84_t_l"	0.0000000000000000e+00
+zimpl	c    1626	C_4_85_a_1428   	"C_4_85_a_1428"	0.0000000000000000e+00
+zimpl	c    1627	C_4_85_b_1429   	"C_4_85_b_1429"	0.0000000000000000e+00
+zimpl	c    1628	C_4_85_c_1430   	"C_4_85_c_1430"	0.0000000000000000e+00
+zimpl	c    1629	C_4_85_d_1431   	"C_4_85_d_1431"	0.0000000000000000e+00
+zimpl	c    1630	C_4_85_e_1432   	"C_4_85_e_1432"	0.0000000000000000e+00
+zimpl	c    1631	C_4_85_f_1433   	"C_4_85_f_1433"	0.0000000000000000e+00
+zimpl	c    1632	C_4_85_g_1434   	"C_4_85_g_1434"	0.0000000000000000e+00
+zimpl	c    1633	C_4_85_a_1435   	"C_4_85_a_1435"	0.0000000000000000e+00
+zimpl	c    1634	C_4_85_b_1436   	"C_4_85_b_1436"	0.0000000000000000e+00
+zimpl	c    1635	C_4_85_c_1437   	"C_4_85_c_1437"	0.0000000000000000e+00
+zimpl	c    1636	C_4_85_d_1438   	"C_4_85_d_1438"	0.0000000000000000e+00
+zimpl	c    1637	C_4_85_e_1439   	"C_4_85_e_1439"	0.0000000000000000e+00
+zimpl	c    1638	C_4_85_f_1440   	"C_4_85_f_1440"	0.0000000000000000e+00
+zimpl	c    1639	C_4_85_g_1441   	"C_4_85_g_1441"	0.0000000000000000e+00
+zimpl	c    1640	C_4_85_a_1442   	"C_4_85_a_1442"	0.0000000000000000e+00
+zimpl	c    1641	C_4_85_b_1443   	"C_4_85_b_1443"	0.0000000000000000e+00
+zimpl	c    1642	C_4_85_c_1444   	"C_4_85_c_1444"	0.0000000000000000e+00
+zimpl	c    1643	C_4_85_t_r      	"C_4_85_t_r"	0.0000000000000000e+00
+zimpl	c    1644	C_4_85_t_l      	"C_4_85_t_l"	0.0000000000000000e+00
+zimpl	c    1645	C_4_86_a_1445   	"C_4_86_a_1445"	0.0000000000000000e+00
+zimpl	c    1646	C_4_86_b_1446   	"C_4_86_b_1446"	0.0000000000000000e+00
+zimpl	c    1647	C_4_86_c_1447   	"C_4_86_c_1447"	0.0000000000000000e+00
+zimpl	c    1648	C_4_86_d_1448   	"C_4_86_d_1448"	0.0000000000000000e+00
+zimpl	c    1649	C_4_86_e_1449   	"C_4_86_e_1449"	0.0000000000000000e+00
+zimpl	c    1650	C_4_86_f_1450   	"C_4_86_f_1450"	0.0000000000000000e+00
+zimpl	c    1651	C_4_86_g_1451   	"C_4_86_g_1451"	0.0000000000000000e+00
+zimpl	c    1652	C_4_86_a_1452   	"C_4_86_a_1452"	0.0000000000000000e+00
+zimpl	c    1653	C_4_86_b_1453   	"C_4_86_b_1453"	0.0000000000000000e+00
+zimpl	c    1654	C_4_86_c_1454   	"C_4_86_c_1454"	0.0000000000000000e+00
+zimpl	c    1655	C_4_86_d_1455   	"C_4_86_d_1455"	0.0000000000000000e+00
+zimpl	c    1656	C_4_86_e_1456   	"C_4_86_e_1456"	0.0000000000000000e+00
+zimpl	c    1657	C_4_86_f_1457   	"C_4_86_f_1457"	0.0000000000000000e+00
+zimpl	c    1658	C_4_86_g_1458   	"C_4_86_g_1458"	0.0000000000000000e+00
+zimpl	c    1659	C_4_86_a_1459   	"C_4_86_a_1459"	0.0000000000000000e+00
+zimpl	c    1660	C_4_86_b_1460   	"C_4_86_b_1460"	0.0000000000000000e+00
+zimpl	c    1661	C_4_86_c_1461   	"C_4_86_c_1461"	0.0000000000000000e+00
+zimpl	c    1662	C_4_86_t_r      	"C_4_86_t_r"	0.0000000000000000e+00
+zimpl	c    1663	C_4_86_t_l      	"C_4_86_t_l"	0.0000000000000000e+00
+zimpl	c    1664	C_4_87_a_1462   	"C_4_87_a_1462"	0.0000000000000000e+00
+zimpl	c    1665	C_4_87_b_1463   	"C_4_87_b_1463"	0.0000000000000000e+00
+zimpl	c    1666	C_4_87_c_1464   	"C_4_87_c_1464"	0.0000000000000000e+00
+zimpl	c    1667	C_4_87_d_1465   	"C_4_87_d_1465"	0.0000000000000000e+00
+zimpl	c    1668	C_4_87_e_1466   	"C_4_87_e_1466"	0.0000000000000000e+00
+zimpl	c    1669	C_4_87_f_1467   	"C_4_87_f_1467"	0.0000000000000000e+00
+zimpl	c    1670	C_4_87_g_1468   	"C_4_87_g_1468"	0.0000000000000000e+00
+zimpl	c    1671	C_4_87_a_1469   	"C_4_87_a_1469"	0.0000000000000000e+00
+zimpl	c    1672	C_4_87_b_1470   	"C_4_87_b_1470"	0.0000000000000000e+00
+zimpl	c    1673	C_4_87_c_1471   	"C_4_87_c_1471"	0.0000000000000000e+00
+zimpl	c    1674	C_4_87_d_1472   	"C_4_87_d_1472"	0.0000000000000000e+00
+zimpl	c    1675	C_4_87_e_1473   	"C_4_87_e_1473"	0.0000000000000000e+00
+zimpl	c    1676	C_4_87_f_1474   	"C_4_87_f_1474"	0.0000000000000000e+00
+zimpl	c    1677	C_4_87_g_1475   	"C_4_87_g_1475"	0.0000000000000000e+00
+zimpl	c    1678	C_4_87_a_1476   	"C_4_87_a_1476"	0.0000000000000000e+00
+zimpl	c    1679	C_4_87_b_1477   	"C_4_87_b_1477"	0.0000000000000000e+00
+zimpl	c    1680	C_4_87_c_1478   	"C_4_87_c_1478"	0.0000000000000000e+00
+zimpl	c    1681	C_4_87_t_r      	"C_4_87_t_r"	0.0000000000000000e+00
+zimpl	c    1682	C_4_87_t_l      	"C_4_87_t_l"	0.0000000000000000e+00
+zimpl	c    1683	C_4_88_a_1479   	"C_4_88_a_1479"	0.0000000000000000e+00
+zimpl	c    1684	C_4_88_b_1480   	"C_4_88_b_1480"	0.0000000000000000e+00
+zimpl	c    1685	C_4_88_c_1481   	"C_4_88_c_1481"	0.0000000000000000e+00
+zimpl	c    1686	C_4_88_d_1482   	"C_4_88_d_1482"	0.0000000000000000e+00
+zimpl	c    1687	C_4_88_e_1483   	"C_4_88_e_1483"	0.0000000000000000e+00
+zimpl	c    1688	C_4_88_f_1484   	"C_4_88_f_1484"	0.0000000000000000e+00
+zimpl	c    1689	C_4_88_g_1485   	"C_4_88_g_1485"	0.0000000000000000e+00
+zimpl	c    1690	C_4_88_a_1486   	"C_4_88_a_1486"	0.0000000000000000e+00
+zimpl	c    1691	C_4_88_b_1487   	"C_4_88_b_1487"	0.0000000000000000e+00
+zimpl	c    1692	C_4_88_c_1488   	"C_4_88_c_1488"	0.0000000000000000e+00
+zimpl	c    1693	C_4_88_d_1489   	"C_4_88_d_1489"	0.0000000000000000e+00
+zimpl	c    1694	C_4_88_e_1490   	"C_4_88_e_1490"	0.0000000000000000e+00
+zimpl	c    1695	C_4_88_f_1491   	"C_4_88_f_1491"	0.0000000000000000e+00
+zimpl	c    1696	C_4_88_g_1492   	"C_4_88_g_1492"	0.0000000000000000e+00
+zimpl	c    1697	C_4_88_a_1493   	"C_4_88_a_1493"	0.0000000000000000e+00
+zimpl	c    1698	C_4_88_b_1494   	"C_4_88_b_1494"	0.0000000000000000e+00
+zimpl	c    1699	C_4_88_c_1495   	"C_4_88_c_1495"	0.0000000000000000e+00
+zimpl	c    1700	C_4_88_t_r      	"C_4_88_t_r"	0.0000000000000000e+00
+zimpl	c    1701	C_4_88_t_l      	"C_4_88_t_l"	0.0000000000000000e+00
+zimpl	c    1702	C_4_89_a_1496   	"C_4_89_a_1496"	0.0000000000000000e+00
+zimpl	c    1703	C_4_89_b_1497   	"C_4_89_b_1497"	0.0000000000000000e+00
+zimpl	c    1704	C_4_89_c_1498   	"C_4_89_c_1498"	0.0000000000000000e+00
+zimpl	c    1705	C_4_89_d_1499   	"C_4_89_d_1499"	0.0000000000000000e+00
+zimpl	c    1706	C_4_89_e_1500   	"C_4_89_e_1500"	0.0000000000000000e+00
+zimpl	c    1707	C_4_89_f_1501   	"C_4_89_f_1501"	0.0000000000000000e+00
+zimpl	c    1708	C_4_89_g_1502   	"C_4_89_g_1502"	0.0000000000000000e+00
+zimpl	c    1709	C_4_89_a_1503   	"C_4_89_a_1503"	0.0000000000000000e+00
+zimpl	c    1710	C_4_89_b_1504   	"C_4_89_b_1504"	0.0000000000000000e+00
+zimpl	c    1711	C_4_89_c_1505   	"C_4_89_c_1505"	0.0000000000000000e+00
+zimpl	c    1712	C_4_89_d_1506   	"C_4_89_d_1506"	0.0000000000000000e+00
+zimpl	c    1713	C_4_89_e_1507   	"C_4_89_e_1507"	0.0000000000000000e+00
+zimpl	c    1714	C_4_89_f_1508   	"C_4_89_f_1508"	0.0000000000000000e+00
+zimpl	c    1715	C_4_89_g_1509   	"C_4_89_g_1509"	0.0000000000000000e+00
+zimpl	c    1716	C_4_89_a_1510   	"C_4_89_a_1510"	0.0000000000000000e+00
+zimpl	c    1717	C_4_89_b_1511   	"C_4_89_b_1511"	0.0000000000000000e+00
+zimpl	c    1718	C_4_89_c_1512   	"C_4_89_c_1512"	0.0000000000000000e+00
+zimpl	c    1719	C_4_89_t_r      	"C_4_89_t_r"	0.0000000000000000e+00
+zimpl	c    1720	C_4_89_t_l      	"C_4_89_t_l"	0.0000000000000000e+00
+zimpl	c    1721	C_4_90_a_1513   	"C_4_90_a_1513"	0.0000000000000000e+00
+zimpl	c    1722	C_4_90_b_1514   	"C_4_90_b_1514"	0.0000000000000000e+00
+zimpl	c    1723	C_4_90_c_1515   	"C_4_90_c_1515"	0.0000000000000000e+00
+zimpl	c    1724	C_4_90_d_1516   	"C_4_90_d_1516"	0.0000000000000000e+00
+zimpl	c    1725	C_4_90_e_1517   	"C_4_90_e_1517"	0.0000000000000000e+00
+zimpl	c    1726	C_4_90_f_1518   	"C_4_90_f_1518"	0.0000000000000000e+00
+zimpl	c    1727	C_4_90_g_1519   	"C_4_90_g_1519"	0.0000000000000000e+00
+zimpl	c    1728	C_4_90_a_1520   	"C_4_90_a_1520"	0.0000000000000000e+00
+zimpl	c    1729	C_4_90_b_1521   	"C_4_90_b_1521"	0.0000000000000000e+00
+zimpl	c    1730	C_4_90_c_1522   	"C_4_90_c_1522"	0.0000000000000000e+00
+zimpl	c    1731	C_4_90_d_1523   	"C_4_90_d_1523"	0.0000000000000000e+00
+zimpl	c    1732	C_4_90_e_1524   	"C_4_90_e_1524"	0.0000000000000000e+00
+zimpl	c    1733	C_4_90_f_1525   	"C_4_90_f_1525"	0.0000000000000000e+00
+zimpl	c    1734	C_4_90_g_1526   	"C_4_90_g_1526"	0.0000000000000000e+00
+zimpl	c    1735	C_4_90_a_1527   	"C_4_90_a_1527"	0.0000000000000000e+00
+zimpl	c    1736	C_4_90_b_1528   	"C_4_90_b_1528"	0.0000000000000000e+00
+zimpl	c    1737	C_4_90_c_1529   	"C_4_90_c_1529"	0.0000000000000000e+00
+zimpl	c    1738	C_4_90_t_r      	"C_4_90_t_r"	0.0000000000000000e+00
+zimpl	c    1739	C_4_90_t_l      	"C_4_90_t_l"	0.0000000000000000e+00
